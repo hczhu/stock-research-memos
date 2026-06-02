@@ -1,0 +1,32 @@
+- **Source**: Twitter/X @iamai_eth & @m0d8ye, 2026-03-20
+- **Topic**: ASIC vs GPU — Amazon Trainium, NVIDIA
+- **@iamai_eth**:
+	- 貌似是因为亚马逊的自研芯片 Trainium 不如预期，所以才加大了 GPU 的采购力度
+	- ASIC 可以领先 GPU 一代，但难以持续领先
+	- 它只是在指数增长的曲线上做了平移，没有改变系数
+	- Translation: Amazon's Trainium underperformed expectations, driving increased GPU procurement. ASICs can lead GPUs by one generation but cannot sustain that lead — they only shift the exponential growth curve without changing the coefficient.
+- **@m0d8ye** (reply):
+	- ASIC 只是在纸面发布的时候领先，等流片出来（两年后）就已经比 GPU 落后一代了
+	- 这个故事发生在 TPU 身上已经不只一次了
+	- 讲到底 ASIC 只是大厂和 NV 讨价还价的筹码罢了
+	- Translation: ASICs only lead on paper at announcement; by the time chips tape out (~2 years later), they are already one generation behind GPUs. This has happened to Google TPU repeatedly. Ultimately, ASICs are just bargaining chips for hyperscalers to negotiate with NVIDIA.
+- **Counter-argument thread** (Traditional Chinese, author unattributed):
+	- NVIDIA 的開發週期也是三、四年前就跟台積電綁定研發了，並非一年半就能出一代
+	- 現在大廠全是「平行交疊開發」，沒有人等前一代做完才開始做下一代；硬體開發的時間壁壘對所有人公平
+	- AWS 繼續大買 GPU 的兩個原因：① 外部客戶就是要 NVIDIA 解決方案；② AWS 自研硬體目前確實落後
+	- 新手直接追上不合理（benchmarks 不準，Intel 也說過自家產品多強）；只要一代一代堅持迭代流片，差距絕對會越來越小
+	- 亞馬遜、Facebook、微軟、OpenAI 全是晶片開發新手，人力不足，多個世代同時開案速度慢是正常的
+	- NVIDIA 策略：加快開案速度逼死追趕者；但追趕者很有錢，這是拼 20 年的長期戰略
+	- 頂尖 AI 晶片開案週期要抓三、四年以上；大廠不敢找三星或 Intel 代工，因為沒把握四年後能準時且大量交貨，錯過一個週期就是死
+	- AMD 副總裁 Mark Papermaster & 台積電副總米玉傑：某些核心技術（先進封裝）早在產品上市「七、八年前」就已開始與台積電合作開發
+	- **TSMC vs UMC analogy**: 領先一代就能打死對手 — 二十幾年前聯電每年都只落後台積電一年，大家年年以為快追上了；但先進製程太燒錢，落後一年只能賺小錢，最終在七奈米投降，無力投資下一世代
+		- 2000 年台積電 100 元、聯電 50 元；台積電市值當時約聯電 2 倍，如今已是聯電 80 倍
+	- Translation summary: The "2-year ASIC lag" thesis is flawed — NVIDIA also has 3-4 year design cycles locked in with TSMC. All leading players use overlapping parallel development. The real moat is sustained iteration + TSMC manufacturing lock-in. Hyperscaler ASICs are a long game (20 years), not a quick substitute. The TSMC/UMC precedent shows that being one generation behind compounds fatally over time.
+- **Key takeaways**:
+	- [[Amazon]] [[Trainium]] underperformance → resumed heavy GPU buying (near-term)
+	- Bear case on ASICs: long tape-out cycle means chips ship behind the GPU generation they targeted; happened repeatedly with [[Google]] TPU
+	- Bull case on ASICs: all players use parallel overlapping development; time barriers are symmetric; hyperscalers have capital and 20-year horizon to iterate
+	- [[TSMC]] lock-in is the real moat — missing one manufacturing cycle is potentially fatal; explains why no one risks Samsung/Intel for leading-edge AI chips
+	- TSMC vs UMC historical analogy: perpetually "one generation behind" compounds into an 80x market cap divergence over 25 years
+	- ASICs likely serve dual purpose: genuine long-term strategic bet + near-term NVIDIA negotiating leverage
+	- [[NVIDIA]] strategy: accelerate new design starts to exhaust competitors' engineering bandwidth

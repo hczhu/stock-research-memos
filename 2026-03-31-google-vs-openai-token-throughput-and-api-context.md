@@ -1,0 +1,60 @@
+- **Source**: Tweet/X chain from `@NaveenGRao`, `@SawyerMerritt`, `@downingARK`, and `@wintonARK` on `2026-03-31`
+- **Topic**: [[Google]] vs [[OpenAI]] token throughput, API demand, and what Google may be counting in its token disclosures
+- **Extracted data points**
+	- [[OpenAI]] latest funding round:
+		- `$122B` in committed capital
+		- `$852B` post-money valuation
+		- Attribution: Sawyer Merritt post quoting OpenAI announcement on `2026-03-31`
+	- [[OpenAI]] revenue:
+		- `$2B` per month
+		- Attribution: same Sawyer Merritt quote
+	- [[OpenAI]] token throughput:
+		- `15B` tokens per minute
+		- Attribution: inferred from the first post in the provided chain; the original OpenAI quote is not fully reproduced in the supplied text
+	- Implied monthly tokens for OpenAI at `15B tok/min`:
+		- `~0.648 quadrillion tok/month` assuming a `30-day` month
+		- `~0.657 quadrillion tok/month` assuming a `30.44-day` average month
+	- [[Google]] token disclosures referenced in the chain:
+		- `>1 quadrillion tok/month` claimed by Google "last year" per Naveen Rao's opening post
+		- `10B tok/min` via direct API used by customers for first-party models like Gemini, per Brett Winton citing Google's quarterly earnings call in `February 2026`
+		- `7B tok/min` in the prior quarter for the same direct API / first-party-model disclosure
+	- Threshold math from Naveen Rao:
+		- `22.8B tok/min` is needed to exceed `1 quadrillion tok/month`
+- **Key context from the chain**
+	- Naveen Rao's initial reaction:
+		- If [[OpenAI]] is at `15B tok/min`, that implies only `~0.657 quadrillion tok/month`
+		- That appears below Google's earlier `>1 quadrillion tok/month` claim
+		- Initial question raised: is Google shipping more tokens than OpenAI on API services?
+	- Frank Downing / ARK context:
+		- Not all tokens are created equal
+		- Google's `1M` token context window and the very low price of Flash may be driving high volume
+		- One coding-agent company reportedly uses Flash as a "basically free" pass to understand broad codebase context before calling heavier models
+	- Brett Winton / ARK clarification:
+		- The `10B tok/min` figure was specifically for direct API usage by customers on Google's first-party models like Gemini
+		- This may be apples-to-oranges against a broader monthly token figure if that broader figure includes other workloads
+		- Brett's quoted Google line:
+			- "Our first-party models like Gemini now process over 10 billion tokens per minute via direct API used by our customers, up from 7 billion last quarter."
+	- Naveen Rao's reconciliation:
+		- The `>1 quadrillion tok/month` number likely combines all models, not just Gemini
+		- [[Google Cloud Platform]] likely serves third-party models too, including [[Anthropic]] and open models
+		- Therefore the two disclosures can be consistent
+		- If total Google-served tokens exceed `1 quadrillion/month` while Gemini direct API is only `10B tok/min`, that implies Google is serving a substantial amount of non-Gemini traffic
+- **Main inference from the chain**
+	- The most important distinction is not simply [[Google]] vs [[OpenAI]], but:
+		- first-party direct API traffic for Google's own models
+		- versus total model-serving volume across [[Google Cloud Platform]], which may include [[Anthropic]] and open models
+	- The chain's conclusion is that Google's higher monthly token number probably does **not** mean Gemini API alone is larger than OpenAI API
+	- Instead, it likely means Google is aggregating a broader base of token demand than OpenAI's disclosed number
+- **Potential stock memo relevance**
+	- [[Google]] / [[Alphabet]]:
+		- Low-cost Flash and broad model-hosting breadth may be meaningful drivers of token volume
+		- Google may be gaining strategic importance as a multi-model serving platform, not just through Gemini demand
+	- [[OpenAI]] ecosystem read-through:
+		- `$2B/month` of revenue and `15B tok/min` suggest very large monetization and usage scale
+		- But direct comparison with Google's token figures requires careful normalization
+- **Caveats**
+	- The provided tweet chain includes a truncated quote from Sawyer Merritt:
+		- "We are now generating $2B in revenue per month. At this stage, we are growing revenue four times faster than"
+		- The comparison target after "than" is missing in the provided text
+	- The `15B tok/min` OpenAI figure is discussed in the chain but the exact original OpenAI wording was not included in full
+	- The chain itself resolves that the comparison is likely apples-to-oranges unless both sides are measured on the same basis

@@ -1,0 +1,20 @@
+- Apple's next most likely boss after Tim Cook is a product guy, John Ternus
+	- "Tim doesn't participate in the product development." Cook focuses more on supply chains, strategy and financial performance.
+	- Ternus "is a real engineer."
+- Bloomberg profile: Ternus is the leading internal candidate to succeed Cook ([Bloomberg features](https://www.bloomberg.com/features/2026-apple-next-ceo/))
+	- At 50, he is Apple's youngest SVP; joined Apple's product design team in 2001
+	- Has overseen hardware engineering for every iPad generation, the latest iPhone lineup, and AirPods
+	- Cook turned 65 in November 2025; began accelerating succession planning and told senior executives he wants to scale back workload
+- Ternus's role has been significantly expanded
+	- In late 2025, Cook tapped him as "executive sponsor" of all design on the management team — previously Jeff Williams's role before Williams retired in July 2025
+	- Now oversees five divisions: hardware engineering, hardware product design, product testing and management, home/audio/robotics engineering, and the Apple design team
+	- Took control of a secretive robotics unit developing devices like a tabletop FaceTime device
+	- Increased involvement in product marketing, including personally editing website copy
+- Growing public-facing role as heir apparent
+	- Led the MacBook Neo launch event in New York — a role Cook typically handles
+	- Appeared on Good Morning America to promote the device
+	- Accompanying other executives on international tours, meeting employees at far-flung offices, preparing for regulator meetings
+	- Bloomberg: he has become "one of the most influential people in the company's history"
+- Known for even temperament, attention to detail, and supply chain expertise; shares Cook's risk-averse communication style
+	- Concern: some within Apple worry he may be too risk-averse, and question his geopolitical experience and charisma
+- Most logical alternative candidate: Sabih Khan, another multidecade veteran who recently became COO — the same role Cook held before becoming CEO
