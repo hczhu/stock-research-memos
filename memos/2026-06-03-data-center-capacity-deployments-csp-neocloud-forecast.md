@@ -1,4 +1,4 @@
-- tags:: [[AI infrastructure]], [[data center]], [[cloud]], [[neocloud]], [[AWS]], [[Google Cloud]], [[Microsoft Azure]], [[Oracle]], [[Meta]], [[xAI]], [[CoreWeave]], [[Nebius]], [[Nscale]], [[Crusoe]], [[IREN]]
+- tags:: [[AI infrastructure]], [[data center]], [[neocloud]], [[AWS]], [[Google Cloud]], [[Microsoft Azure]], [[Oracle]], [[Meta]], [[xAI]], [[CoreWeave]], [[Nebius]], [[Nscale]], [[Crusoe]], [[IREN]]
 
 - ## Data Center Capacity Deployments: CSPs, xAI, And Neoclouds
 	- **Source**:

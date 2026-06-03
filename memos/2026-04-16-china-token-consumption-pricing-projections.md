@@ -1,4 +1,4 @@
-- tags:: [[AI]], [[China]], [[inference]], [[tokens]], [[ByteDance]], [[unit-economics]], [[macro]]
+- tags:: [[AI]], [[China]], [[inference]], [[ByteDance]], [[macro]]
 
 - ## China AI Inference — Token Consumption & Pricing Projections
 	- **Source**: Field notes from conversations with domestic Chinese AI/cloud vendors, April 2026

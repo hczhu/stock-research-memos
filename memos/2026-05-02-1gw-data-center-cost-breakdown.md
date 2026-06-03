@@ -1,4 +1,4 @@
-- tags:: [[data-center]], [[capex]], [[infrastructure]], [[NVIDIA]], [[Google]], [[servers]], [[networking]], [[power]]
+- tags:: [[data-center]], [[capex]], [[infrastructure]], [[NVIDIA]], [[Google]], [[networking]], [[power]]
 
 - ## 1GW Data Center Cost Breakdown
 	- **Primary source context**:
