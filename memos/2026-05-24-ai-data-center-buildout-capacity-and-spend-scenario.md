@@ -1,4 +1,4 @@
-- tags:: [[AI infrastructure]], [[data centers]], [[OpenAI]], [[Anthropic]], [[capex]], [[HBM]], [[GPUs]]
+- tags:: [[AI infrastructure]], [[data-center]], [[OpenAI]], [[Anthropic]], [[capex]], [[HBM]], [[GPU]]
 
 - ## AI Data Center Buildout Capacity And Spend Scenario
 	- **Source context**:

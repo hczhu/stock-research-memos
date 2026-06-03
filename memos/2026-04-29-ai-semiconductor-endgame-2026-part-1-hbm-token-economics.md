@@ -1,4 +1,4 @@
-- tags:: [[AI]], [[semiconductor]], [[HBM]], [[NVIDIA]], [[GPU]], [[token economics]], [[inference]], [[memory]]
+- tags:: [[AI]], [[semiconductor]], [[HBM]], [[NVIDIA]], [[GPU]], [[token economics]], [[inference]], [[DRAM]]
 
 - ## AI Semiconductor Endgame 2026 (Part 1)
 	- **Subtitle**: New Token Economics Computing Paradigm Shifts from GPU Compute to HBM

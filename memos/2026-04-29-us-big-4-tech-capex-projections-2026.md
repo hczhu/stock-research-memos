@@ -1,4 +1,4 @@
-- tags:: [[Microsoft]], [[Meta]], [[Google]], [[Amazon]], [[capex]], [[hyperscalers]], [[AI]], [[data-centers]]
+- tags:: [[Microsoft]], [[Meta]], [[Google]], [[Amazon]], [[capex]], [[hyperscalers]], [[AI]], [[data-center]]
 
 - ## Big 4 US Tech 2026 Capex Projections
 	- **Source context**: user-provided data points

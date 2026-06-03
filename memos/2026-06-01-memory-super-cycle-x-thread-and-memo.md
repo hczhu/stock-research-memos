@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[NVIDIA]], [[CoWoS]], [[TSMC]], [[X-thread]]
+- tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[NVIDIA]], [[CoWoS]], [[TSMC]], [[X-thread]]
 
 - ## X Post (paste directly — single post, X Premium)
 

@@ -1,4 +1,4 @@
-- tags:: [[Cerebras]], [[Groq]], [[Trainium]], [[OpenAI]], [[AI ASIC]], [[SRAM]], [[推理]]
+- tags:: [[Cerebras]], [[Groq]], [[Trainium]], [[OpenAI]], [[AI ASIC]], [[SRAM]], [[inference]]
 
 - ## Cerebras、Groq 与 SRAM 路线公司的估值想象力
 	- **来源上下文**:

@@ -1,4 +1,4 @@
-- tags:: [[Samsung]], [[memory]], [[DRAM]], [[Taiwan]], [[revenue]], [[semiconductor]]
+- tags:: [[Samsung]], [[DRAM]], [[Taiwan]], [[revenue]], [[semiconductor]]
 
 - ## Supreme Electronics (Samsung Taiwan Memory Distributor) — March & Q1 2026 Revenue Surge
 	- **Source**: Media report via Supreme Electronics monthly revenue disclosure, April 2026

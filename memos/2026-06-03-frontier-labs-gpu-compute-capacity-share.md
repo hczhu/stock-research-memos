@@ -1,4 +1,4 @@
-- tags:: [[AI infrastructure]], [[GPU]], [[H100e]], [[Nvidia]], [[OpenAI]], [[Anthropic]], [[xAI]], [[Google]], [[Meta]], [[compute]], [[capex]]
+- tags:: [[AI infrastructure]], [[GPU]], [[H100e]], [[NVIDIA]], [[OpenAI]], [[Anthropic]], [[xAI]], [[Google]], [[Meta]], [[compute]], [[capex]]
 
 - ## Frontier Labs GPU Compute Capacity Share
 	- **Source**:

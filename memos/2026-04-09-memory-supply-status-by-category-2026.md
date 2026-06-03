@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[DRAM]], [[HBM]], [[supply]], [[shortage]], [[Samsung]], [[SK Hynix]], [[Micron]], [[semiconductor]]
+- tags:: [[DRAM]], [[HBM]], [[supply]], [[shortage]], [[Samsung]], [[SK Hynix]], [[Micron]], [[semiconductor]]
 
 - ## Memory Supply Status by Category — 2026
 	- **Source**: Industry summary table, April 2026

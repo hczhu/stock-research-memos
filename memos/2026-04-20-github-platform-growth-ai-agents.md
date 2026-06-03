@@ -1,4 +1,4 @@
-- tags:: [[Microsoft]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metrics]], [[AI-agents]]
+- tags:: [[Microsoft]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metrics]], [[agents]]
 
 - ## GitHub Platform Growth — Commits & Actions (2023–2026)
 	- **Source**: GitHub internal operational metrics, shared publicly (attributed to GitHub leadership commentary on AI-agent-driven platform activity), April 2026

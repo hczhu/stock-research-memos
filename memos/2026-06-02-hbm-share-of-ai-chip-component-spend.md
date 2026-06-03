@@ -1,4 +1,4 @@
-- tags:: [[HBM]], [[memory]], [[AI infrastructure]], [[Nvidia]], [[AMD]], [[Google]], [[Amazon]], [[Microsoft]], [[Meta]], [[semiconductor]]
+- tags:: [[HBM]], [[DRAM]], [[AI infrastructure]], [[NVIDIA]], [[AMD]], [[Google]], [[Amazon]], [[Microsoft]], [[Meta]], [[semiconductor]]
 
 - ## HBM Share Of AI Chip Component Spend
 	- **Source**:

@@ -1,4 +1,4 @@
-- tags:: [[AI infrastructure]], [[data center]], [[capex]], [[opex]], [[power]], [[networking]], [[hyperscaler]]
+- tags:: [[AI infrastructure]], [[data-center]], [[capex]], [[opex]], [[power]], [[networking]], [[hyperscalers]]
 
 - ## One-Gigawatt AI Data Center Annual Costs
 	- **Source**:
