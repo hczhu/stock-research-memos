@@ -1,4 +1,4 @@
-- tags:: [[semiconductor]], [[capital-expenditures]], [[memory]], [[foundry]], [[IDM]], [[TSMC]], [[Samsung]], [[Micron]], [[SK Hynix]]
+- tags:: [[semiconductor]], [[capex]], [[DRAM]], [[foundry]], [[IDM]], [[TSMC]], [[Samsung]], [[Micron]], [[SK Hynix]]
 
 - ## Semiconductor Capital Expenditures, 2024-2026
 	- **Source context**: Screenshot titled **"Semiconductor Capital Expenditures, US$ Billion"**

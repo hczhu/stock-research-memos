@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[NVIDIA]], [[CoWoS]], [[TSMC]]
+- tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[NVIDIA]], [[CoWoS]], [[TSMC]]
 
 - ## Why This Memory Cycle Is a Super Cycle — Five Core Arguments
 	- **Source**: Interview transcript (user-provided), summarized `2026-06-01`

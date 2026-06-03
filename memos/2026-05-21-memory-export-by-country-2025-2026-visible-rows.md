@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[exports]], [[trade]], [[China]], [[Taiwan]], [[Hong Kong]], [[semiconductor]]
+- tags:: [[DRAM]], [[exports]], [[trade]], [[China]], [[Taiwan]], [[Hong Kong]], [[semiconductor]]
 
 - ## Memory Export from South Korea by Country
 <table>

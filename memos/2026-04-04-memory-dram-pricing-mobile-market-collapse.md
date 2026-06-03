@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[DRAM]], [[HBM]], [[Samsung]], [[Qualcomm]], [[MediaTek]], [[mobile]], [[semiconductor]]
+- tags:: [[DRAM]], [[HBM]], [[Samsung]], [[Qualcomm]], [[MediaTek]], [[mobile]], [[semiconductor]]
 
 - ## Summary
 	- DRAM prices are surging driven by AI infrastructure demand, while mobile handset demand is collapsing — creating a bifurcated outcome where memory makers win and mobile chip vendors/device OEMs lose hard

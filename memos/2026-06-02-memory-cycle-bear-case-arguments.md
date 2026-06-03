@@ -1,4 +1,4 @@
-- tags:: [[memory]], [[DRAM]], [[HBM]], [[bear-case]], [[cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[CXMT]], [[efficiency]], [[X-post]]
+- tags:: [[DRAM]], [[HBM]], [[bear-case]], [[cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[CXMT]], [[efficiency]], [[X-post]]
 
 - ## X Post (paste directly — single post, X Premium)
 
