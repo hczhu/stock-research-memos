@@ -1,0 +1,45 @@
+- tags:: [[HBM]], [[DRAM]], [[NAND]], [[NVIDIA]], [[AI infrastructure]], [[inference]], [[agents]], [[capex]], [[hyperscalers]], [[semiconductor]]
+- **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Sections: The AI Memory Wall; Appendix: Memory Demand per Gigawatt of AI Data Center Deployment
+- **Core argument**: The bottleneck in AI is increasingly memory, not just compute — and the shift from single-turn chat to agentic AI workflows structurally increases memory intensity at every layer of the AI stack, creating a demand wave not yet in consensus models
+- **Why memory is the AI bottleneck**
+	- As inference shifts from single-turn chat to agentic workflows:
+		- Large models need **weights resident in memory** → more HBM per chip
+		- **Longer context windows** → larger KV caches → more memory per user session
+		- **KV caches increase** memory usage per user, per session, per agent
+		- **Agent swarms** maintain or reload context simultaneously across many agents → turns inference into a much larger memory-capacity and memory-bandwidth problem
+	- Agentic workloads run **continuous, multi-step reasoning chains** vs. short bursts of prior chatbot-style AI — pushing data centers into sustained peak power usage and peak memory utilization
+	- Hyperscalers need HBM, server DRAM, and enterprise SSD capacity now — not when new fabs ramp in a few years
+- **Memory architecture of next-gen AI systems**
+	- NVIDIA Vera Rubin NVL72 (rack-scale system):
+		- HBM: 20.7TB per rack
+		- LPDDR5X: 54TB per rack (serving CPUs)
+		- NAND: 100+ TB per rack (configurable)
+	- Memory is the dominant cost and physical constraint in AI infrastructure build-outs
+- **Memory demand per gigawatt of AI compute (MS bottom-up analysis)**
+	- GB200 NVL72 (Blackwell, HBM3e): DRAM wafer intensity ~153kwpm per 1GW
+		- HBM: ~110kwpm per 1GW
+		- LPDDR: ~43kwpm per 1GW
+	- Vera Rubin NVL72 (Rubin, HBM4): DRAM wafer intensity ~144kwpm per 1GW
+		- HBM: ~89kwpm per 1GW
+		- LPDDR: ~55kwpm per 1GW (rising with higher LPDDR content per Rubin architecture)
+	- In WFE dollar terms: Logic WFE remains single largest component at GB200 level (~$14.2bn vs ~$13.8bn for DRAM) — but Rubin's higher LPDDR shifts balance modestly toward DRAM (~$14.4bn vs ~$11.6bn)
+- **TeraFab stress test (illustrative scale)**
+	- A facility ramping to 12GW of annual compute output would require ~$33bn of WFE in year one; DRAM alone accounts for ~$14bn
+	- Even at conservative 3GW ramp cadence, annual DRAM WFE demand would reach ~$3.5bn from a single facility
+	- "AI DC deployment is not merely a chip demand story but a full-stack memory capacity story"
+- **Agentic AI: a new incremental DRAM demand vector (not yet in consensus)**
+	- Standalone agentic orchestration servers: new hardware category with DRAM content per box potentially reaching **1.5–3TB** — levels unimaginable for CPU-class server 2 years ago
+	- Prior GenAI models offloaded KV cache to NAND on a session basis; agentic workloads require **weeks-to-months of persistent state** → materially increasing both DRAM and NAND content per server
+	- This equation is still evolving and is not yet captured in consensus DRAM TAM models — represents upside to MS's already constructive demand outlook
+- **Hyperscaler capex context**
+	- Top 4 cloud providers (AMZN, MSFT, GOOGL, META) cumulative capex:
+		- 2024: $250bn (62% Y/Y growth)
+		- 2025: $413bn (65% Y/Y)
+		- 2026E: ~$737bn (78% Y/Y)
+		- 2027E: ~$1,018bn (38% Y/Y)
+	- Hyperscaler capex expected to surpass $1 trillion in 2027; aggregate ~$2 trillion invested since 2024
+	- 2026 consensus cloud capex forecast increased to +75% Y/Y post results (from +64% previously)
+- **DRAM fungibility across end markets**
+	- PC and server DRAM are essentially the same product; LPDDR now sees substantial use in GPU servers
+	- Big 3 suppliers do not formally ring-fence capacity by end market — all intend to continue serving non-data-center customers, but incremental capacity flows toward fastest-growing end market
+	- In practice: consumer and PC allocations face a structurally tightening ceiling as AI server demand crowds out non-server bits — even without any formal reallocation decision by suppliers

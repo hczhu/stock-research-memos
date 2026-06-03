@@ -1,0 +1,54 @@
+- tags:: [[DRAM]], [[NAND]], [[semiconductor]], [[margins]], [[SaaS]], [[enterprise]], [[smartphones]], [[macro]], [[bear-case]]
+- **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: Chipflation Passthrough and Sector Impact
+- **Core argument**: Memory inflation is a broad hardware-sector margin risk, creating a divide between AI buyers (who capitalize costs as capex) and non-AI buyers (who absorb costs through COGS/inventory), with low-end smartphones, PCs, gaming consoles, and embedded devices most exposed
+- **Sector exposure by BOM (memory as % of product cost, pre-inflation)**
+	- AFA Storage: 73% (65% NAND + 8% DRAM) — most exposed on gross cost basis
+	- High-End Server: 53% (40% DRAM + 13% NAND)
+	- General Purpose Server: 40% (30% DRAM + 10% NAND)
+	- HFA Storage: 28% (20% DRAM + 8% NAND)
+	- AI Server: 25% (15% DRAM + 10% NAND)
+	- Traditional PC: 25% (20% DRAM + 5% NAND)
+	- Smartphone: 18% (10% DRAM + 8% NAND)
+	- Networking: 10% (7% DRAM + 3% NAND)
+	- Printers: 5% (4% NAND + 1% DRAM)
+- **Price increases required to hold gross margins flat (CY26, MS estimates)**
+	- Smartphones: **34% ASP increase** needed
+	- PCs: **67% ASP increase** needed (vs. PC ASP historically fluctuating in +/-10% band; 67% would be strongest Y/Y ASP growth in PC market history, 8-9x COVID-era peak of 8%)
+	- Servers: **83% ASP increase** needed
+	- Storage (terabytes): **114% ASP increase** needed
+	- Anecdotally already seeing 100%+ in some high-end Storage/Server markets
+- **Demand elasticity by product (most to least elastic)**
+	- Low-end PCs: 1.7 (most elastic — most at risk of demand destruction)
+	- Low-end smartphones: 1.6
+	- Total PCs: 1.4
+	- Mid-range smartphones: 1.4
+	- Mid-range PCs: 1.2
+	- Storage: 0.6
+	- High-end smartphones: 0.5
+	- High-end PCs: 0.5
+	- Traditional servers: 0.3 (least elastic — most protected)
+- **Net margin impact by industry (highest risk at bottom)**
+	- Most at risk: PC/notebooks, embedded/single-board/low-cost computing, gaming consoles, cameras/imaging, consumer audio/smart home, smartphones, TVs/monitors
+	- Middle: industrial hardware, defense/aerospace, networking/security, autos, enterprise servers/storage
+	- Least at risk: hyperscalers/AI data centers, semiconductor equipment (ASML, AMAT), healthcare/medtech
+- **The accounting asymmetry — most under-discussed transmission mechanism**
+	- Hyperscalers can **capitalize** memory-heavy AI servers and depreciate over time → memory inflation = strategic capex
+	- Consumer hardware and industrial OEMs see memory inflation flow **directly through inventory and COGS** → immediate gross-margin pressure
+	- Same memory price shock looks like strategic capex for one buyer and immediate margin pressure for another
+	- Non-AI companies that don't monetize AI but still pay AI-driven memory prices face the worst asymmetry
+- **The capability cost: what doesn't get built**
+	- Automotive: GM raised 2026 commodity/logistics inflation guide by $1–2bn citing higher DRAM costs; Magna expects pricing tension at vehicle level; Visteon memory supply constrained through 2027
+	- Healthcare/medtech: GE HealthCare flagged ~$100m of a $250m inflation headwind tied to chip/cost actions; Siemens Healthineers said EPS impact could reach €0.05
+	- Indirect channel (broadest footprint): enterprises running workloads on AWS/Azure/GCP exposed to chipflation through cloud bills — bank running fraud detection, logistics firm doing route optimization, retailer running inventory analytics all pay memory inflation without recognizing it as a memory cost
+- **Company commentary on margin pressure (May/June 2026)**
+	- HP: "memory and storage environment to remain constrained; anticipate broader inflationary pressures beyond memory and storage"
+	- Apple: "did see higher memory costs in March quarter; beyond June quarter we believe memory costs will drive an increasing impact on our business"
+	- Samsung Electronics: "In 1Q 2026 memory prices surged, weakening profitability Y/Y; in 2Q prices expected to rise further"
+	- Logitech: "whatever we can get, we get it, and that may affect inventory turns"
+	- Sonos: "higher memory costs are putting downward pressure on gross margin"
+	- Nintendo: built around ¥100bn of FY27 COGS impact from rising component prices; raised Switch 2 prices in Japan, US, Europe
+	- Best Buy: "could be some categories, some pressure on margins because of memory costs"
+- **Secular risks beyond the cyclical**
+	- In consumer markets: forced product redesign, elimination of lower-end products, industry consolidation (Tier 2/3 vendors struggle to survive prolonged supercycle)
+	- In enterprise markets: chipflation accelerating workload migration to the cloud (hardware prices rising faster than cloud CPU instance prices)
+	- CIO survey (1Q26): 9% of CIOs revisiting on-prem hardware strategy and considering permanent shift of workloads to cloud due to memory price inflation risk

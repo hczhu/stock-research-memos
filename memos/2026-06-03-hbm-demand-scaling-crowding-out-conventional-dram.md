@@ -1,0 +1,37 @@
+- tags:: [[HBM]], [[DRAM]], [[NVIDIA]], [[AI infrastructure]], [[semiconductor]], [[Samsung]], [[SK Hynix]], [[Micron]], [[capex]]
+- **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: HBM Cannibalization and the Two-Tier Market
+- **Core argument**: HBM demand is scaling non-linearly at every layer of the AI stack, and because HBM consumes disproportionate leading-edge wafer capacity, it is actively crowding out conventional DRAM supply for smartphones, PCs, and industrial markets
+- **HBM demand multipliers across the AI stack**
+	- Chip level: HBM content **7.2x** from A100 (40GB) → Rubin GPU (288GB)
+	- System level: **65x** from DGX A100 server (320GB, 8 GPUs) → DGX B200 rack (26,700GB, 72 GPUs)
+	- Cluster level: **~1,800x** from 2020 training cluster (~10TB, 256 A100s) → 2026 frontier cluster (~18PB, ~200,000+ GPUs)
+	- "A single 2026 frontier cluster contains more HBM than the entire world produced in 2020"
+- **HBM wafer penalty — the crowding-out mechanism**
+	- HBM is not just incremental DRAM demand; it causes a throughput penalty due to larger die sizes, yield challenges from 3D stacking (TSVs), advanced packaging, intensive testing, and customer qualification
+	- HBM bit-output penalty: **~3.0x conventional DRAM wafers in 2021–24 → ~4.3x by 2028E** (each unit of HBM output consumes materially more wafer capacity)
+	- HBM share of leading-edge memory wafers: **6% in 2023 → 34% by 2028E**
+	- Result: less wafer capacity available for DDR, LPDDR, and conventional server DRAM — crowding out smartphone, PC, and industrial markets even as total wafer capacity expands ~30% by 2027
+- **DRAM supply sufficiency model (MS estimates)**
+	- 2026E: total DRAM sufficiency **-17%** (commodity DRAM demand grows 48% vs supply growth 29%)
+	- 2027E: total DRAM sufficiency **-15%** even as capacity additions accelerate
+	- Annual DRAM wafer capacity additions: ~105kwpm in 2025E → ~390kwpm in 2027E → ~460kwpm in 2028E (led by Samsung, SK hynix, Micron, CXMT)
+	- Despite supply growth, DRAM production meets only ~60% of demand given annual bit shipments unlikely to rise above 30% due to EUV constraints
+- **Consumer market shortfall (2027 base case)**
+	- PC DRAM: **~15% shortfall** (~58mn PCs, -15% vs MS shipment forecast) assuming 89Gb/device
+	- Smartphone DRAM: **~12% shortfall** (~134mn units, -12% vs MS forecast) assuming 99Gb/device
+	- Sensitivity: flat content per device narrows gap to -9% (PC) / -7% (smartphone); de-speccing to 77Gb/90Gb brings it to -2%
+	- Market clears either through fewer devices or lower memory intensity — likely a blend of both
+- **HBM supply model (MS estimates)**
+	- Total HBM TSV capacity: 93kwpm (2023) → 270kwpm (2024) → 360kwpm (2025) → **480kwpm (2026E)** → **610kwpm (2027E)**
+	- Supply still concentrated: Samsung 250kwpm, SK hynix 250kwpm, Micron 110kwpm by end-2027E
+	- HBM in shortage moving into 2027 as Rubin Ultra ramps in late 2027
+	- Qualification matters: not all HBM capacity is usable by all accelerator customers
+- **China HBM**
+	- Current export restrictions ban raw HBM stacks into China; chips with HBM can still be shipped if below FLOPS thresholds
+	- CXMT targeting HBM3 in 2026, HBM3e in 2027 — currently R&D scale
+	- XMC (Wuhan Xinxin) producing HBM wafers with DRAM dies set for production by YMTC later in 2026
+	- China HBM contribution modeled at zero in MS base case; does not solve the strategic AI-memory bottleneck
+- **NVIDIA largest HBM customer**
+	- NVIDIA accounts for largest share of HBM demand; Rubin Ultra roadmap increases per-GPU capacity to 1TB
+	- Broadcom (TPU, MTIA) follows; Amazon (Trainium) emerging as a top HBM customer
+	- 2026 total HBM demand: ~32,279K Gb across all AI chip vendors (NVIDIA, AMD, Google TPU, AWS Trainium, Microsoft Maia)
