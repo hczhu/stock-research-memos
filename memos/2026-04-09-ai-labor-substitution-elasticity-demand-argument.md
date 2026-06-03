@@ -1,4 +1,4 @@
-- tags:: [[AI]], [[macro]], [[labor]], [[demand]], [[substitution-elasticity]]
+- tags:: [[AI]], [[macro]], [[demand]], [[substitution-elasticity]]
 
 - ## AI Labor Displacement — Why Aggregate Demand Doesn't Automatically Collapse
 	- **Source**: Analyst/research argument, summarized April 2026

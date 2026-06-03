@@ -1,4 +1,4 @@
-- tags:: [[AI infrastructure]], [[cloud]], [[GPU clusters]], [[OpenAI]], [[Microsoft]], [[Meta]], [[Anthropic]], [[CoreWeave]], [[Cerebras]], [[Oracle]]
+- tags:: [[AI infrastructure]], [[GPU clusters]], [[OpenAI]], [[Microsoft]], [[Meta]], [[Anthropic]], [[CoreWeave]], [[Cerebras]], [[Oracle]]
 
 - ## Major AI Cloud Contracts Comparison
 	- **Source context**:

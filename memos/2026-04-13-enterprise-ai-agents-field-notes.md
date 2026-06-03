@@ -1,4 +1,4 @@
-- tags:: [[AI]], [[enterprise]], [[agents]], [[SaaS]], [[macro]], [[labor]]
+- tags:: [[AI]], [[enterprise]], [[agents]], [[SaaS]], [[macro]]
 
 - ## Enterprise AI Agents — Field Notes from IT/AI Leader Meetings
 	- **Source**: Industry field notes, investor/consultant road trip meeting with dozens of IT and AI leaders across banking, media, retail, healthcare, consulting, tech, and sports (2026-04-13)
