@@ -1,0 +1,41 @@
+- tags:: [[DRAM]], [[NAND]], [[HBM]], [[China]], [[CXMT]], [[semiconductor]], [[supply chain]], [[TSMC]], [[Samsung]], [[SK Hynix]], [[Micron]], [[ASML]]
+- **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: US/China Policy Options Don't Offer Near-term Relief
+- **Core argument**: China is an important swing factor for commodity memory but cannot solve the strategic AI-memory (HBM) bottleneck; US/China policy options can mitigate but not solve the shortage, and the direction of policy is toward more, not less, restriction
+- **China's role in global DRAM capacity**
+	- China-located DRAM capacity: ~18% of industry capacity (2023) → ~23% (2028E)
+	- Domestic Chinese suppliers (CXMT): ~7% → ~17% over same period
+	- CXMT is the key driver, adding 388kwpm and accounting for ~30% of global net DRAM additions 2023–2028E (second only to South Korea)
+	- China could be an important relief valve for commodity DRAM, especially for non-AI buyers facing tighter allocation from the Big 3
+- **China's technology gap**
+	- CXMT is currently on 1znm (~16nm), roughly **3 generations behind** state of the art (17–19nm through 2025)
+	- 30% of production on DDR5 but clock speeds insufficient for mainstream PC, server, smartphone, or AI workloads
+	- Roadmap targets HBM3e in 2027 using 1anm DRAM — achievable without EUV per the Micron precedent — but bits/wafer approximately one-third of western levels (node disadvantage ~1/3, structural manufacturing inefficiency ~2/3)
+	- YMTC: crossed 128-layer threshold on NAND; broadly competitive on headline technology metrics; but bits/wafer running ~20% below western peers
+	- "The HBM supply contribution from China should be modelled conservatively, if at all"
+- **Export controls — the hard ceiling**
+	- EUV tools off-limits to China since 2023 (ASML has never shipped an EUV system to China) — primary reason CXMT's advanced DRAM capacity has plateaued
+	- Proposed MATCH Act: would name CXMT, YMTC, SMIC, Hua Hong, and Huawei as "covered facilities" and prohibit not only DUV immersion tool sales but also servicing of already-installed equipment
+	- Direction of travel is toward tighter controls, not looser
+	- CXMT and YMTC both on Pentagon's Section 1260H "Chinese Military Companies" list; YMTC also on Commerce Department Entity List since late 2022
+	- Neither designation prevents Chinese firms from selling memory into Western markets — barriers are reputational and compliance-driven, not a statutory import ban
+- **Korean suppliers' China fabs — the swing variable**
+	- Samsung Xi'an NAND fab (160kwpm) and SK hynix Wuxi DRAM fab (200kwpm, mostly 1a nm) — both had Validated End User status allowing US-controlled tools without per-shipment licensing; that expired December 31, 2025
+	- Replaced by annual licensing regime requiring yearly US approval; 2026 licenses cover maintenance and continued operation but not capacity-expanding upgrades — effectively freezing these fabs at current nodes
+	- SK hynix Wuxi node migration scenario: if migrated to 1D nm, could add **1.5–3.4% of 2028 global DRAM supply** from brown-field migration alone
+	- Samsung Xi'an NAND migration scenario: migrating to more advanced layer counts could add **3.0–8.9% of 2028 global NAND supply** (ranging from 232-layer to 412-layer)
+- **China NAND acceleration scenario (upside case, not base)**
+	- YMTC: in a scenario where Fab 4 & 5 construction accelerates (310k → 500kwpm), dedicated to 3XXL mainstream products, yield improvement with US equipment → output could reach 24% of 2028 global NAND supply (vs 14% base case)
+	- Uplift from yield improvement (65% → 75%): additional 16% of global supply
+	- Requires meaningful relaxation of US export controls — not MS base case
+- **US policy options: mitigate but not solve**
+	- Direct subsidies: support new fabs, packaging, test capacity but won't lower prices quickly
+	- Tax credits: encourage investment but less targeted
+	- Procurement guarantees: de-risk capacity additions but may distort allocation
+	- Expedited permitting: improves time-to-capacity but execution difficult
+	- Equipment-access coordination: supports allied capacity expansion but must balance export-control objectives
+	- Strategic stockpiles: help critical sectors but hard to manage in fast-moving tech markets
+	- "Forced allocation would likely be a last resort" — risks turning memory into a rationed geopolitical commodity
+- **Policy distinction: strategic AI-memory vs commodity/legacy memory**
+	- HBM/Advanced DRAM: maintain de-risking (export controls) + expand supply-side efforts to build trusted capacity
+	- Commodity/legacy memory: differentiated licensing regimes + targeted domestic/allied capacity support
+	- Key resilience question is not total capacity but **trusted and accessible capacity** — South Korea + Mainland China account for ~77% of 2028E DRAM wafer capacity, but not equally advanced, qualified, or accessible under different geopolitical scenarios

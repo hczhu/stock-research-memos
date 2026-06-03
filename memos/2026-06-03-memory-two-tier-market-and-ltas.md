@@ -1,0 +1,35 @@
+- tags:: [[DRAM]], [[HBM]], [[NAND]], [[hyperscalers]], [[Samsung]], [[SK Hynix]], [[Micron]], [[KIOXIA]], [[AI infrastructure]], [[semiconductor]], [[supply chain]]
+- **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Sections: LTAs, Two-Tier Market
+- **Core argument**: The memory market is shifting from price-driven commodity cycles to supply-security-focused allocation, creating a structural two-tier market where AI/cloud buyers lock in supply first and non-LTA buyers face a smaller, more volatile, more expensive residual pool
+- **The allocation stack (who gets memory supply first)**
+	- **Tier 1**: Hyperscalers / AI accelerator ecosystem → HBM, server DRAM, eSSD → via LTAs / prepay
+	- **Tier 2**: Server OEMs / cloud infrastructure → server DRAM, eSSD → strategic contracts
+	- **Tier 3**: Premium PC / smartphone OEMs → DDR, LPDDR, NAND → annual contracts
+	- **Tier 4**: Autos / networking / industrial / medical → DDR, NAND, specialty → qualified supply
+	- **Tier 5**: Small OEMs / startups / low-end devices → commodity DRAM/NAND → spot/distribution
+	- Higher allocation priority = lower spot-price exposure; lower tier = higher volatility
+- **Why LTAs are now absolute necessities (not just upcycle tools)**
+	- Historically memory customers procured opportunistically; LTAs during upcycles had limited enforceability and were renegotiated when market softened
+	- Now: CSPs are managing supply risk, not just price risk — AI deployment roadmaps depend on memory availability
+	- Leading memory producers establishing strategic supply chain partnerships via LTAs, allowing them to lock in long-term orders and prices, establish stable high-margin models, and mitigate cyclical volatility
+	- **Samsung**: moving quarterly/annual contracts to 3–5 year agreements
+	- **SK hynix**: increasing customer requests for medium- to long-term supply commitments
+	- **Micron**: announced 5-year Strategic Customer Agreement
+	- **SanDisk**: described multi-year partnerships backed by firm financial guarantees
+	- **KIOXIA**: long-term supply agreements with hyperscale customers extending to FY28–29
+- **The two-tier dynamic in practice**
+	- As top-tier CSPs secure multi-year supply through LTAs, residual memory market becomes structurally tighter
+	- Customers without LTAs procure from a smaller pool of uncommitted supply at higher, more volatile prices
+	- Historically, weak PC/smartphone demand would loosen DRAM markets for everyone; this cycle AI demand keeps allocation tight even if consumer demand softens — HBM and server applications set the priority order
+	- Suppliers have limited incentive to flood the market with commodity supply when AI customers offer stronger pricing, better margins, and more durable contracts
+- **Demand shift from consumer to AI/server**
+	- DRAM server share of bit demand: **37% in 2023 → 59% in 2028E**
+	- Enterprise SSD share of NAND bit demand: **18% in 2023 → 65% in 2028E**
+	- Server/AI buyers have stronger purchasing power, longer-duration demand visibility, and greater willingness to sign LTAs → pricing and allocation gravitate toward AI/server at expense of consumer end markets
+- **Implication for supplier pricing power**
+	- The more supply committed to strategic AI customers, the less flexible supply for opportunistic buyers → supports ASP resilience even if parts of consumer demand weaken
+	- LTAs instill price stability, improve earnings predictability, reduce risk of overbuilding, and lock in elevated pricing with prepayments
+	- MS: market pricing for Samsung/SK hynix is not yet assigning meaningful P/E premium for LTA-backed earnings; if 10x P/E applied to LTA-backed earnings (70% commodity LTA coverage), 2027 P/E for Samsung/hynix could expand to ~8.5x (from 5x currently)
+- **NAND: two-tier forming later but same trajectory**
+	- NAND remains under-supplied through 2028E; sufficiency ratio deteriorates to ~14% undersupply in 2028E
+	- NAND capacity additions recover only after net cuts in 2024–25, rising to ~170kwpm in 2028E (Samsung, KIOXIA/SanDisk, SK hynix/Solidigm, Micron, YMTC)
