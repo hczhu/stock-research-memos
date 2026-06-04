@@ -15,16 +15,30 @@ tags:: [[MediaTek]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
   
   ---
 - ## Main Narrative
-	- > What will the business look like in 5–10 years, qualitatively and quantitatively? Is the market large enough to support 10x its current revenue? Can the business at least 4x revenue in 10 years? Articulate the story a shareholder tells herself — why this company, why now, and what has to be true for it to play out.
+	- > What will the business look like in 5–10 years, qualitatively and quantitatively? Is the market large enough to support 10x its current revenue? Can the business at least 4x revenue in 10 years?
+	- ### Data Center & ASIC Breakthroughs
+		- MediaTek's most critical technical leap involves **moving data within AI clusters**.
+		- **224G SerDes Silicon**: MediaTek has demonstrated silicon-proven **224G SerDes** (Serializer/Deserializer) — the "nervous system" of modern AI data centers, enabling ultra-high-speed data transfer between GPUs and TPUs. Features the industry's smallest "beachfront density" (**350 microns**), pushing **670 Gbps per millimeter** of chip edge.
+		- **2nm UCIe-Advanced IP**: At MWC 2026, MediaTek unveiled the world's first **silicon-validated die-to-die connectivity** on TSMC's **2nm and 3nm** processes. Lets different chips (e.g., a CPU and an AI accelerator) be "glued" together with bandwidth up to **10 Terabits per second**.
+	- ### Consumer Chips — Nvidia RTX Spark Partnership
+		- MediaTek is the **design partner with Nvidia on the RTX Spark chip**.
+		- **Nvidia is redefining endpoint devices**: For the past 40 years the PC industry revolved around the operating system and applications; the future shifts toward a new computing architecture centered on **LLMs and AI agents**. RTX Spark is not aiming for pure PC market share but for **the user entry point of the AI era**.
+		- **Why Nvidia needs MediaTek**: MediaTek has cultivated the smartphone and mobile-computing markets for 20+ years, shipping billions of SoCs annually and accumulating deep technology and IP across **CPU, GPU, NPU, 5G comms, ISP, and power management**. By contrast, Nvidia once tried to enter mobile via Tegra but never built economies of scale. Even if Nvidia keeps strengthening its CPU layout, it is unlikely to fully abandon MediaTek — the partnership is the **lowest-cost, highest-efficiency** choice, and it means Nvidia does not need to assemble a huge in-house CPU R&D team.
 	- ---
 - ## Napkin Math
-	- > Back-of-the-envelope valuation anchored to a 5- and 10-year horizon. Size the TAM, project revenue and margins, and work backward to what you are paying today. The goal is to make sure you are not overpaying for a good story — even a great business is a bad investment at the wrong price.
+	- > Back-of-the-envelope valuation anchored to a 5- and 10-year horizon. Size the TAM, project revenue and margins, and work backward to what you are paying today.
+	- **2031E revenue estimate: ~$31,423M** (per source thesis)
 	-
-	- | Scenario | Revenue (5Y) | Revenue (10Y) | Margin | Net Income (10Y) | Fair PE | Implied Price |
-	  |----------|-------------|--------------|--------|-----------------|---------|---------------|
-	  | Bear     |             |              |        |                 |         |               |
-	  | Base     |             |              |        |                 |         |               |
-	  | Bull     |             |              |        |                 |         |               |
+	- | FY | 2031E | 2026YTD | 2025 | 2024 | 2023 |
+	  |---|---:|---:|---:|---:|---:|
+	  | Revenue $M | 31,423 |  |  |  |  |
+	  | YoY |  |  |  |  |  |
+	  | Gross margin % |  |  |  |  |  |
+	  | R&D % |  |  |  |  |  |
+	  | S&M % |  |  |  |  |  |
+	  | Capex % |  |  |  |  |  |
+	  | Other expenses % |  |  |  |  |  |
+	  | SBC dilution YoY |  |  |  |  |  |
 	  
 	  ---
 - ## Durable and Unfair Competitive Advantages
