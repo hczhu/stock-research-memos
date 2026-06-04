@@ -32,32 +32,40 @@
 
 - ## Table 2: Big 3 Latest Quarter Revenue by Segment
 
-	**Most recent comparable data available in memos. Full segment revenue breakdowns are not captured — these require earnings reports not yet in this repo.**
+	**Note**: None of the Big 3 separately disclose HBM revenue or server vs. consumer DRAM revenue. Segment breakdowns below reflect the finest granularity publicly reported. KRW figures converted at ~1,480 KRW/USD.
 
-	### SK Hynix — Q1 2026 (most recent with data)
+	### SK Hynix — Q1 2026
 
 	| Metric | Value | Source |
 	|---|---|---|
-	| Overall memory revenue | n/a in memos | — |
-	| HBM revenue | n/a in memos | — |
-	| Server DRAM revenue | n/a in memos | — |
-	| Consumer DRAM revenue | n/a in memos | — |
-	| NAND revenue | n/a in memos | — |
-	| **Operating margin** | **72%** | MS / super-cycle memo |
-	| Operating profit vs. prior year | More in Q1 alone than all of prior year | super-cycle memo |
+	| **Total revenue** | **KRW 52.58T (~$35.5B)** | SK Hynix Q1 2026 earnings (Apr 23) |
+	| Revenue growth | +198% YoY / +60% QoQ | SK Hynix Q1 2026 earnings |
+	| DRAM revenue (implied) | KRW ~41.5T (~$28.0B) | Total minus NAND |
+	| HBM revenue | Not disclosed; ~56% HBM supply market share | — |
+	| Server DRAM revenue | Not broken out | — |
+	| Consumer DRAM revenue | Not broken out | — |
+	| **NAND revenue** | **KRW 11.04T (~$7.5B), +248% YoY** | Seoul Economic Daily / earnings |
+	| **Operating margin** | **72%** | SK Hynix Q1 2026 earnings |
+	| Operating profit | KRW 37.61T (~$25.4B) | SK Hynix Q1 2026 earnings |
+	| Net margin | 77% | SK Hynix Q1 2026 earnings |
+	| Operating profit vs. prior year | Q1 2026 alone exceeded all of FY2025 | Earnings call |
 	| FY27E operating margin (DRAM) | 82.8% | Goldman Sachs estimate |
 	| FY27E operating profit revision | +21% vs. prior GS estimate | Goldman Sachs |
 	| FY28E operating profit revision | +24% vs. prior GS estimate | Goldman Sachs |
 
-	### Samsung — Latest Available Data
+	### Samsung — Q1 2026
 
 	| Metric | Value | Source |
 	|---|---|---|
-	| Overall memory revenue | n/a in memos | — |
-	| HBM revenue | n/a in memos | — |
-	| Server DRAM revenue | n/a in memos | — |
-	| Consumer DRAM revenue | n/a in memos | — |
-	| NAND revenue | n/a in memos | — |
+	| **Memory revenue** | **KRW 74.8T (~$50.5B)** | Samsung Q1 2026 earnings (Apr 30) |
+	| Revenue growth | +292% YoY / +101% QoQ | Samsung Q1 2026 earnings |
+	| DS Division revenue (memory + foundry) | KRW 81.7T (~$55.2B) | Samsung Q1 2026 earnings |
+	| DS Division operating profit | KRW 53.7T (~$36.3B), ~48× YoY | Samsung Q1 2026 earnings |
+	| DRAM revenue | Not separately disclosed | — |
+	| HBM revenue | Not disclosed; tripled YoY; conventional DRAM currently more profitable per chip | Samsung earnings call |
+	| Server DRAM revenue | Not broken out | — |
+	| Consumer DRAM revenue | Not broken out | — |
+	| NAND revenue | Not separately disclosed | — |
 	| DRAM contract price, Q1 2026 | ~KRW 20,000 (+100% QoQ) | pricing memo |
 	| DRAM contract price, Q2 2026 | ~KRW 26,000 (+30% QoQ) | pricing memo |
 	| HBM yield rate, 2025 | 60% | MS Exhibit 30 |
@@ -66,16 +74,21 @@
 	| Memory capex 2026E | $40.0B (+20% YoY) | semi capex memo |
 	| Samsung MX operating profit FY2026E | KRW ~5T (>60% decline) | DRAM pricing memo |
 
-	### Micron — Latest Available Data
+	### Micron — FQ2 2026 (Dec 2025 – Feb 2026; FYE September)
 
 	| Metric | Value | Source |
 	|---|---|---|
-	| Overall memory revenue | n/a in memos | — |
-	| HBM revenue | n/a in memos | — |
-	| Server DRAM revenue | n/a in memos | — |
-	| Consumer DRAM revenue | n/a in memos | — |
-	| NAND revenue | n/a in memos | — |
-	| **Gross margin** | **~74%** (characterized as all-time high) | Michael Burry bear-case memo |
+	| **Total revenue** | **$23.86B** | Micron FQ2 2026 earnings (Mar 18) |
+	| Revenue growth | +196% YoY / +75% QoQ | Micron FQ2 2026 earnings |
+	| **DRAM revenue** | **$18.8B (79% of total), +207% YoY** | Micron FQ2 2026 earnings |
+	| HBM revenue | Not disclosed; HBM sold out through 2026 | Micron FQ2 2026 earnings |
+	| Server / Data Center DRAM | Not broken out; Data Center revenue +150% YoY | Micron FQ2 2026 earnings |
+	| Consumer DRAM revenue | Not broken out | — |
+	| **NAND revenue** | **$5.0B (21% of total), +169% YoY** | Micron FQ2 2026 earnings |
+	| **Gross margin** | **74.4%** (all-time high; up from 36.8% a year prior) | Micron FQ2 2026 earnings |
+	| Net income | $13.8B ($12.07/share) | Micron FQ2 2026 earnings |
+	| FQ3 2026 revenue guidance | $33.5B ± $750M | Micron FQ2 2026 earnings |
+	| FQ3 2026 gross margin guidance | ~81% | Micron FQ2 2026 earnings |
 	| Memory capex FY2026E (FYE Sep) | $20.0B (+45% YoY) | semi capex memo |
 	| HBM yield rate, 2025 | 70% | MS Exhibit 30 |
 	| HBM UTR, 2025 | 100% | MS Exhibit 30 |
@@ -104,7 +117,9 @@
 	- Samsung and SK Hynix converge by 2027E as Samsung recovers UTR to 100% and yield to 70%
 	- Micron grows fastest proportionally but remains smallest in absolute volume
 
-- ## Data Gaps — What to Add
-	- **Earnings memos needed**: Add SK Hynix Q1 2026, Samsung Q1 2026, Micron FQ2 2026 earnings call notes to `earnings/` to fill in segment revenue breakdowns
+- ## Remaining Data Gaps
+	- **HBM revenue by vendor**: None of the Big 3 disclose HBM revenue separately; it is embedded in DRAM; approximate shares can be inferred from production volume data (Table 4 above)
+	- **Server vs. consumer DRAM split**: Not broken out by any vendor in public filings; must be estimated using DRAM share of shipments from industry reports (e.g., Morgan Stanley, IDC)
+	- **Samsung DRAM vs. NAND revenue**: Samsung reports memory as a single line; DRAM/NAND split not separately disclosed (unlike SK Hynix, where NAND is attributed to a separate business unit)
 	- **Server DRAM dollar TAM**: Requires a Gartner / IDC / IHS Markit market sizing report — not currently in memos
-	- **2028 HBM forecast**: Not available in current memos; MS and UBS models end at 2027E
+	- **2028 HBM forecast**: MS and UBS models end at 2027E
