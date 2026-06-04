@@ -1,10 +1,10 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working in this repository.
 
-## Repository Overview
+See [AGENTS.md](AGENTS.md) for the full repository overview, directory structure, file naming conventions, memo format, tag conventions, and workflow rules. All guidance there applies equally to Claude Code.
 
-This is a plain-text research memo repository for personal stock investing. All content lives under `memos/` as Markdown files. There is no build system, test suite, or application code.
+## Claude-Specific Notes
 
 ## File Naming Convention
 
@@ -47,7 +47,8 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 
 - Never push directly to `main`. Always branch → PR → merge.
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
-- When searching for context before answering investment questions, `grep` across `memos/` by ticker symbol, company name, or topic keyword.
+- When searching for context before answering investment questions, `grep` across `memos/`, `earnings/`, and `theses/` by ticker symbol, company name, or topic keyword.
+- Structured data in `data/` is CSV; read it directly to answer quantitative questions rather than guessing from memo text.
 
 ## Content Themes
 

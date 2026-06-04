@@ -8,10 +8,13 @@
 	- **Context**: Past cycles were traditional inventory correction periods driven by the replacement cycles of PCs and smartphones. This cycle is driven by structural, exponential demand from AI training and inference.
 	- **Key data points**:
 		- HBM per Nvidia GPU generation:
-			- `H20`: `96 GB` HBM
-			- `H200`: `141 GB` HBM
-			- `B200`: `192 GB` HBM
-			- `B300`: `288 GB` HBM per chip
+
+			| GPU | HBM Capacity |
+			|---|---:|
+			| H20 | 96 GB |
+			| H200 | 141 GB |
+			| B200 | 192 GB |
+			| B300 | 288 GB |
 		- In `2025` alone, Nvidia shipped **millions of GPUs**; Nvidia's memory consumption now rivals the historical aggregate demand of the entire PC or smartphone industries
 		- Global smartphone shipments dropped `13%` in `2025`; PC shipments fell `10%` in `2025`
 		- Despite the consumer collapse, memory prices **more than doubled** — AI servers successfully outbid and hollowed out consumer electronics supply
@@ -61,9 +64,16 @@
 	| Physical supply ceiling | Fab capacity only | Fab capacity + CoWoS packaging (dual bottleneck) |
 	| Contract structure | Buyers set price in downturns | Suppliers lock volume, float price; buyers fund capex |
 
+- ## External Validation — TSMC Chairman CC Wei (June 4, 2026 AGM)
+	- CC Wei warned that memory chip supply constraints will hit **higher-end devices by end of 2026** — lower-cost devices were already affected; the shortage is now **spreading across the entire market**
+	- This is a foundry-side confirmation of the broadening thesis: the shortage is not contained to AI servers and low-cost consumer segments; it is moving up market
+	- Wei also said he "would like to" raise TSMC prices but wants to avoid memory-style aggressive price increases — framing memory chip pricing as the benchmark for unsustainable inflation; implicitly validates that memory price increases are real and significant
+	- Source: [[2026-06-04-tsmc-agm-cc-wei-ai-demand-2026]]
+
 - ## Cross-References
 	- [[2026-04-07-michael-dell-memory-demand-arguments]] — Dell's `625x` demand expansion framework (`25x` per-GPU × `25x` system scale)
 	- [[2026-04-29-ai-semiconductor-endgame-2026-part-1-hbm-token-economics]] — token throughput = HBM size × HBM bandwidth; HBM demand is endogenous to GPU roadmap
 	- [[2026-04-04-memory-dram-pricing-mobile-market-collapse]] — Samsung Q1 +100% / Q2 +30% QoQ price increases; mobile unit collapse
 	- [[2026-04-09-cxmt-china-hbm-mass-production]] — CXMT supply risk and why patent/equipment constraints limit the threat
 	- [[2026-05-24-ai-data-center-buildout-capacity-and-spend-scenario]] — UBS HBM demand: 17.5 bn GB (2025) → 32.9 bn (2026E) → 58 bn (2027E)
+	- [[2026-06-04-tsmc-agm-cc-wei-ai-demand-2026]] — CC Wei: shortage spreading from low-end to high-end devices by end of 2026

@@ -1,0 +1,66 @@
+tags:: [[investing]]
+
+- ## Principles
+	- The best companies have durable competitive advantages, innovative cultures, and are managed by aligned founders who strive for non-zero-sum outcomes.
+	- Investing is not about complex theories, superficially applied, but rather basic insights, deeply absorbed.
+	- A company knows, like really knows deep in its marrow, what it's all about and does uniquely well, top to bottom, things that are consistent with that identity.
+	- Reality is far less exciting. What really happens is you build muscle memory about a company and its ecosystem over the years and calibrate conviction along the way. That's why I would caution against buying after a first deep dive. Research should be exploratory, not confirmatory.
+	- Earning a decent return on the growth compounders I often write about at today's valuations means you have to be right about the secular trend, the state of competition, and the ability to execute/adapt.
+- ## Risk
+	- > All investment evaluations should begin by measuring risk, especially reputational.
+	- Incorporate an appropriate margin of safety.
+	- Avoid dealing with people of questionable character.
+	- Insist upon proper compensation for risk assumed.
+	- Always beware of inflation and interest rate exposures.
+	- Avoid big mistakes; shun permanent capital loss.
+- ## Independence
+	- Objectivity and rationality require independence of thought.
+	- Remember that just because other people agree or disagree with you doesn't make you right or wrong — the only thing that matters is the correctness of your analysis and judgment.
+	- Mimicking the herd invites regression to the mean (merely average performance).
+- ## Preparation
+	- > The only way to win is to work, work, work, work, and hope to have a few insights.
+	- Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day.
+	- More important than the will to win is the will to prepare.
+	- Develop fluency in mental models from the major academic disciplines.
+	- If you want to get smart, the question you have to keep asking is "Why, why, why?"
+- ## Intellectual humility
+	- >Acknowledging what you don't know is the dawning of wisdom
+	- Stay within a well-defined circle of competence.
+	- Identify and reconcile disconfirming evidence.
+	- Resist the craving for false precision, false certainties, etc.
+	- Above all, never fool yourself, and remember that you are the easiest person to fool.
+- ## Analytic rigor
+	- >Use of the scientific method and effective checklists minimizes errors and omissions.
+	- Determine value apart from price; progress apart from activity; wealth apart from size.
+	- It is better to remember the obvious than to grasp the esoteric.
+	- Be a business analyst, not a market, macroeconomic, or security analyst.
+	- Consider the totality of risk and effect; look always at potential second-order and higher-level impacts.
+	- Think forward and backward: invert, always invert.
+- ## Allocation
+	- >Proper allocation of capital is an investor's number one job
+	- Remember that the highest and best use is always measured by the next best use (opportunity cost).
+	- Good ideas are rare—when the odds are greatly in your favor, bet (allocate) heavily.
+	- Don't fall in love with an investment—be situation-dependent and opportunity-driven.
+- ## Patience
+	- >Resist the natural human bias to act
+	- "Compound interest is the eighth wonder of the world" (Einstein); never interrupt it unnecessarily.
+	- Avoid unnecessary transactional taxes and frictional costs; never take action for its own sake.
+	- Be alert for the arrival of luck.
+	- Enjoy the process along with the proceeds, because the process is where you live.
+- ## Decisiveness
+	- >When proper circumstances present themselves, act with decisiveness and conviction
+	- Be fearful when others are greedy and greedy when others are fearful.
+	- Opportunity doesn't come often, so seize it when it does.
+	- Opportunity meeting the prepared mind—that's the game.
+- ## Change
+	- >Live with change and accept unremovable complexity
+	- Recognize and adapt to the true nature of the world around you; don't expect it to adapt to you.
+	- Continually challenge and willingly amend your best-loved ideas.
+	- Recognize reality even when you don't like it—especially when you don't like it.
+- ## Focus
+	- >Keep things simple and remember what you set out to do
+	- Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat.
+	- Guard against the effects of hubris and boredom.
+	- Don't overlook the obvious by drowning in minutiae.
+	- Be careful to exclude unneeded information or slop: "A small leak can sink a great ship."
+	- Face your big troubles; don't sweep them under the rug.

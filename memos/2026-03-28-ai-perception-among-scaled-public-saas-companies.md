@@ -4,18 +4,20 @@ The survey measures the **net percentage of respondents who say AI "helps" each 
 
 ### Net % Saying AI Helps
 
-- **Salesforce**: 40%
-- **ServiceNow**: 32%
-- **Snowflake**: 30%
-- **Cloudflare**: 29%
-- **Databricks**: 24%
-- **Datadog**: 14%
-- **GitLab**: 11%
-- **Atlassian**: 9%
-- **Workday**: 5%
-- **MongoDB**: 3%
-- **Figma**: -22%
-- **Confluent**: -29%
+| Vendor | Net % AI Helps |
+|---|---:|
+| Salesforce | +40% |
+| ServiceNow | +32% |
+| Snowflake | +30% |
+| Cloudflare | +29% |
+| Databricks | +24% |
+| Datadog | +14% |
+| GitLab | +11% |
+| Atlassian | +9% |
+| Workday | +5% |
+| MongoDB | +3% |
+| Figma | −22% |
+| Confluent | −29% |
 
 ### Observations
 
