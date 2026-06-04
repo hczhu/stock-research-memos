@@ -2,17 +2,20 @@
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: Stock Exposure; Exhibit 14 (global exposure map); Exhibit 15 (risk/return)
 - **Core thesis**: In an agentic AI world, demand and pricing power gravitates toward memory and CPU plus associated supply chains. Companies selling into AI enjoy pricing power; buyers face margin pressure. Global consumer electronics stocks -1% YTD on average vs memory makers +~300% with 333% EPS revisions YTD.
 - **Global exposure map — how to play the theme**
-	- **CPU**: NVDA, Intel, AMD, Arm
-	- **DRAM**: Samsung, Hynix, Micron
-	- **NAND**: Kioxia, SanDisk
-	- **HDD**: Seagate, WDC, TDK
-	- **Foundry**: TSMC
-	- **IC-design**: GUC, Egis
-	- **PCB/Substrate/CCL & Materials**: SEMCO, Unimicron, NYPCB, Ibiden, Nittobo, MEC
-	- **BMC, CPU & Memory interface**: Aspeed, Renesas, Montage, WPG, AP Memory
-	- **MLCC & CPU socket**: Murata, TDK, Yageo, FIT Hon Teng, Lotes
-	- **ODM**: Wiwynn, Hon Hai
-	- **SPE**: ASML, ASMi, AMAT, Besi, KLAC, Tokyo Electron, Ulvac, Wonik
+
+	| Category | Companies |
+	|---|---|
+	| CPU | NVDA, Intel, AMD, Arm |
+	| DRAM | Samsung, Hynix, Micron |
+	| NAND | Kioxia, SanDisk |
+	| HDD | Seagate, WDC, TDK |
+	| Foundry | TSMC |
+	| IC-design | GUC, Egis |
+	| PCB / Substrate / CCL & Materials | SEMCO, Unimicron, NYPCB, Ibiden, Nittobo, MEC |
+	| BMC, CPU & Memory interface | Aspeed, Renesas, Montage, WPG, AP Memory |
+	| MLCC & CPU socket | Murata, TDK, Yageo, FIT Hon Teng, Lotes |
+	| ODM | Wiwynn, Hon Hai |
+	| SPE | ASML, ASMi, AMAT, Besi, KLAC, Tokyo Electron, Ulvac, Wonik |
 - **Stock positioning by region (MS preferences)**
 	- **US Semiconductors**: Agentic AI-driven CPU demand structurally favors AMD in cloud share gains; prefer exposure via NVIDIA and Micron where token growth and capex translate more directly into earnings upside
 	- **US Semiconductor Equipment (SPE)**: Rising compute and CPU TAM drive incremental WFE demand; DRAM and leading-edge logic (<5nm/2nm) capacity expansion supporting upside for AMAT and KLA
@@ -23,16 +26,22 @@
 	- **Greater China Semiconductors**: Montage is leveraged to structural increase in memory content per server (higher CPU and DRAM intensity driving demand for memory interconnect solutions)
 	- **Japan Semiconductors**: Increasing CPU complexity and memory scaling drive demand for advanced semi-cap (Tokyo Electron, Ulvac) and memory interface solutions; Renesas positioned as beneficiary of higher DRAM bandwidth/capacity requirements; KIOXIA benefits from NAND demand and broader data center exposure
 - **Risk/return positioning (MS quant, base return/vol vs skew)**
-	- Most attractive: Applied Materials (high skew, high base return)
-	- Strong: KIOXIA, KLA Corp, SK hynix, Samsung
-	- Moderate: Western Digital, SanDisk, Seagate, ASML
-	- Less attractive: Micron (shown as least attractive on risk/return basis despite strong cycle positioning — reflects higher valuation/volatility)
+
+	| Rating | Companies | Notes |
+	|---|---|---|
+	| Most attractive | Applied Materials | High skew, high base return |
+	| Strong | KIOXIA, KLA Corp, SK hynix, Samsung | |
+	| Moderate | Western Digital, SanDisk, Seagate, ASML | |
+	| Less attractive | Micron | High valuation/volatility despite strong cycle position |
 - **Supplier market position by memory type**
-	- HBM: SK hynix (market leader, strong Nvidia exposure), Samsung (recovery candidate, HBM4 critical), Micron (HBM3E qualified for H200; only US-headquartered strategic supplier)
-	- Server DRAM: Samsung (largest conventional DRAM capacity, broadest customer base), SK hynix (DDR5 ahead of peers), Micron (DDR5 competitive, US manufacture differentiator for government buyers)
-	- Enterprise NAND: Samsung (largest NAND capacity globally, V-NAND technology advantage), Kioxia/SanDisk (2nd-largest globally, BiCS technology), SK hynix/Solidigm (GLC NAND competitive for hyperscale SSDs), Micron (competitive in GLC NAND)
-	- CXMT (China): Emerging in DRAM; not yet qualified at scale for mainstream global hyperscale server DRAM; limited in server DRAM
-	- YMTC (China): Growing in Chinese market; export restrictions limit global access in NAND
+
+	| Memory Type | Leader | Other Players | Notes |
+	|---|---|---|---|
+	| HBM | SK hynix | Samsung, Micron | SK hynix: market leader, strong Nvidia exposure; Samsung: recovery candidate, HBM4 critical; Micron: only US-HQ strategic supplier |
+	| Server DRAM | Samsung | SK hynix, Micron | Samsung: largest capacity, broadest base; SK hynix: DDR5 ahead of peers; Micron: US-manufacture differentiator for govt buyers |
+	| Enterprise NAND | Samsung | Kioxia/SanDisk, SK hynix/Solidigm, Micron | Kioxia/SanDisk: 2nd-largest globally; SK hynix/Solidigm: GLC NAND for hyperscale SSDs |
+	| DRAM (China) | CXMT | — | Emerging; not yet qualified at scale for global hyperscale server DRAM |
+	| NAND (China) | YMTC | — | Growing in Chinese market; export restrictions limit global access |
 - **Valuation context**
 	- Memory stocks have not been rewarded for buying on peak earnings when second-derivative weakness begins
 	- Market not yet assigning meaningful P/E premium to LTA-backed earnings and FCF

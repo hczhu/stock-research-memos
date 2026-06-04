@@ -6,7 +6,15 @@
 
 ## Demand Signal: AI Coding Agent Adoption Is Real and Accelerating
 
-- Opencode growth: launched June 2025 → 650K MAU (Dec 2025) → 2.5M (Jan 2026) → 6.5M (last month) → ~8M (in progress) — targeting 10M
+- Opencode MAU growth:
+
+	| Date | MAU | Notes |
+	|---|---:|---|
+	| June 2025 | 0 | Launch |
+	| Dec 2025 | 650K | |
+	| Jan 2026 | 2.5M | Spike partly from Anthropic accidental Claude Pro block incident |
+	| ~May 2026 | 6.5M | |
+	| In progress | ~8M | Targeting 10M |
 - January spike driven partly by Anthropic accidentally blocking Claude Pro subscriptions in Opencode at 9PM — galvanized user base and led to OpenAI officially supporting Opencode the next day
 - Holiday season showed growth *into* the holidays rather than the usual developer-tool dip — sign of deep workflow integration, not novelty
 - Growth was purely viral/bottom-up with a 5-person founding team; no sales motion
