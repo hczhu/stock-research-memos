@@ -38,6 +38,11 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - `## Investment Implications` or `## Key Data Points` sections
 - `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
 
+## Input Handling
+
+- **No images**: Never use images in memos. When the input prompt contains images (screenshots, charts, tables), OCR them to extract text and data points, then work from the extracted content.
+- **High data-point density**: When a text block contains many data points (metrics, figures, comparisons), structure it as a Markdown table rather than prose or bullet lists.
+
 ## Workflow Rules
 
 - Never push directly to `main`. Always branch → PR → merge.
