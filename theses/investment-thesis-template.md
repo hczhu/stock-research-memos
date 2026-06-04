@@ -71,3 +71,11 @@ tags:: [[TICKER]], [[sector]]
 	  | Buyback history |  |  |
 	  | Dividend |  |  |
 	  | Insider ownership |  |  |
+  
+  ---
+- ## Anecdotes & Opinions
+	- > First-hand observations, user stories, expert opinions, or social proof that supports or challenges the thesis. These are qualitative data points that don't fit neatly into a model but are often early signals — a product someone can't live without, a salesperson who says the pipeline is dry, a developer who switched away. Capture the source and date so you can revisit whether the signal aged well.
+	-
+	- | Date | Source | Anecdote / Opinion | Signal direction |
+	  |------|--------|--------------------|-----------------|
+	  |      |        |                    | bullish / bearish / neutral |
