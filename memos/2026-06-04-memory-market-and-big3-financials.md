@@ -1,8 +1,31 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[Samsung]], [[SK Hynix]], [[Micron]], [[semiconductor]], [[AI infrastructure]], [[supply]]
 
 - ## Memory Market Size and Big 3 Financials — Data Compilation
-	- **Source**: Synthesized from memos in this repo; primary sources include Morgan Stanley, Epoch AI, UBS, Goldman Sachs, Gartner
-	- **Note**: Dollar market size figures for individual server DRAM and HBM segments are not fully broken out in current memos; gaps are marked below. Big 3 quarterly segment revenue breakdowns are not captured in current memos — only margin, capex, and pricing data are available
+	- **Source**: Synthesized from memos in this repo; primary sources include Morgan Stanley, Epoch AI, UBS, Goldman Sachs, Gartner; Big 3 annual and quarterly earnings reports (2025–Q1 2026)
+	- **Unit note**: HBM volume rows below are in mn GB (gigabytes). Raw source data is in Gb (gigabits); divided by 8 to convert. ASP derived from HBM market size ÷ HBM demand volume in GB.
+
+- ## Table 0: Memory Market and Big 3 Revenue Overview
+
+	| Metric | 2025 | 2026E | 2027E | 2028E |
+	|---|---:|---:|---:|---:|
+	| **Big 3 combined memory revenue ($B)** | **$178** | **$439¹** | n/a | n/a |
+	| Big 3 revenue growth YoY | +35% | +147%¹ | n/a | n/a |
+	| Total memory market size ($B) | $220 | $890 | n/a | n/a |
+	| **HBM market size ($B)** | **$31.5** | **~$70²** | **$116** | **$168** |
+	| HBM volume demand — MS (mn GB) | 2,440 | 4,276 | 7,011 | n/a |
+	| HBM volume demand — UBS (mn GB) | 2,188 | 4,113 | 7,250 | n/a |
+	| HBM volume supply — MS (mn GB) | 2,846 | 4,375 | 6,730 | n/a |
+	| HBM volume supply — UBS (mn GB) | n/a | n/a | n/a | n/a |
+	| HBM ASP ($/GB) | $14.4 | ~$17.0 | ~$16.0 | n/a |
+
+	- **¹ 2026E Big 3 revenue**: Annualized from Q1 2026 × 4 (SK Hynix $35.5B + Samsung $50.5B + Micron $23.9B = $109.9B/quarter). Likely understates full year if prices continue rising through H2 2026
+	- **Big 3 2025 breakdown**: SK Hynix FY2025 $68B (KRW 97.15T, +50% YoY); Samsung memory FY2025 $73B (KRW 104.1T, +23% YoY); Micron FY2025 (FYE Sep) $37B (+49% YoY)
+	- **Big 3 2024 base** (for growth calc): SK Hynix ~$45B, Samsung memory ~$62B, Micron $25B → total ~$132B
+	- **² HBM 2026E market size**: ~$70B is a midpoint estimate; Goldman Sachs revised 2027E to $116B (from $75B prior) in June 2026, implying ~$65–75B for 2026E by interpolation
+	- **HBM 2027E/2028E**: Goldman Sachs June 2026 forecast (revised up from $75B/$100B prior estimates)
+	- **Total memory 2025/2026E**: Morgan Stanley Chipflation report June 2, 2026; $890B is full-year 2026E forecast (not annualized Q1), +71% upward revision from prior $520B estimate
+	- **HBM ASP**: Derived as HBM market size ÷ UBS demand (converted from Gb to GB ÷ 8); 2025: $31.5B / 2,188 mn GB = $14.4/GB; 2027E: $116B / 7,250 mn GB = $16.0/GB
+	- **UBS supply**: UBS did not publish HBM supply-side forecasts in available memos
 
 - ## Table 1: Server Memory Market Size ($ Billion)
 
