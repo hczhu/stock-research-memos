@@ -31,7 +31,7 @@
 
 	- Bull-case framing: the Big 3 capture **~80% of the $890B 2026E memory TAM** (see derivation below) → **~$712B** combined Big 3 memory revenue. Implied combined market cap at various price-to-sales (P/S) multiples:
 
-	| P/S Ratio | 2026E Big 3 Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
+	| P/S Ratio | 2026E Big 3 Memory Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
 	|---:|---:|---:|---:|
 	| 4× | $712 | $2.85T | −19% |
 	| **5×** | **$712** | **$3.56T** | **+2%** |
