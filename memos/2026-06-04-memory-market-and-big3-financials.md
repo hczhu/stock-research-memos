@@ -27,6 +27,24 @@
 	- **HBM ASP**: Derived as HBM market size ÷ UBS demand (converted from Gb to GB ÷ 8); 2025: $31.5B / 2,188 mn GB = $14.4/GB; 2027E: $116B / 7,250 mn GB = $16.0/GB
 	- **UBS supply**: UBS did not publish HBM supply-side forecasts in available memos
 
+- ## Table 0b: Big 3 Implied Combined Market Cap by P/S Multiple
+
+	- Bull-case framing: if 2026 combined Big 3 memory revenue reaches **$800B**, the implied combined market cap at various price-to-sales (P/S) multiples is:
+
+	| P/S Ratio | 2026E Memory Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
+	|---:|---:|---:|---:|
+	| 4× | $800 | $3.2T | −9% |
+	| **5×** | **$800** | **$4.0T** | **+14%** |
+	| 6× | $800 | $4.8T | +37% |
+	| 8× | $800 | $6.4T | +83% |
+	| 10× | $800 | $8.0T | +129% |
+
+	- **$800B revenue scenario**: A bull case above the $439B Q1-annualized figure in Table 0 — assumes prices keep climbing through H2 2026 and full-year revenue runs well ahead of the Q1 run-rate
+	- **Current combined market cap**: The three companies are together worth ~$3.5T as of June 2026
+	- **5× P/S as a conservative anchor**: Even a conservative 5× multiple implies ~$4.0T combined — ~14% above the current ~$3.5T, suggesting modest upside if the revenue scenario plays out and multiples hold
+	- **Caveat — Samsung is not a pure play**: Samsung's market cap includes non-memory businesses (foundry, mobile, displays, consumer electronics). Applying a memory-revenue P/S to Samsung's full market cap overstates the memory-attributable multiple; the table is a blunt aggregate, not a clean per-company valuation
+	- **Caveat — cyclicality**: Memory is deeply cyclical; peak-cycle revenue should command a lower P/S than the table's flat multiples imply. The market typically de-rates memory names as the cycle approaches its top, anticipating the downturn
+
 - ## Table 1: Server Memory Market Size ($ Billion)
 
 	| Segment | 2024 | 2025 | 2026E | 2027E | 2028E |
