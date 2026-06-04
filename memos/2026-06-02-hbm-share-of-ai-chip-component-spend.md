@@ -44,6 +44,30 @@
 	| Microsoft capex impact from higher component prices | `~$25B` | Hyperscaler capex sensitivity to component inflation. |
 	| Meta 2026 capex range increase | `+$10B` | Screenshot says Meta raised its 2026 capex range by `$10B`, citing higher component prices. |
 
+- ## NVL72 Rack-Level BOM: Memory Share by GPU Generation (Exhibit 46)
+	- **Source**: Morgan Stanley Research estimates
+	- **Headline**: Memory will exceed 25% of the NVL72 rack BOM for Rubin (VR200) — up from 7% on GB200 — as HBM price inflation combines with higher per-GPU HBM content
+
+	| Component | GB200 NVL72 | GB300 NVL72 | VR200 NVL72 |
+	|---|---:|---:|---:|
+	| GPU | 65% | 63% | 51% |
+	| Memory | 7% | 9% | **26%** |
+	| Other networking chips | 5% | 7% | 7% |
+	| CPU | 5% | 5% | 3% |
+	| NVLink Switch chip | 2% | 2% | 2% |
+	| Cooling | 2% | 2% | 1% |
+	| Power supply | 1% | 1% | 1% |
+	| PCB | 1% | 1% | 1% |
+	| Others | 11% | 10% | 8% |
+	| Rack assembly value add | 1% | 1% | 0% |
+	| ABF Substrate | 0% | 0% | 0% |
+	| MLCC | 0% | 0% | 0% |
+
+	- Memory's rack BOM share: **7% (GB200) → 9% (GB300) → 26% (VR200)** — a 3.7× increase across two GPU generations
+	- GPU's rack BOM share compresses from 65% → 51% as memory inflation dilutes compute's dominance in total system cost
+	- The VR200 data point (26%) aligns with the Exhibit 30 figure cited elsewhere: memory jumped from 9.4% (GB300) to 25.7% (VR200) per Morgan Stanley estimates
+	- This is a rack-level complement to the chip-level data above: at the chip level HBM is 63% of component cost; at the rack level it is 26% of total system BOM — both moving in the same direction
+
 - ## Stock Implications
 	- The component mix shift is directly bullish for `HBM` suppliers because memory is becoming a larger share of AI accelerator cost, not just growing with unit volumes.
 	- The jump from roughly `$12B` of HBM spend in `2024` to `$32B` in `2025` suggests both volume growth and pricing / mix uplift.
