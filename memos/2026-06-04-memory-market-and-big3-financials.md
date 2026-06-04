@@ -29,19 +29,20 @@
 
 - ## Table 0b: Big 3 Implied Combined Market Cap by P/S Multiple
 
-	- Bull-case framing: if 2026 combined Big 3 memory revenue reaches **$890B** (the full 2026E memory TAM per MS — the Big 3 control ~90% of DRAM and a majority of total memory), the implied combined market cap at various price-to-sales (P/S) multiples is:
+	- Bull-case framing: the Big 3 capture **~80% of the $890B 2026E memory TAM** (see derivation below) → **~$712B** combined Big 3 memory revenue. Implied combined market cap at various price-to-sales (P/S) multiples:
 
-	| P/S Ratio | 2026E Memory Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
+	| P/S Ratio | 2026E Big 3 Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
 	|---:|---:|---:|---:|
-	| 4× | $890 | $3.56T | +2% |
-	| **5×** | **$890** | **$4.45T** | **+27%** |
-	| 6× | $890 | $5.34T | +53% |
-	| 8× | $890 | $7.12T | +103% |
-	| 10× | $890 | $8.90T | +154% |
+	| 4× | $712 | $2.85T | −19% |
+	| **5×** | **$712** | **$3.56T** | **+2%** |
+	| 6× | $712 | $4.27T | +22% |
+	| 8× | $712 | $5.70T | +63% |
+	| 10× | $712 | $7.12T | +103% |
 
-	- **$890B revenue scenario**: Uses the full 2026E memory TAM from Table 0 (MS Chipflation). This is an aggressive proxy for Big 3 revenue — it assigns the entire memory market to the three vendors, whereas in reality NAND players (Kioxia, SanDisk) and Chinese DRAM (CXMT, YMTC) capture a slice. Treats the Big 3 as ~full-market for a round-number bull case
+	- **Big 3 share of TAM (~80%)**: Weighted by segment — DRAM (incl. HBM) ~72% of the $890B TAM with Big 3 at ~90% share, plus NAND ~28% of TAM with Big 3 at ~58% share (Kioxia, SanDisk, YMTC hold the rest). Blended ≈ 81%, rounded to ~80% → ~$712B
+	- **$890B TAM source**: Full 2026E memory TAM from Table 0 (MS Chipflation, June 2, 2026)
 	- **Current combined market cap**: The three companies are together worth ~$3.5T as of June 2026
-	- **5× P/S as a conservative anchor**: Even a conservative 5× multiple implies ~$4.45T combined — ~27% above the current ~$3.5T, suggesting upside if the revenue scenario plays out and multiples hold
+	- **5× P/S as a conservative anchor**: A conservative 5× multiple on ~$712B implies ~$3.56T combined — roughly in line with the current ~$3.5T (+2%), suggesting the market is already pricing ~5× peak-cycle memory sales; meaningful upside requires either higher multiples or revenue above the $712B share-adjusted level
 	- **Caveat — Samsung is not a pure play**: Samsung's market cap includes non-memory businesses (foundry, mobile, displays, consumer electronics). Applying a memory-revenue P/S to Samsung's full market cap overstates the memory-attributable multiple; the table is a blunt aggregate, not a clean per-company valuation
 	- **Caveat — cyclicality**: Memory is deeply cyclical; peak-cycle revenue should command a lower P/S than the table's flat multiples imply. The market typically de-rates memory names as the cycle approaches its top, anticipating the downturn
 
