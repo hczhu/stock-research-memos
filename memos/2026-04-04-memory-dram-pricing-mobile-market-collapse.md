@@ -6,7 +6,12 @@
 
 - ## DRAM Pricing: Sustained Upward Momentum
 	- Samsung raised Q2 DRAM average contract prices ~**30% QoQ**, following a ~**100% QoQ increase in Q1**
-		- Illustrative price path: KRW 10,000 (start of 2025) → KRW 20,000 (Q1 2026) → KRW 26,000 (Q2 2026)
+
+		| Period | Contract Price (KRW) | QoQ Change |
+		|---|---:|---:|
+		| Start of 2025 | ~10,000 | Baseline |
+		| Q1 2026 | ~20,000 | +~100% |
+		| Q2 2026 | ~26,000 | +~30% |
 	- Samsung completed Q2 supply negotiations with major customers in late March; contracts are finalized
 	- **HBM and server DRAM**: demand firm, no signs of price stabilization or decline
 	- **Legacy/PC DRAM (DDR4 8Gb)**: flat MoM as of late March per DRAMeXchange — rate of increase decelerating for legacy nodes
@@ -19,19 +24,23 @@
 - ## Mobile Handset Market: Structural Demand Collapse
 	- Channel checks (Qualcomm insider): mid-range Snapdragon production being cut hard — **some SKU-level yearly projections down ~30%**
 	- Memory and flash prices are the primary demand destructor in the mid-tier phone segment
-	- **2026 mobile shipment forecast**: ~**30%+ decline**, from ~1.2B units to ~0.8B units
-	- **2027 forecast**: additional **~10%+ decline** to ~0.7B units; little to no memory/flash price relief expected
+
+	| Year | Estimated Shipments | YoY Change |
+	|---|---:|---|
+	| 2025 (base) | ~1.2B units | — |
+	| 2026E | ~0.8B units | ~−30%+ |
+	| 2027E | ~0.7B units | ~−10%+ additional |
+
 	- Forward visibility is poor; supply chain confidence is low
 
 - ## Vendor Impact Stack Rank
-	- **MediaTek** — hardest hit (heaviest exposure to mid-range/entry-level handsets)
-	- **Qualcomm** — significantly impacted (mid-range Snapdragon cuts; premium segment partially insulated)
-	- **Samsung MX (Mobile Experience) division**:
-		- FY operating profit forecast: **>60% decline** from KRW 12.9T → ~KRW 5T; operating loss not ruled out in conservative scenario
-		- Q1 2026 operating margin: ~3% range (vs. 11% in Q1 2025)
-		- Q2+ 2026 operating margin: ~2% range; internal voices suggest even **1% may be difficult**
-	- **Samsung DA (Digital Appliances) + VD (Visual Display) divisions**:
-		- Operating loss ~KRW 200B in 2025; similar-sized deficit expected in 2026
+
+	| Vendor | Impact Level | Key Metrics |
+	|---|---|---|
+	| MediaTek | Hardest hit | Heaviest mid-range/entry-level handset exposure; some SKU-level yearly projections down ~30% |
+	| Qualcomm | Significantly impacted | Mid-range Snapdragon cuts; premium segment partially insulated |
+	| Samsung MX | Major impact | FY OP forecast >60% decline (KRW 12.9T → ~5T); Q1 2026 margin ~3% (vs. 11% in Q1 2025); Q2+ ~2%, potentially as low as 1% |
+	| Samsung DA + VD | Significant impact | Operating loss ~KRW 200B in 2025; similar deficit expected in 2026 |
 
 - ## Investment Implications
 	- **Long memory/SSD** (Samsung, SK Hynix, Micron): pricing power driven by AI capex supercycle; conventional DRAM supply tightness is a durable tailwind

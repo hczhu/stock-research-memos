@@ -9,13 +9,16 @@
 - **CPI impact — modest but measurable**
 	- Total estimated impact on headline CPI: **~0.10pp** in 2026 (from memory costs alone)
 	- PC and smartphone combined: **0.08pp** on headline CPI
-	- Breakdown by component (memory cost effect on CPI in 2026, pp):
-		- PCs: 15pp memory cost effect × 0.30% CPI weight = 0.045pp contribution
-		- Smartphones: 15pp × 0.20% = 0.030pp
-		- TVs: 10pp × 0.10% = 0.010pp
-		- Cars: 0pp × 3.80% (absorbed in margins, not passed through)
-		- Major household appliances: 5pp × 0.06%
-		- Game consoles: 125pp × 0.01% = negligible despite huge % impact
+	- Breakdown by component (memory cost effect on CPI in 2026):
+
+		| Component | Memory Cost Effect | CPI Weight | CPI Contribution (pp) |
+		|---|---:|---:|---:|
+		| PCs | 15pp | 0.30% | 0.045 |
+		| Smartphones | 15pp | 0.20% | 0.030 |
+		| TVs | 10pp | 0.10% | 0.010 |
+		| Cars | 0pp (absorbed in margins) | 3.80% | 0 |
+		| Major household appliances | 5pp | 0.06% | ~0.003 |
+		| Game consoles | 125pp | 0.01% | negligible |
 	- ASP-to-CPI relationship is not 1-to-1: quality adjustments make CPI series smoother; historically a 30% Y/Y increase in ASPs broadly consistent with ~10% Y/Y increase in CPI prices for computers
 	- MS forecasts CPI computers at **10% Y/Y in 2026** (consistent with 30% Y/Y ASP) — an acceleration of 15pp vs 2025
 - **Why PPI-to-CPI divergence matters for macro**

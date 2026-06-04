@@ -8,10 +8,13 @@
 	- **Context**: Past cycles were traditional inventory correction periods driven by the replacement cycles of PCs and smartphones. This cycle is driven by structural, exponential demand from AI training and inference.
 	- **Key data points**:
 		- HBM per Nvidia GPU generation:
-			- `H20`: `96 GB` HBM
-			- `H200`: `141 GB` HBM
-			- `B200`: `192 GB` HBM
-			- `B300`: `288 GB` HBM per chip
+
+			| GPU | HBM Capacity |
+			|---|---:|
+			| H20 | 96 GB |
+			| H200 | 141 GB |
+			| B200 | 192 GB |
+			| B300 | 288 GB |
 		- In `2025` alone, Nvidia shipped **millions of GPUs**; Nvidia's memory consumption now rivals the historical aggregate demand of the entire PC or smartphone industries
 		- Global smartphone shipments dropped `13%` in `2025`; PC shipments fell `10%` in `2025`
 		- Despite the consumer collapse, memory prices **more than doubled** — AI servers successfully outbid and hollowed out consumer electronics supply
