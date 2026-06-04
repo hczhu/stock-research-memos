@@ -1,4 +1,4 @@
-# stock-research-memos
+# stock-research
 
 Personal investment research repository. Raw notes, data extractions, earnings summaries, and theses on individual companies, sectors, and macro themes — primarily AI infrastructure, semiconductors, SaaS, and China tech.
 
@@ -7,7 +7,7 @@ Personal investment research repository. Raw notes, data extractions, earnings s
 ## Repository Structure
 
 ```
-stock-research-memos/
+stock-research/
 ├── memos/          # Dated research notes (130+ files)
 ├── earnings/       # Earnings call notes by company-quarter
 ├── theses/         # Long-form investment theses and templates
@@ -83,7 +83,7 @@ Example: `ai-chip-component-cost-shares-by-quarter.csv` — quarterly HBM/memory
    - Open Logseq
    - Click **"Add new graph"** (or the graph switcher in the top-left)
    - Select **"Open a local folder"**
-   - Navigate to and select the `stock-research-memos` directory
+   - Navigate to and select the `stock-research` directory
    - Logseq will index all `.md` files and create a `logseq/` config subfolder
 
 3. **Navigate to memos:**
