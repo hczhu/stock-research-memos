@@ -4,7 +4,16 @@ Guidance for AI agents (Codex, Claude Code, etc.) working in this repository.
 
 ## Repository Overview
 
-Plain-text research memo repository for personal stock investing. All content lives under `memos/`. No build system, tests, or application code.
+Plain-text research memo repository for personal stock investing. No build system, tests, or application code.
+
+## Directory Structure
+
+| Directory | Purpose |
+|-----------|---------|
+| `memos/` | Research notes — earnings summaries, podcast/report extractions, investment analysis |
+| `data/` | CSV files with structured quantitative data (e.g. cost shares, pricing tables by quarter) |
+| `earnings/` | Earnings call notes, one file per company-quarter (e.g. `MediaTek-2026-Q1.md`) |
+| `theses/` | Long-form investment theses and thesis templates |
 
 ## Before Creating a New Memo
 
