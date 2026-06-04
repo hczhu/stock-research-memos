@@ -29,19 +29,19 @@
 
 - ## Table 0b: Big 3 Implied Combined Market Cap by P/S Multiple
 
-	- Bull-case framing: if 2026 combined Big 3 memory revenue reaches **$800B**, the implied combined market cap at various price-to-sales (P/S) multiples is:
+	- Bull-case framing: if 2026 combined Big 3 memory revenue reaches **$890B** (the full 2026E memory TAM per MS — the Big 3 control ~90% of DRAM and a majority of total memory), the implied combined market cap at various price-to-sales (P/S) multiples is:
 
 	| P/S Ratio | 2026E Memory Revenue ($B) | Implied Combined Market Cap ($T) | vs. Current ~$3.5T |
 	|---:|---:|---:|---:|
-	| 4× | $800 | $3.2T | −9% |
-	| **5×** | **$800** | **$4.0T** | **+14%** |
-	| 6× | $800 | $4.8T | +37% |
-	| 8× | $800 | $6.4T | +83% |
-	| 10× | $800 | $8.0T | +129% |
+	| 4× | $890 | $3.56T | +2% |
+	| **5×** | **$890** | **$4.45T** | **+27%** |
+	| 6× | $890 | $5.34T | +53% |
+	| 8× | $890 | $7.12T | +103% |
+	| 10× | $890 | $8.90T | +154% |
 
-	- **$800B revenue scenario**: A bull case above the $439B Q1-annualized figure in Table 0 — assumes prices keep climbing through H2 2026 and full-year revenue runs well ahead of the Q1 run-rate
+	- **$890B revenue scenario**: Uses the full 2026E memory TAM from Table 0 (MS Chipflation). This is an aggressive proxy for Big 3 revenue — it assigns the entire memory market to the three vendors, whereas in reality NAND players (Kioxia, SanDisk) and Chinese DRAM (CXMT, YMTC) capture a slice. Treats the Big 3 as ~full-market for a round-number bull case
 	- **Current combined market cap**: The three companies are together worth ~$3.5T as of June 2026
-	- **5× P/S as a conservative anchor**: Even a conservative 5× multiple implies ~$4.0T combined — ~14% above the current ~$3.5T, suggesting modest upside if the revenue scenario plays out and multiples hold
+	- **5× P/S as a conservative anchor**: Even a conservative 5× multiple implies ~$4.45T combined — ~27% above the current ~$3.5T, suggesting upside if the revenue scenario plays out and multiples hold
 	- **Caveat — Samsung is not a pure play**: Samsung's market cap includes non-memory businesses (foundry, mobile, displays, consumer electronics). Applying a memory-revenue P/S to Samsung's full market cap overstates the memory-attributable multiple; the table is a blunt aggregate, not a clean per-company valuation
 	- **Caveat — cyclicality**: Memory is deeply cyclical; peak-cycle revenue should command a lower P/S than the table's flat multiples imply. The market typically de-rates memory names as the cycle approaches its top, anticipating the downturn
 
