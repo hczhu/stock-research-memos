@@ -27,6 +27,39 @@
 	- **HBM ASP**: Derived as HBM market size ÷ UBS demand (converted from Gb to GB ÷ 8); 2025: $31.5B / 2,188 mn GB = $14.4/GB; 2027E: $116B / 7,250 mn GB = $16.0/GB
 	- **UBS supply**: UBS did not publish HBM supply-side forecasts in available memos
 
+- ## How the $890B 2026E Memory TAM Is Built (MS Exhibit 40)
+
+	- The $890B is **total memory — DRAM + NAND, not DRAM alone**. MS reaches it as the 2025 base plus a record one-year increment, decomposed by segment:
+
+	| Build step | DRAM | NAND | Total |
+	|---|---:|---:|---:|
+	| 2025 memory market (base) | — | — | $220B |
+	| + 2026 YoY incremental revenue (Exhibit 40) | ~$445B | ~$150B | **~$595B** |
+	| = implied 2026E (base + increment) | — | — | ~$815B |
+	| **2026E memory TAM (MS headline)** | — | — | **$890B** |
+
+	- **Estimate revision** — the $890B is a fast-moving number; MS raised it sharply in just 3 months:
+
+	| 2026E memory TAM estimate | Value |
+	|---|---:|
+	| Prior estimate (≈Mar 2026) | $520B |
+	| Current estimate (Jun 2, 2026) | $890B |
+	| Revision | +$370B (+71%) |
+
+	- **Scale context** — the ~$600B YoY *increment* in memory revenue alone rivals or exceeds entire standalone 2026 hardware TAMs (Exhibit 40):
+
+	| 2026 standalone market | TAM |
+	|---|---:|
+	| Smartphone | $600B |
+	| **2026 incremental memory revenue** | **~$595B** |
+	| Server | $424B |
+	| PC | $256B |
+	| External Storage | $38B |
+
+	- **Incremental memory $ burden by end market** (who absorbs the cost): Servers **$246B**, Smartphones **$175B**, PCs **$132B**, External Storage **$13B** (~$566B total) — over half of the ~$1.3T aggregate hardware TAM
+	- **Reconciliation note**: $220B base + ~$595B increment ≈ $815B, ~$75B short of the $890B headline. The gap reflects rounding ("~$600B" increment) and stitched TrendForce/IDC data vintages — MS does not present a fully tied-out bridge; the $890B is the round full-TAM figure
+	- **Source**: Morgan Stanley Chipflation report, June 2, 2026, Exhibit 40 (TrendForce estimates, IDC data, MS Research)
+
 - ## Table 0b: Big 3 Implied Combined Market Cap by P/S Multiple
 
 	- Bull-case framing: the Big 3 capture **~80% of the $890B 2026E memory TAM** (see derivation below) → **~$712B** combined Big 3 memory revenue. Implied combined market cap at various price-to-sales (P/S) multiples:
