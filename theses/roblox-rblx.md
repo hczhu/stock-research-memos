@@ -87,7 +87,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
   |---|---|---|
   | Fortnite | Higher ARPU (15% MUP/MAU vs Roblox **9%** in 2026Q1); ≈46.8M US players | Single-game; lacks Roblox's UGC breadth |
   | Minecraft | Strong IP, cross-platform | $500M peak revenue — far smaller monetization |
-  | PlayStation/Sony | ≈$18-20B software+digital revenue (total segment ≈$30B incl. hardware) on ≈1/3 the MAUs | Closed console economics; not UGC |
+  | PlayStation/Sony | ≈$21.2B content revenue (total segment ≈$30.5B incl. hardware; FY2026 — see Appendix) on 125M MAUs (≈1/3 of Roblox) | Closed console economics; not UGC |
   | Meta Horizon Worlds (VR) | Lots of under-13 kids; VR-native | Watch as a long-term substitute for Roblox's young base |
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
