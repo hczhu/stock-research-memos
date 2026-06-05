@@ -1,5 +1,5 @@
 - **Source**: Tweet/X chain from `@NaveenGRao`, `@SawyerMerritt`, `@downingARK`, and `@wintonARK` on `2026-03-31`
-- **Topic**: [[Google]] vs [[OpenAI]] token throughput, API demand, and what Google may be counting in its token disclosures
+- **Topic**: [[$GOOGL]] vs [[OpenAI]] token throughput, API demand, and what Google may be counting in its token disclosures
 - **Extracted data points**
 	- [[OpenAI]] latest funding round:
 		- `$122B` in committed capital
@@ -14,7 +14,7 @@
 	- Implied monthly tokens for OpenAI at `15B tok/min`:
 		- `~0.648 quadrillion tok/month` assuming a `30-day` month
 		- `~0.657 quadrillion tok/month` assuming a `30.44-day` average month
-	- [[Google]] token disclosures referenced in the chain:
+	- [[$GOOGL]] token disclosures referenced in the chain:
 		- `>1 quadrillion tok/month` claimed by Google "last year" per Naveen Rao's opening post
 		- `10B tok/min` via direct API used by customers for first-party models like Gemini, per Brett Winton citing Google's quarterly earnings call in `February 2026`
 		- `7B tok/min` in the prior quarter for the same direct API / first-party-model disclosure
@@ -40,13 +40,13 @@
 		- Therefore the two disclosures can be consistent
 		- If total Google-served tokens exceed `1 quadrillion/month` while Gemini direct API is only `10B tok/min`, that implies Google is serving a substantial amount of non-Gemini traffic
 - **Main inference from the chain**
-	- The most important distinction is not simply [[Google]] vs [[OpenAI]], but:
+	- The most important distinction is not simply [[$GOOGL]] vs [[OpenAI]], but:
 		- first-party direct API traffic for Google's own models
 		- versus total model-serving volume across [[Google Cloud Platform]], which may include [[Anthropic]] and open models
 	- The chain's conclusion is that Google's higher monthly token number probably does **not** mean Gemini API alone is larger than OpenAI API
 	- Instead, it likely means Google is aggregating a broader base of token demand than OpenAI's disclosed number
 - **Potential stock memo relevance**
-	- [[Google]] / [[Alphabet]]:
+	- [[$GOOGL]]:
 		- Low-cost Flash and broad model-hosting breadth may be meaningful drivers of token volume
 		- Google may be gaining strategic importance as a multi-model serving platform, not just through Gemini demand
 	- [[OpenAI]] ecosystem read-through:

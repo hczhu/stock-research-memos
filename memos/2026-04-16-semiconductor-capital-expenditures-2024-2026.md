@@ -1,4 +1,4 @@
-- tags:: [[semiconductor]], [[capex]], [[DRAM]], [[foundry]], [[IDM]], [[TSMC]], [[Samsung]], [[Micron]], [[SK Hynix]]
+- tags:: [[semiconductor]], [[capex]], [[DRAM]], [[foundry]], [[IDM]], [[$TSM]], [[$005930.KS]], [[$MU]], [[$000660.KS]]
 
 - ## Semiconductor Capital Expenditures, 2024-2026
 	- **Source context**: Screenshot titled **"Semiconductor Capital Expenditures, US$ Billion"**
@@ -9,7 +9,7 @@
 		- year-over-year change columns for `2025` and `2026`
 	- **Interpretation**:
 		- memory capex is the strongest growth bucket in the screenshot, rising from `54.9` in `2024` to `90.3` in `2026`
-		- foundry capex also accelerates meaningfully, driven mainly by [[TSMC]]
+		- foundry capex also accelerates meaningfully, driven mainly by [[$TSM]]
 		- IDM capex declines across the period, pulling total industry mix away from traditional IDMs and toward memory plus foundries
 	- **Data quality note**:
 		- the `Terrafab` line only shows a `2026` value of `3.0` in the screenshot; `2024`, `2025`, and the change columns are blank, so they are kept blank below
@@ -41,6 +41,6 @@
 - ## Key Takeaways
 	- Total semiconductor capex rises from `US$155B` in `2024` to `US$200B` in `2026`, with industry growth of `7%` in `2025` and `20%` in `2026`.
 	- Memory companies show the largest absolute increase, adding `US$35.4B` of capex from `2024` to `2026`.
-	- [[TSMC]] is the biggest single foundry driver, moving from `US$29.8B` in `2024` to `US$54.0B` in `2026`.
-	- [[Micron]] and [[SK Hynix]] have the fastest named memory-company growth rates in the table, reflecting the memory upcycle and AI-related demand.
-	- The IDM bucket contracts from `US$55.0B` in `2024` to `US$37.5B` in `2026`, with notable declines at [[Intel]] and [[Texas Instruments]].
+	- [[$TSM]] is the biggest single foundry driver, moving from `US$29.8B` in `2024` to `US$54.0B` in `2026`.
+	- [[$MU]] and [[$000660.KS]] have the fastest named memory-company growth rates in the table, reflecting the memory upcycle and AI-related demand.
+	- The IDM bucket contracts from `US$55.0B` in `2024` to `US$37.5B` in `2026`, with notable declines at [[$INTC]] and [[$TXN]].

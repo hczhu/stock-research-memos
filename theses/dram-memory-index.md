@@ -1,4 +1,4 @@
-tags:: [[DRAM]], [[HBM]], [[NAND]], [[Samsung]], [[SK Hynix]], [[Micron]], [[memory]], [[super-cycle]], [[AI infrastructure]], [[semiconductor]]
+tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[memory]], [[super-cycle]], [[AI infrastructure]], [[semiconductor]]
 
 - **Instrument**: $DRAM — memory-industry index fund (not a single company)
 - **Top 3 holdings**: Samsung Electronics, SK Hynix, Micron — the "Big 3" controlling ≈90% of DRAM output and the majority of total memory

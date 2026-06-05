@@ -1,4 +1,4 @@
-- tags:: [[capex]], [[hyperscalers]], [[semiconductor]], [[Microsoft]], [[Meta]], [[Google]], [[Amazon]], [[TSMC]], [[Samsung]], [[Micron]], [[SK Hynix]]
+- tags:: [[capex]], [[hyperscalers]], [[semiconductor]], [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMZN]], [[$TSM]], [[$005930.KS]], [[$MU]], [[$000660.KS]]
 
 - ## 2026 Capex Projections: Semiconductor Companies vs Hyperscalers
 	- **Source memos**:
@@ -57,11 +57,11 @@ xychart-beta
 
 - ## Quick Comparisons
 	- The hyperscaler spending scale is an order of magnitude larger than individual semiconductor-company capex.
-	- Even the lowest Big 4 hyperscaler in the range, [[Meta]] at `US$125B`, is still more than `2x` [[TSMC]]'s `US$54B` projected capex.
-	- [[Amazon]] plus [[Microsoft]] alone imply roughly `US$390B` of `2026` capex, which exceeds the full `US$200B` `2026` semiconductor-industry total shown in the semiconductor memo.
-	- Within semiconductors, [[TSMC]], [[Samsung]], [[SK Hynix]], and [[Micron]] are the dominant named capex spenders in the source dataset.
+	- Even the lowest Big 4 hyperscaler in the range, [[$META]] at `US$125B`, is still more than `2x` [[$TSM]]'s `US$54B` projected capex.
+	- [[$AMZN]] plus [[$MSFT]] alone imply roughly `US$390B` of `2026` capex, which exceeds the full `US$200B` `2026` semiconductor-industry total shown in the semiconductor memo.
+	- Within semiconductors, [[$TSM]], [[$005930.KS]], [[$000660.KS]], and [[$MU]] are the dominant named capex spenders in the source dataset.
 
 - ## Caveats
 	- The two source memos do not represent the same economic layer: one tracks semiconductor manufacturers, the other tracks cloud / platform operators.
 	- Hyperscaler figures include broader data center and infrastructure spending, not just chip-related capex.
-	- [[Meta]] and [[Google]] are ranges; the chart shows both low and high values rather than forcing a midpoint.
+	- [[$META]] and [[$GOOGL]] are ranges; the chart shows both low and high values rather than forcing a midpoint.

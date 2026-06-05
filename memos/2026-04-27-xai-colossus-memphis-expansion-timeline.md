@@ -1,4 +1,4 @@
-- tags:: [[xAI]], [[Colossus]], [[NVIDIA]], [[GPU]], [[data-center]], [[power]], [[HBM]], [[Memphis]]
+- tags:: [[xAI]], [[Colossus]], [[$NVDA]], [[GPU]], [[data-center]], [[power]], [[HBM]], [[Memphis]]
 
 - ## xAI Colossus Memphis Expansion Timeline
 	- **Source context**: user-provided chronology about xAI's Memphis data center buildout

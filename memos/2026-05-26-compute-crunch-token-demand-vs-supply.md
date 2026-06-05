@@ -1,4 +1,4 @@
-- tags:: [[NVIDIA]], [[inference]], [[AI]], [[compute]], [[Blackwell]], [[GB200]], [[semiconductor]], [[Epoch-AI]]
+- tags:: [[$NVDA]], [[inference]], [[AI]], [[compute]], [[Blackwell]], [[GB200]], [[semiconductor]], [[Epoch-AI]]
 
 - ## Is a Compute Crunch Coming? Token Demand vs Supply Analysis
 	- **Source**: Gradient Updates (Epoch AI) — "Is a compute crunch coming?", Luke Emberson and Jaime Sevilla, May 26, 2026

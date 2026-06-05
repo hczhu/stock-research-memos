@@ -1,4 +1,4 @@
-- tags:: [[MediaTek]], [[Google]], [[TSMC]], [[ASIC]], [[TPU]], [[AI infrastructure]], [[semiconductor]], [[advanced-node]], [[foundry]]
+- tags:: [[$2454.TW]], [[$GOOGL]], [[$TSM]], [[ASIC]], [[TPU]], [[AI infrastructure]], [[semiconductor]], [[advanced-node]], [[foundry]]
 
 - ## MediaTek–Google TPU Co-Design and the Semi-COT Wafer Model
 	- **Source**: Channel/industry notes, May 2026

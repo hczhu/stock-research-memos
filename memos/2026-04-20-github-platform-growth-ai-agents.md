@@ -1,4 +1,4 @@
-tags:: [[Microsoft]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metrics]], [[agents]]
+tags:: [[$MSFT]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metrics]], [[agents]]
 
 - ## GitHub Platform Growth — Commits & Actions (2023–2026)
 	- **Source**: GitHub internal operational metrics, shared publicly (attributed to GitHub leadership commentary on AI-agent-driven platform activity), April 2026
@@ -26,7 +26,7 @@ tags:: [[Microsoft]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metric
 	- GitHub is investing heavily in scaling compute (more CPUs), scaling backend services, and hardening core platform features to keep pace with agentic workloads.
 	- This signals that AI-agent-generated activity is already material to GitHub's infrastructure cost base — and by extension Microsoft Azure (which hosts GitHub infrastructure).
 - ## Investment Implications
-	- **[[Microsoft]] (MSFT)**: GitHub is wholly owned by Microsoft. Platform growth at this scale directly reinforces the GitHub Copilot monetization story (more developers → more seats) and accelerates Azure consumption (GitHub Actions runs on Azure compute). The Actions compute growth (+4.2× since 2023) is a direct Azure revenue signal.
+	- **[[$MSFT]] (MSFT)**: GitHub is wholly owned by Microsoft. Platform growth at this scale directly reinforces the GitHub Copilot monetization story (more developers → more seats) and accelerates Azure consumption (GitHub Actions runs on Azure compute). The Actions compute growth (+4.2× since 2023) is a direct Azure revenue signal.
 	- **AI coding agent flywheel**: More commits → more CI runs → more compute consumed → more Copilot suggestions generated → more commits. GitHub becomes a compounding demand driver for both AI inference (Copilot) and cloud compute (Actions).
 	- **Competitive moat**: The network effects of commit history, pull requests, and Actions pipelines embedded in GitHub strengthen the platform's stickiness as AI agents proliferate. Alternative platforms (GitLab, Bitbucket) face the same agent-driven volume but with smaller installed bases.
 	- **Risk**: Infrastructure cost scale-up could pressure margins if compute cost growth outpaces revenue growth from seats/consumption; "it won't stay linear" acknowledgment suggests the source expects a deceleration.

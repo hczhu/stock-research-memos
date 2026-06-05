@@ -1,4 +1,4 @@
-- tags:: [[HBM]], [[DRAM]], [[NVIDIA]], [[AI infrastructure]], [[semiconductor]], [[Samsung]], [[SK Hynix]], [[Micron]], [[capex]]
+- tags:: [[HBM]], [[DRAM]], [[$NVDA]], [[AI infrastructure]], [[semiconductor]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[capex]]
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: HBM Cannibalization and the Two-Tier Market
 - **Core argument**: HBM demand is scaling non-linearly at every layer of the AI stack, and because HBM consumes disproportionate leading-edge wafer capacity, it is actively crowding out conventional DRAM supply for smartphones, PCs, and industrial markets
 - **HBM demand multipliers across the AI stack**

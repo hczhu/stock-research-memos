@@ -1,4 +1,4 @@
-- tags:: [[Michael-Burry]], [[DRAM]], [[HBM]], [[Micron]], [[Samsung]], [[SK Hynix]], [[SOXX]], [[semiconductor]], [[bear-case]]
+- tags:: [[Michael-Burry]], [[DRAM]], [[HBM]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$SOXX]], [[semiconductor]], [[bear-case]]
 
 - ## Michael Burry's Bear Case Against Memory Companies
 	- **Source**:

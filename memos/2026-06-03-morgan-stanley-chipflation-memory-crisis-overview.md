@@ -34,5 +34,5 @@
 	- Demand destruction in consumer/industrial hardware eases supply tightness
 	- Geopolitics and trade policy disruptions to global supply chain
 - **Stock implications summary**
-	- Long: DRAM suppliers ([[Samsung]], [[SK Hynix]], [[Micron]]), NAND ([[KIOXIA]]/[[SanDisk]]), HDD ([[Seagate]], [[Western Digital]]), [[ASML]], [[AMAT]], [[KLA]]
+	- Long: DRAM suppliers ([[$005930.KS]], [[$000660.KS]], [[$MU]]), NAND ([[$285A.T]]/[[$SNDK]]), HDD ([[$STX]], [[$WDC]]), [[$ASML]], [[$AMAT]], [[$KLA]]
 	- Short/underweight: hardware OEMs with consumer exposure and low pricing power (small-cap PC, gaming console makers, low-end smartphone OEMs)

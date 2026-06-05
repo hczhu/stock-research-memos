@@ -1,4 +1,4 @@
-- tags:: [[Micron]], [[DRAM]], [[HBM]], [[SSD]], [[inference]], [[data-center]], [[semiconductor]]
+- tags:: [[$MU]], [[DRAM]], [[HBM]], [[SSD]], [[inference]], [[data-center]], [[semiconductor]]
 
 - ## Micron Podcast: Memory, Inference Hierarchy, And Capacity Constraints
 	- **Source context**:

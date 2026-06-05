@@ -1,4 +1,4 @@
-- tags:: [[foundation models]], [[model labs]], [[AI]], [[Anthropic]], [[Google]], [[OpenAI]], [[SaaS]], [[pricing power]], [[bear-case]]
+- tags:: [[foundation models]], [[model labs]], [[AI]], [[Anthropic]], [[$GOOGL]], [[OpenAI]], [[SaaS]], [[pricing power]], [[bear-case]]
 
 - ## Foundation Model Pricing Power Bear Case
 	- **Source**:

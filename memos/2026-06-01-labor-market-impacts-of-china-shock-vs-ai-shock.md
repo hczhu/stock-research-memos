@@ -1,4 +1,4 @@
-- tags:: [[AI]], [[Labor market]], [[China shock]], [[Productivity]], [[Employment]], [[Apollo]]
+- tags:: [[AI]], [[Labor market]], [[China shock]], [[Productivity]], [[Employment]], [[$APO]]
 
 - ## Labor Market Impacts Of China Shock Vs AI Shock
 	- **Source context**:

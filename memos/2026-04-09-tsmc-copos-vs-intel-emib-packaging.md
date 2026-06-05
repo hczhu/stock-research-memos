@@ -1,4 +1,4 @@
-- tags:: [[TSMC]], [[Intel]], [[NVIDIA]], [[packaging]], [[CoWoS]], [[CoPoS]], [[EMIB]], [[AI-compute]], [[semiconductor]]
+- tags:: [[$TSM]], [[$INTC]], [[$NVDA]], [[packaging]], [[CoWoS]], [[CoPoS]], [[EMIB]], [[AI-compute]], [[semiconductor]]
 
 - ## TSMC Accelerating CoPoS Packaging to Counter Intel EMIB-T
 	- **Source**: UBS research note, via user (2026-04-09)

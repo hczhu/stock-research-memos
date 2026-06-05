@@ -1,4 +1,4 @@
-- tags:: [[Microsoft]], [[Meta]], [[Google]], [[Amazon]], [[capex]], [[hyperscalers]], [[AI]], [[data-center]]
+- tags:: [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMZN]], [[capex]], [[hyperscalers]], [[AI]], [[data-center]]
 
 - ## Big 4 US Tech 2026 Capex Projections
 	- **Source context**: user-provided data points
@@ -26,10 +26,10 @@
 	| Big 4 2026 high-end total | `725` | `190 + 145 + 190 + 200` |
 
 - ## Key Observations
-	- [[Microsoft]] appears to have delivered the largest positive surprise relative to the cited expectation, with `US$190B` versus a `US$150B` estimate.
-	- [[Meta]] and [[Google]] both moved their capex ranges higher, which suggests continuing pressure from AI component costs and ongoing data center buildout requirements.
-	- [[Amazon]] did not raise its figure in the provided text, but reaffirming roughly `US$200B` still keeps it at the top end of hyperscaler spending.
-	- [[Google]] is the only company in the provided data points that explicitly flagged another significant capex increase in `2027`, which matters for second-derivative demand expectations across servers, networking, power, cooling, and memory.
+	- [[$MSFT]] appears to have delivered the largest positive surprise relative to the cited expectation, with `US$190B` versus a `US$150B` estimate.
+	- [[$META]] and [[$GOOGL]] both moved their capex ranges higher, which suggests continuing pressure from AI component costs and ongoing data center buildout requirements.
+	- [[$AMZN]] did not raise its figure in the provided text, but reaffirming roughly `US$200B` still keeps it at the top end of hyperscaler spending.
+	- [[$GOOGL]] is the only company in the provided data points that explicitly flagged another significant capex increase in `2027`, which matters for second-derivative demand expectations across servers, networking, power, cooling, and memory.
 
 - ## Investment Framing
 	- The combined `US$695B-$725B` range reinforces the view that hyperscaler AI infrastructure demand remains in active expansion mode.

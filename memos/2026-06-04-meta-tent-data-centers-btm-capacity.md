@@ -1,4 +1,4 @@
-- tags:: [[Meta]], [[data-center]], [[capex]], [[AI infrastructure]], [[power]], [[energy]], [[Williams Companies]], [[behind-the-meter]]
+- tags:: [[$META]], [[data-center]], [[capex]], [[AI infrastructure]], [[power]], [[energy]], [[$WMB]], [[behind-the-meter]]
 
 - ## Meta's Tent Data Centers and the Rise of Behind-the-Meter Compute
 	- **Source**: Cleanview report on behind-the-meter data centers; author reviewed hundreds of documents and satellite images, June 2026

@@ -1,4 +1,4 @@
-- tags:: [[DRAM]], [[HBM]], [[NAND]], [[Samsung]], [[SK Hynix]], [[Micron]], [[semiconductor]], [[AI infrastructure]], [[supply]]
+- tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[semiconductor]], [[AI infrastructure]], [[supply]]
 
 - ## Memory Market Size and Big 3 Financials — Data Compilation
 	- **Source**: Synthesized from memos in this repo; primary sources include Morgan Stanley, Epoch AI, UBS, Goldman Sachs, Gartner; Big 3 annual and quarterly earnings reports (2025–Q1 2026)

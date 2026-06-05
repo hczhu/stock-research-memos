@@ -1,4 +1,4 @@
-tags:: [[TOST]], [[SaaS]], [[AI]], [[payments]], [[enterprise]], [[platform-metrics]], [[valuation]]
+tags:: [[$TOST]], [[SaaS]], [[AI]], [[payments]], [[enterprise]], [[platform-metrics]], [[valuation]]
 
 - **Source**: Business Breakdowns podcast — "Toast: Sticky SaaS"; guest Sean Barrett (founder & CIO, Counter Global, ~15% position in TOST); host Matt Russell
 - **Thesis**: Toast is the category-killing vertical SaaS OS for F&B, winning ~50% of new US restaurant openings, expanding into 5 new TAMs, shipping differentiated AI products, and trading at 18x 2027 GAAP PE despite being a 25%+ gross profit / 30%+ EPS compounder
