@@ -71,3 +71,14 @@ tags:: [[TICKER]], [[sector]]
 	- | Date | Source | Anecdote / Opinion | Signal direction |
 	  |------|--------|--------------------|-----------------|
 	  |      |        |                    | bullish / bearish / neutral |
+  
+  ---
+- ## Appendix
+	- > Supporting reference material that backs claims made above but is too detailed for the main body — segment revenue breakdowns, unit economics, cohort tables, source financials, currency conversions, and methodology notes. Cite the source and date for each, and link back from the section that relies on it.
+	-
+	- ### [Table / dataset title]
+		- **Source**: [report, filing, or dataset; date]. [Conversion / methodology notes, e.g. FX rate used.]
+		-
+		- | Metric | Value | Value | Notes |
+		  |--------|------:|------:|-------|
+		  |        |       |       |       |
