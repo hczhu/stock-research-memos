@@ -14,7 +14,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	- ---
 - ## Napkin Math
 	- > Back-of-the-envelope valuation anchored to a 5–10 year horizon. TAM, revenue, margins; don't pay too high a price.
-	- **Monetization ceiling / TAM**: Plan to capture **10% of the $140B global gaming content market (ex-China)**. Roblox would earn almost **5× ($13.5B)** its revenue if it reached Fortnite's ARPU — Fortnite's MUP/MAU is 15% vs Roblox's **4%**. ABPDAU was $51.29 in 2022 (down 14%).
+	- **Monetization ceiling / TAM**: Plan to capture **10% of the $140B global gaming content market (ex-China)**. Roblox would earn ~**1.7× more** if it reached Fortnite's payer-conversion rate — Fortnite's MUP/MAU is ~15% vs Roblox's **9% (2026Q1, up from 4% in 2024)**. MUP grew +52% YoY to 30.7M in 2026Q1; the conversion gap to Fortnite has narrowed sharply. ABPDAU ~$54 on an LTM basis (2026Q1).
 	- **Scale vs. monetization gap (the core mispricing)**:
 	  
 	  | Company | Category | Annual revenue |
@@ -22,9 +22,9 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | Roblox | 3D UGC platform | $7.3B (LTM bookings to 2026 Q1) |
 	  | Steam | PC gaming platform | $8.5B |
 	  | Fortnite | Single game | $6B |
-	  | Sony gaming | Console | $6B digital + $9B add-on |
+	  | Sony gaming | Console | ~$18-20B software+digital (segment ~$30B incl. hardware) |
 	  | Minecraft | PC/console/mobile | $500M at peak |
-	- **The PlayStation comparison**: PlayStation has ~120M MAUs (vs Roblox 375M) and ~50M DAUs (vs Roblox 80M) — *one-third* the MAUs and 75% of the playtime — yet generated ~**$31B** revenue vs Roblox's ~$3.8B bookings. Roblox is dramatically under-monetized relative to engagement.
+	- **The PlayStation comparison**: PlayStation has ~110M PSN MAUs (vs Roblox ~340M) and ~50M DAUs (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ~**$18-20B** in game software, digital downloads, add-on content, and network services (total PlayStation segment ~$30B including hardware) vs Roblox's **~$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
 	- **End-state scenarios**:
 	  
 	  | Scenario | DAU | Bookings | FCF / margin | Notes |
@@ -54,8 +54,9 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
 	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events — the second revenue leg |
 	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
-	  | Mobile-commission relief | Regulators forcing Apple/Google to open distribution → margin tailwind (2023: 30% Apple / 17% Google) |
-	  | Infra cost per hour | "Less than a penny" and falling as AI improves the safety/civility stack |
+	  | Mobile-commission relief | Regulators forcing Apple/Google to open distribution → margin tailwind (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023) |
+	  | Infra cost per hour | $10.5/1000 hours in 2026Q1 (down from ~$14 in 2022–23, ~25% improvement) — confirming the "less than a penny" structural cost advantage |
+	  | Payer conversion (MUP/MAU) | **9% in 2026Q1**, up from 4% in 2024; MUP +52% YoY to 30.7M; DUP 1.8M — gap to Fortnite (~15%) narrowing fast |
 	- ---
 - ## Secular Trends as Tailwinds
   
@@ -83,14 +84,14 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
   
   | Competitor | Advantage vs. Roblox | Assessment |
   |---|---|---|
-  | Fortnite | Higher ARPU (15% MUP/MAU vs 4%); ~46.8M US players | Single-game; lacks Roblox's UGC breadth |
+  | Fortnite | Higher ARPU (15% MUP/MAU vs Roblox **9%** in 2026Q1); ~46.8M US players | Single-game; lacks Roblox's UGC breadth |
   | Minecraft | Strong IP, cross-platform | $500M peak revenue — far smaller monetization |
-  | PlayStation/Sony | ~$31B revenue on 1/3 the MAUs | Closed console economics; not UGC |
+  | PlayStation/Sony | ~$18-20B software+digital revenue (total segment ~$30B incl. hardware) on ~1/3 the MAUs | Closed console economics; not UGC |
   | Meta Horizon Worlds (VR) | Lots of under-13 kids; VR-native | Watch as a long-term substitute for Roblox's young base |
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Profitability / marginal costs** — structural take: ~24% app-store fees + ~27% to developers + ~33% infra & safety = **~84% of revenue**. The model only works if app-store fees fall and infra leverage improves.
-	  2. **Saturation in high-ARPU countries** — UCAN only ~18M DAU; growth increasingly comes from lower-ARPU regions, pressuring blended monetization.
+	  2. **Saturation in high-ARPU countries** — US DAU ~26M (Q3 2025); growth increasingly comes from lower-ARPU regions (APA 46M DAU at $5.27 ABPDAU vs US $40.18), pressuring blended monetization.
 	  3. **Age-up execution risk** — verification slowed signups and cut guidance; if older cohorts don't convert to higher-margin content, the pivot stalls.
 	  4. **Ads may not scale** — kid-safety constraints limit ad inventory/targeting; management itself said (2023) "we've never said advertising is going to be the meat of our business."
 	  5. **VR substitution** — Meta Horizon Worlds and VR-native UGC could capture the next generation of under-13s.
