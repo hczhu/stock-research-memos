@@ -1,13 +1,5 @@
 tags:: [[TICKER]], [[sector]]
 
-- ## Investment Philosophy
-	- Take a long view. Be patient. Let a high-quality company in a large market compound over time.
-	- **Happy investing**: Enjoy understanding things, from technologies to businesses. Get hands on if it helps deepen understanding.
-	- **Passive growth investing**: Buy companies where growth trades at a reasonable price (PEG ratios).
-	- **Contrarian value investing**: Buy companies with temporary or solvable difficulties that are misunderstood by the market.
-	- **Passive investing**: Buy broad ETFs and sector ETFs when there are not enough opportunities from the two categories above.
-	  
-	  ---
 - **Company**: Company Name (TICKER)
 - **Date**: YYYY-MM-DD
 - **Market cap at writing**: $XXB
