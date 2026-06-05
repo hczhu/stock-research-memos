@@ -24,7 +24,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | Fortnite | Single game | $6B |
 	  | Sony gaming | Console | ~$21.2B content (digital+add-on+network); ~$30.5B total segment incl. hardware (FY2026 — see Appendix) |
 	  | Minecraft | PC/console/mobile | $500M at peak |
-	- **The PlayStation comparison**: PlayStation has ~110M PSN MAUs (vs Roblox ~340M) and ~50M DAUs (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ~**$21.2B** in game software, digital downloads, add-on content, and network services (total PlayStation segment **~$30.5B** including hardware; FY ended Mar 2026 — see Appendix) vs Roblox's **~$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
+	- **The PlayStation comparison**: PlayStation has **125M MAUs** (March 2026, +1% YoY, record Q4 high; vs Roblox ~340M) and ~50M DAUs (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ~**$21.2B** in game software, digital downloads, add-on content, and network services (total PlayStation segment **~$30.5B** including hardware; FY ended Mar 2026 — see Appendix) vs Roblox's **~$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
 	- **End-state scenarios**:
 	  
 	  | Scenario | DAU | Bookings | FCF / margin | Notes |
