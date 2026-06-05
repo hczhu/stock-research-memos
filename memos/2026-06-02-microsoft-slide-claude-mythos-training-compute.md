@@ -1,4 +1,4 @@
-- tags:: [[Microsoft]], [[Anthropic]], [[Claude]], [[AI training]], [[model scaling]], [[AI infrastructure]]
+- tags:: [[$MSFT]], [[Anthropic]], [[Claude]], [[AI training]], [[model scaling]], [[AI infrastructure]]
 
 - ## Microsoft Slide: Claude Mythos Training Compute
 	- **Source**:

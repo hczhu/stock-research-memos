@@ -1,4 +1,4 @@
-- tags:: [[Neocloud]], [[CoreWeave]], [[Nebius]], [[FluidStack]], [[NVIDIA]], [[TPU]], [[AI infrastructure]], [[Anthropic]], [[OpenAI]], [[xAI]], [[data-center]], [[GPU]], [[KV-cache]], [[storage]], [[Oracle]]
+- tags:: [[Neocloud]], [[$CRWV]], [[$NBIS]], [[FluidStack]], [[$NVDA]], [[TPU]], [[AI infrastructure]], [[Anthropic]], [[OpenAI]], [[xAI]], [[data-center]], [[GPU]], [[KV-cache]], [[storage]], [[$ORCL]]
 
 - ## Neocloud — Supply/Demand Dynamics and AI Infrastructure Restructuring
 	- **Source**: 硅谷坐标 (SV-Vector) interview with Kenny Zhang, CIO of Valliance (璞林资本); June 2026

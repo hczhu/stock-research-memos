@@ -1,4 +1,4 @@
-tags:: [[Roblox]], [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [[AI]], [[metaverse]]
+tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [[AI]], [[metaverse]]
 
 - **Company**: Roblox Corporation ($RBLX)
 - **Date**: 2026-06-04

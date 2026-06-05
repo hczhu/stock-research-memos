@@ -23,10 +23,10 @@
 		- 2000 年台積電 100 元、聯電 50 元；台積電市值當時約聯電 2 倍，如今已是聯電 80 倍
 	- Translation summary: The "2-year ASIC lag" thesis is flawed — NVIDIA also has 3-4 year design cycles locked in with TSMC. All leading players use overlapping parallel development. The real moat is sustained iteration + TSMC manufacturing lock-in. Hyperscaler ASICs are a long game (20 years), not a quick substitute. The TSMC/UMC precedent shows that being one generation behind compounds fatally over time.
 - **Key takeaways**:
-	- [[Amazon]] [[Trainium]] underperformance → resumed heavy GPU buying (near-term)
-	- Bear case on ASICs: long tape-out cycle means chips ship behind the GPU generation they targeted; happened repeatedly with [[Google]] TPU
+	- [[$AMZN]] [[Trainium]] underperformance → resumed heavy GPU buying (near-term)
+	- Bear case on ASICs: long tape-out cycle means chips ship behind the GPU generation they targeted; happened repeatedly with [[$GOOGL]] TPU
 	- Bull case on ASICs: all players use parallel overlapping development; time barriers are symmetric; hyperscalers have capital and 20-year horizon to iterate
-	- [[TSMC]] lock-in is the real moat — missing one manufacturing cycle is potentially fatal; explains why no one risks Samsung/Intel for leading-edge AI chips
+	- [[$TSM]] lock-in is the real moat — missing one manufacturing cycle is potentially fatal; explains why no one risks Samsung/Intel for leading-edge AI chips
 	- TSMC vs UMC historical analogy: perpetually "one generation behind" compounds into an 80x market cap divergence over 25 years
 	- ASICs likely serve dual purpose: genuine long-term strategic bet + near-term NVIDIA negotiating leverage
-	- [[NVIDIA]] strategy: accelerate new design starts to exhaust competitors' engineering bandwidth
+	- [[$NVDA]] strategy: accelerate new design starts to exhaust competitors' engineering bandwidth

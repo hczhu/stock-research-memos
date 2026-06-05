@@ -1,4 +1,4 @@
-tags:: [[AI]], [[NVIDIA]], [[Anthropic]], [[inference]], [[agents]], [[GPU]], [[semiconductor]], [[AI infrastructure]], [[developer-tools]], [[LLM]]
+tags:: [[AI]], [[$NVDA]], [[Anthropic]], [[inference]], [[agents]], [[GPU]], [[semiconductor]], [[AI infrastructure]], [[developer-tools]], [[LLM]]
 
 - **Source**: Unsupervised Learning podcast (host: Jacob Efron, Redpoint investor); guest: Lucas Kaiser — co-author of "Attention Is All You Need" (the Transformer paper), ex-Google Brain, ex-OpenAI researcher
 - **Context**: Primary research perspective from one of the architects of modern AI; covers architecture frontiers, coding agent productivity, competitive dynamics, hardware, and open vs. closed source

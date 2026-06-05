@@ -1,4 +1,4 @@
-- tags:: [[NVIDIA]], [[Groq]], [[SRAM]], [[HBM]], [[inference]], [[Heterogeneous Inference]], [[GTC 2026]]
+- tags:: [[$NVDA]], [[Groq]], [[SRAM]], [[HBM]], [[inference]], [[Heterogeneous Inference]], [[GTC 2026]]
 
 - ## GTC 2026 预览：从 Groq 生态位看 AI 异构推理新时代
 	- **来源上下文**:

@@ -1,4 +1,4 @@
-- tags:: [[Figma]], [[Anthropic]], [[Claude]], [[Claude Design]], [[AI design tools]], [[SaaS]], [[AI]]
+- tags:: [[$FIG]], [[Anthropic]], [[Claude]], [[Claude Design]], [[AI design tools]], [[SaaS]], [[AI]]
 
 - ## Figma Differentiation Against Anthropic / Claude Design
 	- **Source**:

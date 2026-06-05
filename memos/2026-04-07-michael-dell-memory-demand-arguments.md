@@ -1,4 +1,4 @@
-- **Source**: Michael Dell, CEO of [[Dell Technologies]], speaking at a Bank of America event on `2026-04-07` (local time), based on the user-provided text
+- **Source**: Michael Dell, CEO of [[$DELL]], speaking at a Bank of America event on `2026-04-07` (local time), based on the user-provided text
 - **Topic**: Why AI infrastructure could drive an extreme memory-demand expansion, and why supply may stay tight
 - **Summary of Michael Dell's argument**
 	- Michael Dell's core argument is that AI infrastructure is creating a multiplicative memory-demand curve rather than a linear one.

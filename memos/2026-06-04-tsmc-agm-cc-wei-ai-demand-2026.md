@@ -1,4 +1,4 @@
-- tags:: [[TSMC]], [[AI infrastructure]], [[semiconductor]], [[foundry]], [[capex]], [[robotics]], [[autonomous-driving]], [[HBM]], [[ASML]], [[High-NA-EUV]], [[TeraFab]], [[CoPoS]], [[Tokyo-Electron]]
+- tags:: [[$TSM]], [[AI infrastructure]], [[semiconductor]], [[foundry]], [[capex]], [[robotics]], [[autonomous-driving]], [[HBM]], [[$ASML]], [[High-NA-EUV]], [[TeraFab]], [[CoPoS]], [[$8035.T]]
 
 - ## TSMC AGM 2026 — CC Wei: AI Chip Demand Cannot Be Met for Years
 	- **Source**: 财联社 (Cailian Press), June 4, 2026; TSMC Annual Shareholder Meeting

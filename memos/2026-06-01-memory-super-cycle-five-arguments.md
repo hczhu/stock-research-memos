@@ -1,4 +1,4 @@
-- tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[SK Hynix]], [[Samsung]], [[Micron]], [[NVIDIA]], [[CoWoS]], [[TSMC]]
+- tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[$NVDA]], [[CoWoS]], [[$TSM]]
 
 - ## Why This Memory Cycle Is a Super Cycle — Five Core Arguments
 	- **Source**: Interview transcript (user-provided), summarized `2026-06-01`
@@ -23,7 +23,7 @@
 - ## Argument 2: A Triple Whammy of Coinciding Product Demand
 	- **Context**: Prior upturns usually featured a single product bottleneck. This cycle features a concurrent demand explosion across three separate premium memory categories simultaneously: **DRAM**, **HBM**, and **NAND Flash**.
 	- **Key data points**:
-		- **HBM**: Entirely sold out through `2026` and mostly through `2027` for top manufacturers including [[SK Hynix]] and [[Samsung]]
+		- **HBM**: Entirely sold out through `2026` and mostly through `2027` for top manufacturers including [[$000660.KS]] and [[$005930.KS]]
 		- **DRAM**: The shift from AI training (dominant in `2023–2024`) to AI inference (surging from `2025` onward) requires heavy **KV Cache retention**, vastly amplifying the necessity for large DRAM capacity
 		- **NAND Flash**: Evolved from simple passive data storage to an active participant in the AI inference loop — AI Agents running long chain-of-thought workflows must constantly "dump data to disk" (落盤) to allow state restoration; this turns NAND into an inference-critical component
 	- **Implication**: All three memory categories are under simultaneous pressure from the same underlying driver (AI inference at scale), making demand breadth unprecedented versus any prior cycle.
@@ -32,15 +32,15 @@
 	- **Context**: In previous downturns, memory manufacturers engaged in aggressive price wars and overexpanded production to steal market share, causing catastrophic price crashes. Today, consolidation has created a disciplined oligopoly focused on profitability and technology upgrades over raw volume expansion.
 	- **Key data points**:
 		- In `1998`: roughly `15` global DRAM suppliers
-		- Today: only `3` major suppliers ([[SK Hynix]], [[Samsung]], [[Micron]])
+		- Today: only `3` major suppliers ([[$000660.KS]], [[$005930.KS]], [[$MU]])
 		- Rather than building new fabs for volume, manufacturers are prioritizing **technology upgrades** (HBM3 → HBM3E → HBM4 → HBM4E)
-		- [[SK Hynix]] reported a **`72%` profit margin in Q1** of the current cycle — more money in three months than in the entire prior year
+		- [[$000660.KS]] reported a **`72%` profit margin in Q1** of the current cycle — more money in three months than in the entire prior year
 	- **Implication**: The oligopoly structure removes the competitive incentive to flood the market. Margin maximization has replaced market-share warfare as the dominant strategy.
 
 - ## Argument 4: Advanced Packaging Bottlenecks (The CoWoS Constraint)
-	- **Context**: Even if memory fabricators wanted to flood the market with HBM, they physically cannot due to downstream manufacturing bottlenecks — specifically, [[TSMC]]'s advanced packaging.
+	- **Context**: Even if memory fabricators wanted to flood the market with HBM, they physically cannot due to downstream manufacturing bottlenecks — specifically, [[$TSM]]'s advanced packaging.
 	- **Key data points**:
-		- HBM must be physically bound to the processor using [[TSMC]]'s **CoWoS** (Chip-on-Wafer-on-Substrate) technology
+		- HBM must be physically bound to the processor using [[$TSM]]'s **CoWoS** (Chip-on-Wafer-on-Substrate) technology
 		- Historical CoWoS capacity expansion lead time: **`12–15` months**
 		- Recently optimized lead time: **`6–9` months** — still a multi-quarter ceiling
 		- This physical supply-chain constraint prevents sudden market oversupply regardless of memory fab capacity decisions
@@ -51,7 +51,7 @@
 	- **Key data points**:
 		- **"Lock Volume, Don't Lock Price" (鎖量不鎖價)**: Tier-1 buyers signing long-term agreements (LTAs) in domestic markets can only secure guaranteed **allocation volume** — the actual purchase price floats with future market rates; suppliers retain full price upside
 		- **Capital / interest binding**: In overseas markets, buyers must either pay **massive upfront deposits** to secure supply or directly **finance / subsidize the memory manufacturer's capital expenditures** (equipment purchases), aligning the buyer's capital with the supplier's risk
-		- [[SK Hynix]] projects the tight supply-demand imbalance will **not ease until at least `2028`**
+		- [[$000660.KS]] projects the tight supply-demand imbalance will **not ease until at least `2028`**
 	- **Implication**: The contractual structure itself has been redesigned to ensure suppliers cannot lose on the downside. This is not a normal buyer's market dressed up as a seller's market — the legal and financial architecture of procurement has been rewritten.
 
 - ## Summary Table

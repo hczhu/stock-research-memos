@@ -61,7 +61,7 @@ Use canonical tag forms — no duplicates or near-duplicates:
 | Use | Not |
 |-----|-----|
 | `[[DRAM]]` | `[[memory]]` |
-| `[[NVIDIA]]` | `[[Nvidia]]` |
+| `[[$NVDA]]` (ticker form) | `[[NVIDIA]]`, `[[Nvidia]]` |
 | `[[data-center]]` | `[[data center]]`, `[[data centers]]`, `[[data-centers]]` |
 | `[[GPU]]` | `[[GPUs]]` |
 | `[[inference]]` | `[[AI inference]]`, `[[AI Inference]]` |

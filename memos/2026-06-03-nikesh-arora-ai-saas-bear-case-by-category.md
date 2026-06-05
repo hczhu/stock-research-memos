@@ -1,4 +1,4 @@
-- tags:: [[SaaS]], [[AI]], [[Palo Alto Networks]], [[Nikesh Arora]], [[Salesforce]], [[SAP]], [[Workday]], [[Adobe]], [[Snowflake]], [[Databricks]], [[cybersecurity]], [[bear-case]]
+- tags:: [[SaaS]], [[AI]], [[$PANW]], [[Nikesh Arora]], [[$CRM]], [[SAP]], [[$WDAY]], [[$ADBE]], [[$SNOW]], [[Databricks]], [[cybersecurity]], [[bear-case]]
 
 - ## Nikesh Arora's AI Bear Case For SaaS By Category
 	- **Source**:

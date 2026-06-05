@@ -1,4 +1,4 @@
-- tags:: [[AWS]], [[Amazon]], [[Anthropic]], [[Bedrock]], [[Microsoft]], [[Azure]], [[Google]], [[GCP]], [[hyperscalers]], [[TaaS]], [[AI]], [[margins]], [[Trainium]], [[Graviton]], [[SemiAnalysis]]
+- tags:: [[AWS]], [[$AMZN]], [[Anthropic]], [[Bedrock]], [[$MSFT]], [[Azure]], [[$GOOGL]], [[GCP]], [[hyperscalers]], [[TaaS]], [[AI]], [[margins]], [[Trainium]], [[Graviton]], [[SemiAnalysis]]
 
 - ## AWS Bedrock / Anthropic Deal Drives Margin Divergence Across Hyperscalers
 	- **Source**: SemiAnalysis — "Anthropic Growth and Bedrock Mix Drive AWS Margins Higher While Peers Lag", Jeremie Eliahou Ontiveros, Joey Brookhart, Crystal Huang, Dylan Patel. May 27, 2026.

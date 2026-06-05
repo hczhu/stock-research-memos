@@ -1,4 +1,4 @@
-- tags:: [[CXMT]], [[HBM]], [[China]], [[Samsung]], [[SK Hynix]], [[Micron]], [[DRAM]], [[semiconductor]], [[NVIDIA]], [[geopolitics]], [[supply]]
+- tags:: [[CXMT]], [[HBM]], [[China]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[DRAM]], [[semiconductor]], [[$NVDA]], [[geopolitics]], [[supply]]
 
 - ## Korea–China HBM Gap Narrows to ~Three Years (CXMT's All-Out Push)
 	- **Source**: Korean semiconductor-industry press, reported on the 1st (June 2026)

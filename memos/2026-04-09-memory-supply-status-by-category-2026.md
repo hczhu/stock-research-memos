@@ -1,4 +1,4 @@
-- tags:: [[DRAM]], [[HBM]], [[supply]], [[shortage]], [[Samsung]], [[SK Hynix]], [[Micron]], [[semiconductor]]
+- tags:: [[DRAM]], [[HBM]], [[supply]], [[shortage]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[semiconductor]]
 
 - ## Memory Supply Status by Category — 2026
 	- **Source**: Industry summary table, April 2026
