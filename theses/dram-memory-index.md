@@ -60,6 +60,26 @@ tags:: [[DRAM]], [[HBM]], [[NAND]], [[Samsung]], [[SK Hynix]], [[Micron]], [[mem
 	| LTA coverage % | Higher commodity-LTA coverage supports a P/E re-rating (MS: 5× → ≈8.5× if 70% covered) |
 	| Hyperscaler capex guidance | $695–725B 2026E; the swing variable — a single $20–30B cut reprices the chain |
 	| CXMT/YMTC qualification | Watch for China entering global hyperscale server-DRAM qualification at scale |
+	| Weekly token consumption (top models) | Real-time demand proxy — inference volume drives DRAM/HBM need; sustained WoW growth supports the demand leg (see table below) |
+
+	- **Weekly token consumption — top models on OpenRouter** (data source: [openrouter.ai/rankings](https://openrouter.ai/rankings)). Tokens in trillions (T); sorted newest first:
+
+	| Week | Tokens (T) | WoW growth |
+	|---|---:|---:|
+	| 2026-06-01 | 34.528 | +8.5% |
+	| 2026-05-25 | 31.821 | +10.0% |
+	| 2026-05-18 | 28.931 | +7.5% |
+	| 2026-05-11 | 26.915 | +4.6% |
+	| 2026-05-04 | 25.743 | +7.9% |
+	| 2026-04-27 | 23.869 | +8.7% |
+	| 2026-04-20 | 21.953 | +6.8% |
+	| 2026-04-13 | 20.558 | −2.3% |
+	| 2026-04-06 | 21.036 | −22.2% |
+	| 2026-03-30 | 27.039 | +19.0% |
+	| 2026-03-23 | 22.730 | +11.7% |
+	| 2026-03-16 | 20.350 | n/a |
+
+	- **Read**: From the 2026-04-13 trough (20.558T), consumption has compounded ≈7–10% WoW for 7 straight weeks to 34.528T — a steady, accelerating demand signal underpinning the inference-driven memory thesis. The late-March spike/reversion (27.0T → 21.0T) shows the series is noisy week-to-week; watch the trend, not single prints.
 	- ---
 - ## Secular Trends as Tailwinds
 
