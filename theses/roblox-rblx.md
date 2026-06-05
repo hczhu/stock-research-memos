@@ -11,6 +11,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	- **The one-line story**: *"Roblox is bigger than a gaming platform — it's a 3D communications platform."* The business is a two-sided UGC network (players + developers) compounding toward a 1-billion-user, all-ages, all-device, global platform, with monetization expanding from virtual goods into advertising and commerce.
 	- **The four-dimensional growth strategy**: age up, everywhere (every device), international, and a vibrant economy. Road to 200M DAU and "connect 1 billion people."
 	- **The age-up pivot (2026)**: The thesis is shifting from a kids' platform to an all-ages one. 18–34 users grew **+50% YoY** and monetize **50% higher** than under-18s (2026 Q1). O18 players represent **80% of the global gaming market (≈$150B ex-China)**. Age verification (chat gated globally Jan 2026) is the near-term cost — it slowed new-user signups and **cut FY bookings growth guidance to 8–12%** — but gives Roblox its first accurate read on adult users, which it's using to raise creator payouts (**37.8% DevEx** for age-checked O18 spend) to seed older-skewing content.
+	- **One-of-a-kind, with no real substitute**: Roblox is a singular gaming business — from both the developer and player experience, there is no direct substitute. It uniquely combines a creator engine, distribution, social graph, and a full game-operating backend (hosting, matchmaking, payments, moderation) into one platform. The closest analogs each cover only a slice (Fortnite/UEFN on the engine, Steam on distribution, Minecraft on modding) — none replicate the end-to-end "create → publish → monetize → operate" loop at Roblox's scale and accessibility. See the Competition Landscape platform comparison below.
 	- ---
 - ## Napkin Math
 	- > Back-of-the-envelope valuation anchored to a 5–10 year horizon. TAM, revenue, margins; don't pay too high a price.
@@ -89,6 +90,51 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
   | Minecraft | Strong IP, cross-platform | $500M peak revenue — far smaller monetization |
   | PlayStation/Sony | ≈$21.2B content revenue (total segment ≈$30.5B incl. hardware; FY2026 — see Appendix) on 125M MAUs (≈1/3 of Roblox) | Closed console economics; not UGC |
   | Meta Horizon Worlds (VR) | Lots of under-13 kids; VR-native | Watch as a long-term substitute for Roblox's young base |
+	- ### Platform Comparison
+
+	| Platform | Mods/Add-ons? | Publish Games? | Monetize? | Scale of 3rd-Party Games | First-Party Dev Suite | Game Operating Services |
+	|---|---|---|---|---|---|---|
+	| Roblox | Yes (platform experiences) | Yes | Yes | ≈40M+ experiences | Roblox Studio + Lua | Hosting, matchmaking, social graph, analytics, payments, ads, moderation |
+	| Fortnite | Limited (inside UEFN only) | Yes | Yes | ≈100k+ islands | Unreal Editor for Fortnite + Verse | Matchmaking, hosting, analytics, discovery, payments, moderation |
+	| Minecraft | Yes | Yes | Limited | Hundreds of thousands of maps/mods/servers | Minecraft tools, data packs, modding APIs | Mostly self-hosted or third-party |
+	| Steam | N/A (distribution platform) | Yes | Yes | 100k+ games | None (bring your own engine) | Store, achievements, cloud saves, networking APIs, payments, updates |
+	| PlayStation | No (consumer mods) | Yes | Yes | ≈10k+ games | None (bring your own engine) | Store, achievements, multiplayer services, payments, certification |
+	| Switch | No (consumer mods) | Yes | Yes | ≈15k+ games | None (bring your own engine) | Store, online services, payments, certification |
+	| WoW | UI add-ons only | No | No | Thousands of add-ons | Lua + XML UI APIs | Blizzard-hosted |
+
+	- ### Game Operating Services Comparison
+
+	| Service | Roblox | Fortnite | Steam | PlayStation | Switch |
+	|---|---|---|---|---|---|
+	| Multiplayer hosting | ✓ Included | ✓ Included | Optional | Optional | Optional |
+	| Matchmaking | ✓ | ✓ | ✓ | ✓ | ✓ |
+	| Player identity/accounts | ✓ | ✓ | ✓ | ✓ | ✓ |
+	| Payments | ✓ | ✓ | ✓ | ✓ | ✓ |
+	| Analytics | ✓ Extensive | ✓ Extensive | Limited | Limited | Limited |
+	| Discovery & recommendations | ✓ | ✓ | ✓ | ✓ | ✓ |
+	| Moderation & safety | ✓ | ✓ | Mostly developer responsibility | Mostly platform responsibility | Mostly platform responsibility |
+	| Cloud saves | ✓ | N/A | ✓ | ✓ | Limited |
+	| Social graph / friends | ✓ Native | ✓ Native | ✓ | ✓ | ✓ |
+	| Live ops infrastructure | ✓ Built-in | ✓ Built-in | Mostly developer-managed | Mostly developer-managed | Mostly developer-managed |
+
+	- ### What Stands Out
+
+	| Category | Leader |
+	|---|---|
+	| Largest creator ecosystem | Roblox (≈40M experiences) |
+	| Most advanced first-party development suite | Fortnite (UEFN is a fork of Unreal Engine) |
+	| Easiest for a solo creator | Roblox |
+	| Most powerful graphics/runtime | Fortnite |
+	| Largest traditional game catalog | Steam |
+	| Most complete game operating system | Roblox |
+	| Closest competitor to Roblox's vision | Fortnite |
+
+	- **Mental model**:
+		- Roblox = **YouTube + AWS for games** (create, distribute, and run the backend)
+		- Fortnite / UEFN = **Unreal Engine + YouTube for games**
+		- Steam = **App Store for PC games**
+		- PlayStation / Switch = **console app stores**
+		- Minecraft = a **modding ecosystem**, not a unified game platform
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Profitability / marginal costs** — structural take: ≈24% app-store fees + ≈27% to developers + ≈33% infra & safety = **≈84% of revenue**. The model only works if app-store fees fall and infra leverage improves.
