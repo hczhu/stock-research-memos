@@ -22,9 +22,9 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | Roblox | 3D UGC platform | $7.3B (LTM bookings to 2026 Q1) |
 	  | Steam | PC gaming platform | $8.5B |
 	  | Fortnite | Single game | $6B |
-	  | Sony gaming | Console | ~$18-20B software+digital (segment ~$30B incl. hardware) |
+	  | Sony gaming | Console | ~$21.2B content (digital+add-on+network); ~$30.5B total segment incl. hardware (FY2026 — see Appendix) |
 	  | Minecraft | PC/console/mobile | $500M at peak |
-	- **The PlayStation comparison**: PlayStation has ~110M PSN MAUs (vs Roblox ~340M) and ~50M DAUs (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ~**$18-20B** in game software, digital downloads, add-on content, and network services (total PlayStation segment ~$30B including hardware) vs Roblox's **~$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
+	- **The PlayStation comparison**: PlayStation has ~110M PSN MAUs (vs Roblox ~340M) and ~50M DAUs (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ~**$21.2B** in game software, digital downloads, add-on content, and network services (total PlayStation segment **~$30.5B** including hardware; FY ended Mar 2026 — see Appendix) vs Roblox's **~$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
 	- **End-state scenarios**:
 	  
 	  | Scenario | DAU | Bookings | FCF / margin | Notes |
@@ -122,3 +122,17 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | 2024-05 | Dev-side observer | Roblox must give devs a systematic path to audience beyond "roll the dice and hope you go viral"; discovery system is "entirely primitive" | bearish (developer friction) |
 	  | 2024-05 | Brand advertisers | Brands keep coming back — Chipotle's free-burrito event crashed the platform; SunSilk hit 32M visits | bullish (ads) |
 	  | 2024 | Exec read | "Massive passion for the product" (Bloomberg interview); founder-led, long-view culture | bullish |
+	- ---
+- ## Appendix — Sony Game & Network Services (G&NS) Revenue Breakdown
+	- **Source**: Sony FY2026 results (fiscal year ended March 31, 2026). USD converted at **¥150/USD** (¥ millions ÷ 150 ≈ $ millions).
+
+	| Sales segment | FY2025 (¥M) | FY2026 (¥M) | Change (¥M) | FY2025 ($B) | FY2026 ($B) |
+	|---|---:|---:|---:|---:|---:|
+	| Digital Software & Add-on Content | 2,290,498 | 2,415,305 | +124,807 | $15.3 | $16.1 |
+	| Network Services | 669,873 | 763,126 | +93,253 | $4.5 | $5.1 |
+	| Hardware & Others | 1,583,200 | 1,391,622 | (191,578) | $10.6 | $9.3 |
+	| **Total G&NS** | **4,543,571** | **4,570,053** | **+26,482** | **$30.3** | **$30.5** |
+
+	- **Content-only (ex-hardware)** FY2026: Digital Software & Add-on Content ($16.1B) + Network Services ($5.1B) = **~$21.2B** — the figure most comparable to Roblox bookings and Steam revenue
+	- **Total segment** FY2026: **~$30.5B** (incl. hardware) — the figure used in the "PlayStation comparison" engagement-vs-monetization point
+	- **Read**: Sony's content+digital revenue grew (+5% digital software/add-on, +14% network services) while hardware fell (−12%) — the platform is mix-shifting toward higher-margin digital/services, the same direction Roblox monetization is heading. PlayStation monetizes a far smaller, engagement-lighter user base at ~3× Roblox's content revenue, underscoring Roblox's monetization headroom.
