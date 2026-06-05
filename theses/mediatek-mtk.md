@@ -27,11 +27,10 @@ tags:: [[MediaTek]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 	- ---
 - ## Napkin Math
 	- > Back-of-the-envelope valuation anchored to a 5- and 10-year horizon. Size the TAM, project revenue and margins, and work backward to what you are paying today.
-	- **2031E revenue estimate: ~$31,423M** (per source thesis)
 	-
 	- | FY | 2031E | 2026YTD | 2025 | 2024 | 2023 |
 	  |---|---:|---:|---:|---:|---:|
-	  | Revenue $M | 31,423 |  |  |  |  |
+	  | Revenue $M |  |  |  |  |  |
 	  | YoY |  |  |  |  |  |
 	  | Gross margin % |  |  |  |  |  |
 	  | R&D % |  |  |  |  |  |
