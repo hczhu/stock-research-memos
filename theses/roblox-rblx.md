@@ -196,3 +196,21 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	| Discord | 4% | 1% | 5% | 7% |
 
 	- **Read**: Gaming platforms are the **#2 most-used category (54%)** among Gen Alpha — behind only YouTube and *ahead of every social-media app* (TikTok 29%, Facebook 16%, Instagram 13%). Gaming leads social media in every age band, and most decisively among the youngest (7–9: gaming 53% vs TikTok 21%). This supports the "gaming is the new social language" thesis and Roblox's structural position in Gen Alpha's attention. Note social apps gain share with age (TikTok 21%→46%, Instagram 10%→20%), a reminder that the age-up cohort splits attention across more platforms.
+	- ---
+- ## Appendix — Parental Attention Shift After a Gen Alpha Child (DKC, July 2025)
+	- **Source**: DKC survey, July 2025. Q: "How having a Gen Alpha child has impacted your level of attention to each of the following platforms" — % of parents reporting a major or minor *increase* in attention.
+
+	| Platform | Major increase | Minor increase | Total increase |
+	|---|---:|---:|---:|
+	| YouTube | 49% | 29% | 78% |
+	| Video Games | 41% | 34% | 75% |
+	| **Roblox** | **39%** | **30%** | **69%** |
+	| Minecraft | 32% | 34% | 66% |
+	| TikTok | 34% | 28% | 62% |
+	| Disney+ | 31% | 30% | 61% |
+	| Instagram | 28% | 25% | 53% |
+	| Snapchat | 22% | 25% | 47% |
+	| X / Twitter | 17% | 19% | 36% |
+	| Twitch | 14% | 21% | 35% |
+
+	- **Read**: Roblox is the **#3 named platform (69% of parents report increased attention)** — behind only YouTube and the generic "Video Games" category, and ahead of every other named app including Minecraft, TikTok, Disney+, and all social media. Notably, Roblox is the *only* named UGC game platform that registers this high. Combined with "Video Games" (75%) and Minecraft (66%), gaming dominates the parental-attention shift. This corroborates the brand-among-kids moat and Roblox's household penetration: having a Gen Alpha child pulls parents *toward* Roblox more than toward TikTok or Instagram.
