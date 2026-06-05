@@ -3,7 +3,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 - **Company**: Roblox Corporation (RBLX)
 - **Date**: 2026-06-04
 - **Market cap at writing**: $31B
-- **Position**: watching
+- **Position**: holding
   
   ---
 - ## Main Narrative
