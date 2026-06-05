@@ -124,14 +124,14 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  | 2024 | Exec read | "Massive passion for the product" (Bloomberg interview); founder-led, long-view culture | bullish |
 	- ---
 - ## Appendix — Sony Game & Network Services (G&NS) Revenue Breakdown
-	- **Source**: Sony FY2026 results (fiscal year ended March 31, 2026). USD converted at **¥150/USD** (¥ millions ÷ 150 ≈ $ millions).
+	- **Source**: Sony FY2026 results (fiscal year ended March 31, 2026). USD converted at **¥150/USD**. Raw segment totals: FY2025 ¥4,543,571M, FY2026 ¥4,570,053M (+¥26,482M).
 
-	| Sales segment | FY2025 (¥M) | FY2026 (¥M) | Change (¥M) | FY2025 ($B) | FY2026 ($B) |
-	|---|---:|---:|---:|---:|---:|
-	| Digital Software & Add-on Content | 2,290,498 | 2,415,305 | +124,807 | $15.3 | $16.1 |
-	| Network Services | 669,873 | 763,126 | +93,253 | $4.5 | $5.1 |
-	| Hardware & Others | 1,583,200 | 1,391,622 | (191,578) | $10.6 | $9.3 |
-	| **Total G&NS** | **4,543,571** | **4,570,053** | **+26,482** | **$30.3** | **$30.5** |
+	| Sales segment | FY2025 ($B) | FY2026 ($B) | Change ($B) |
+	|---|---:|---:|---:|
+	| Digital Software & Add-on Content | $15.3 | $16.1 | +$0.8 |
+	| Network Services | $4.5 | $5.1 | +$0.6 |
+	| Hardware & Others | $10.6 | $9.3 | −$1.3 |
+	| **Total G&NS** | **$30.3** | **$30.5** | **+$0.2** |
 
 	- **Content-only (ex-hardware)** FY2026: Digital Software & Add-on Content ($16.1B) + Network Services ($5.1B) = **~$21.2B** — the figure most comparable to Roblox bookings and Steam revenue
 	- **Total segment** FY2026: **~$30.5B** (incl. hardware) — the figure used in the "PlayStation comparison" engagement-vs-monetization point
