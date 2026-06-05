@@ -15,7 +15,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	- ---
 - ## Napkin Math
 	- > Back-of-the-envelope valuation anchored to a 5–10 year horizon. TAM, revenue, margins; don't pay too high a price.
-	- **Monetization ceiling / TAM**: Plan to capture **10% of the $140B global gaming content market (ex-China)**. Roblox would earn ≈**1.7× more** if it reached Fortnite's payer-conversion rate — Fortnite's MUP/MAU is ≈15% vs Roblox's **9% (2026Q1, up from 4% in 2024)**. MUP grew +52% YoY to 30.7M in 2026Q1; the conversion gap to Fortnite has narrowed sharply. ABPDAU ≈$54 on an LTM basis (2026Q1).
+	- **Monetization ceiling / TAM**: Plan to capture **10% of the $140B global gaming content market (ex-China)**. Roblox would earn ~**1.7× more** if it reached Fortnite's payer-conversion rate — Fortnite's MUP/MAU is ~15% vs Roblox's **9% (2026Q1, up from 4% in 2024)**. MUP grew +52% YoY to 30.7M in 2026Q1; the conversion gap to Fortnite has narrowed sharply. ABPDAU ~$54 on an LTM basis (2026Q1).
 	- **Scale vs. monetization gap (the core mispricing)**:
 	  
 	  | Company | Category | Annual revenue |
@@ -91,44 +91,41 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
   | PlayStation/Sony | ≈$21.2B content revenue (total segment ≈$30.5B incl. hardware; FY2026 — see Appendix) on 125M MAUs (≈1/3 of Roblox) | Closed console economics; not UGC |
   | Meta Horizon Worlds (VR) | Lots of under-13 kids; VR-native | Watch as a long-term substitute for Roblox's young base |
 	- ### Platform Comparison
-
-	| Platform | Mods/Add-ons? | Publish Games? | Monetize? | Scale of 3rd-Party Games | First-Party Dev Suite | Game Operating Services |
-	|---|---|---|---|---|---|---|
-	| Roblox | Yes (platform experiences) | Yes | Yes | ≈40M+ experiences | Roblox Studio + Lua | Hosting, matchmaking, social graph, analytics, payments, ads, moderation |
-	| Fortnite | Limited (inside UEFN only) | Yes | Yes | ≈100k+ islands | Unreal Editor for Fortnite + Verse | Matchmaking, hosting, analytics, discovery, payments, moderation |
-	| Minecraft | Yes | Yes | Limited | Hundreds of thousands of maps/mods/servers | Minecraft tools, data packs, modding APIs | Mostly self-hosted or third-party |
-	| Steam | N/A (distribution platform) | Yes | Yes | 100k+ games | None (bring your own engine) | Store, achievements, cloud saves, networking APIs, payments, updates |
-	| PlayStation | No (consumer mods) | Yes | Yes | ≈10k+ games | None (bring your own engine) | Store, achievements, multiplayer services, payments, certification |
-	| Switch | No (consumer mods) | Yes | Yes | ≈15k+ games | None (bring your own engine) | Store, online services, payments, certification |
-	| WoW | UI add-ons only | No | No | Thousands of add-ons | Lua + XML UI APIs | Blizzard-hosted |
-
+	  
+	  | Platform | Mods/Add-ons? | Publish Games? | Monetize? | Scale of 3rd-Party Games | First-Party Dev Suite | Game Operating Services |
+	  |---|---|---|---|---|---|---|
+	  | Roblox | Yes (platform experiences) | Yes | Yes | ≈40M+ experiences | Roblox Studio + Lua | Hosting, matchmaking, social graph, analytics, payments, ads, moderation |
+	  | Fortnite | Limited (inside UEFN only) | Yes | Yes | ≈100k+ islands | Unreal Editor for Fortnite + Verse | Matchmaking, hosting, analytics, discovery, payments, moderation |
+	  | Minecraft | Yes | Yes | Limited | Hundreds of thousands of maps/mods/servers | Minecraft tools, data packs, modding APIs | Mostly self-hosted or third-party |
+	  | Steam | N/A (distribution platform) | Yes | Yes | 100k+ games | None (bring your own engine) | Store, achievements, cloud saves, networking APIs, payments, updates |
+	  | PlayStation | No (consumer mods) | Yes | Yes | ≈10k+ games | None (bring your own engine) | Store, achievements, multiplayer services, payments, certification |
+	  | Switch | No (consumer mods) | Yes | Yes | ≈15k+ games | None (bring your own engine) | Store, online services, payments, certification |
+	  | WoW | UI add-ons only | No | No | Thousands of add-ons | Lua + XML UI APIs | Blizzard-hosted |
 	- ### Game Operating Services Comparison
-
-	| Service | Roblox | Fortnite | Steam | PlayStation | Switch |
-	|---|---|---|---|---|---|
-	| Multiplayer hosting | ✓ Included | ✓ Included | Optional | Optional | Optional |
-	| Matchmaking | ✓ | ✓ | ✓ | ✓ | ✓ |
-	| Player identity/accounts | ✓ | ✓ | ✓ | ✓ | ✓ |
-	| Payments | ✓ | ✓ | ✓ | ✓ | ✓ |
-	| Analytics | ✓ Extensive | ✓ Extensive | Limited | Limited | Limited |
-	| Discovery & recommendations | ✓ | ✓ | ✓ | ✓ | ✓ |
-	| Moderation & safety | ✓ | ✓ | Mostly developer responsibility | Mostly platform responsibility | Mostly platform responsibility |
-	| Cloud saves | ✓ | N/A | ✓ | ✓ | Limited |
-	| Social graph / friends | ✓ Native | ✓ Native | ✓ | ✓ | ✓ |
-	| Live ops infrastructure | ✓ Built-in | ✓ Built-in | Mostly developer-managed | Mostly developer-managed | Mostly developer-managed |
-
+	  
+	  | Service | Roblox | Fortnite | Steam | PlayStation | Switch |
+	  |---|---|---|---|---|---|
+	  | Multiplayer hosting | ✓ Included | ✓ Included | Optional | Optional | Optional |
+	  | Matchmaking | ✓ | ✓ | ✓ | ✓ | ✓ |
+	  | Player identity/accounts | ✓ | ✓ | ✓ | ✓ | ✓ |
+	  | Payments | ✓ | ✓ | ✓ | ✓ | ✓ |
+	  | Analytics | ✓ Extensive | ✓ Extensive | Limited | Limited | Limited |
+	  | Discovery & recommendations | ✓ | ✓ | ✓ | ✓ | ✓ |
+	  | Moderation & safety | ✓ | ✓ | Mostly developer responsibility | Mostly platform responsibility | Mostly platform responsibility |
+	  | Cloud saves | ✓ | N/A | ✓ | ✓ | Limited |
+	  | Social graph / friends | ✓ Native | ✓ Native | ✓ | ✓ | ✓ |
+	  | Live ops infrastructure | ✓ Built-in | ✓ Built-in | Mostly developer-managed | Mostly developer-managed | Mostly developer-managed |
 	- ### What Stands Out
-
-	| Category | Leader |
-	|---|---|
-	| Largest creator ecosystem | Roblox (≈40M experiences) |
-	| Most advanced first-party development suite | Fortnite (UEFN is a fork of Unreal Engine) |
-	| Easiest for a solo creator | Roblox |
-	| Most powerful graphics/runtime | Fortnite |
-	| Largest traditional game catalog | Steam |
-	| Most complete game operating system | Roblox |
-	| Closest competitor to Roblox's vision | Fortnite |
-
+	  
+	  | Category | Leader |
+	  |---|---|
+	  | Largest creator ecosystem | Roblox (≈40M experiences) |
+	  | Most advanced first-party development suite | Fortnite (UEFN is a fork of Unreal Engine) |
+	  | Easiest for a solo creator | Roblox |
+	  | Most powerful graphics/runtime | Fortnite |
+	  | Largest traditional game catalog | Steam |
+	  | Most complete game operating system | Roblox |
+	  | Closest competitor to Roblox's vision | Fortnite |
 	- **Mental model**:
 		- Roblox = **YouTube + AWS for games** (create, distribute, and run the backend)
 		- Fortnite / UEFN = **Unreal Engine + YouTube for games**
@@ -143,7 +140,7 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	  4. **Ads may not scale** — kid-safety constraints limit ad inventory/targeting; management itself said (2023) "we've never said advertising is going to be the meat of our business."
 	  5. **VR substitution** — Meta Horizon Worlds and VR-native UGC could capture the next generation of under-13s.
 	  6. **Founder-CEO age / succession** — David Baszucki born 1963 (founder-led is a strength, but key-person risk).
-	  7. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the $13.5B ARPU-parity upside never materializes.
+	  7. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the $13.5B ARPU-parity upside never materializes. **Cautionary comp — Fortnite**: revenue peaked at ≈$6B in 2021 (likely a COVID-boosted high) and has not reclaimed it since; Epic Games conducted [layoffs](https://www.epicgames.com/site/news/todays-layoffs) — evidence that even the closest competitor's UGC/live-service model can plateau and de-rate after a demand pull-forward. A reminder that gaming-platform engagement and spend can mean-revert.
 	- ---
 - ## Friendly to Shareholders?
 	- > Share dilution and executive incentive plans.
@@ -172,14 +169,13 @@ tags:: [[Roblox]], [[RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[adver
 	- ---
 - ## Appendix — Sony Game & Network Services (G&NS) Revenue Breakdown
 	- **Source**: Sony FY2026 results (fiscal year ended March 31, 2026). USD converted at **¥150/USD**. Raw segment totals: FY2025 ¥4,543,571M, FY2026 ¥4,570,053M (+¥26,482M).
-
-	| Sales segment | FY2025 ($B) | FY2026 ($B) | Change ($B) |
-	|---|---:|---:|---:|
-	| Digital Software & Add-on Content | $15.3 | $16.1 | +$0.8 |
-	| Network Services | $4.5 | $5.1 | +$0.6 |
-	| Hardware & Others | $10.6 | $9.3 | −$1.3 |
-	| **Total G&NS** | **$30.3** | **$30.5** | **+$0.2** |
-
+	  
+	  | Sales segment | FY2025 ($B) | FY2026 ($B) | Change ($B) |
+	  |---|---:|---:|---:|
+	  | Digital Software & Add-on Content | $15.3 | $16.1 | +$0.8 |
+	  | Network Services | $4.5 | $5.1 | +$0.6 |
+	  | Hardware & Others | $10.6 | $9.3 | −$1.3 |
+	  | **Total G&NS** | **$30.3** | **$30.5** | **+$0.2** |
 	- **Content-only (ex-hardware)** FY2026: Digital Software & Add-on Content ($16.1B) + Network Services ($5.1B) = **≈$21.2B** — the figure most comparable to Roblox bookings and Steam revenue
 	- **Total segment** FY2026: **≈$30.5B** (incl. hardware) — the figure used in the "PlayStation comparison" engagement-vs-monetization point
 	- **Read**: Sony's content+digital revenue grew (+5% digital software/add-on, +14% network services) while hardware fell (−12%) — the platform is mix-shifting toward higher-margin digital/services, the same direction Roblox monetization is heading. PlayStation monetizes a far smaller, engagement-lighter user base at ≈3× Roblox's content revenue, underscoring Roblox's monetization headroom.
