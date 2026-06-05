@@ -64,7 +64,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
   
   | Trend | Detail |
   |---|---|
-  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games" |
+  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games." Gaming platforms are the #2 most-used category among Gen Alpha (54%), behind only YouTube and ahead of all social media — see Appendix: Gen Alpha platform usage |
   | Digital-native generations | Newer generations spend more of life in the digital world |
   | Demographic inflow | ≈140M new gamers born per year; ≈140M age into Roblox per year |
   | Aging user base | Average user age rising (Piper Sandler: avg teen age 15.8; Roblox active usage 46%, up from 34%) — kids keep using it as they age |
@@ -179,3 +179,20 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	- **Content-only (ex-hardware)** FY2026: Digital Software & Add-on Content (\$16.1B) + Network Services (\$5.1B) = **≈\$21.2B** — the figure most comparable to Roblox bookings and Steam revenue
 	- **Total segment** FY2026: **≈\$30.5B** (incl. hardware) — the figure used in the "PlayStation comparison" engagement-vs-monetization point
 	- **Read**: Sony's content+digital revenue grew (+5% digital software/add-on, +14% network services) while hardware fell (−12%) — the platform is mix-shifting toward higher-margin digital/services, the same direction Roblox monetization is heading. PlayStation monetizes a far smaller, engagement-lighter user base at ≈3× Roblox's content revenue, underscoring Roblox's monetization headroom.
+	- ---
+- ## Appendix — Gen Alpha Platform Usage (PwC 2026)
+	- **Source**: PwC's 2026 Generation Alpha Survey. Q: "In a normal week, which of these do you use the most?" (select up to 3). Base: children regularly using screens for fun, 998 total — ages 7–9 (310), 10–12 (337), 13–14 (351). 'Something else' and 'None' not shown.
+	- **% of Gen Alpha using each platform most, by age:**
+
+	| Platform | All | 7–9 | 10–12 | 13–14 |
+	|---|---:|---:|---:|---:|
+	| YouTube | 68% | 67% | 74% | 61% |
+	| **Gaming platforms** | **54%** | **53%** | **58%** | **51%** |
+	| Streaming services | 49% | 53% | 53% | 35% |
+	| TikTok | 29% | 21% | 27% | 46% |
+	| Facebook | 16% | 13% | 16% | 19% |
+	| Instagram | 13% | 10% | 12% | 20% |
+	| Snapchat | 10% | 7% | 9% | 17% |
+	| Discord | 4% | 1% | 5% | 7% |
+
+	- **Read**: Gaming platforms are the **#2 most-used category (54%)** among Gen Alpha — behind only YouTube and *ahead of every social-media app* (TikTok 29%, Facebook 16%, Instagram 13%). Gaming leads social media in every age band, and most decisively among the youngest (7–9: gaming 53% vs TikTok 21%). This supports the "gaming is the new social language" thesis and Roblox's structural position in Gen Alpha's attention. Note social apps gain share with age (TikTok 21%→46%, Instagram 10%→20%), a reminder that the age-up cohort splits attention across more platforms.
