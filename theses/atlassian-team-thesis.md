@@ -39,6 +39,7 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
   | Developer brand | Jira/Confluence have entrenched mindshare in software teams since 2002; ranked #1 collaboration tool 2022–2024 in Stack Overflow surveys (46.8% in 2025) |
   | Founder-led culture | Mike Cannon-Brookes (co-founder, sole CEO since Aug 2024) controls 86% of voting power with co-founder Scott Farquhar; aligned, long-view capital allocation |
   | AI coding tailwind | Customers using AI coding tools (GitHub Copilot, Claude Code, Cursor) expand Jira paid seats ~5% faster than those who don't — AI makes Atlassian stickier |
+  | Product-led efficiency | Spends ~2× on product vs sales — **R&D 53% of revenue vs S&M 25% (R&D/S&M = 211%, 2026Q1)**, the inverse of sales-led SaaS. ARR per employee ~\$494K and R&D per employee ~\$215K across 14,466 staff — a structurally cheaper, low-touch model than Salesforce/ServiceNow |
 	- ---
 - ## Key Value Drivers
 	- > Metrics to monitor for the thesis to play out.
@@ -46,8 +47,8 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 	  | Driver | What to watch |
 	  |---|---|
 	  | Revenue growth rate | Management target: 20%+ through FY27; currently 21-26% quarterly YoY |
-	  | Cloud revenue mix | Cloud \$3.45B (+28% FY25); growing faster than Data Center; higher long-term margin |
-	  | Enterprise up-market | 600+ customers >\$1M ACV. average spend ~\$16K/yr currently; closing gap to ServiceNow's \$1.5M |
+	  | Cloud revenue mix & deployment | FY25 Cloud \$3.45B (+28%). **2026Q1 (Q3 FY26) deployment split: Cloud \$1,132M (+29% YoY), Data Center \$561M (+44% YoY — accelerating, not declining), Marketplace \$94M.** Data Center strength ahead of the 2029 EOS is a positive surprise (migration/repricing tailwind, not a cliff yet) |
+	  | Enterprise up-market | 350,000 paying customers at only ~\$17K LTM rev each; **5,591 customers >\$100K and 600 >\$1M ACV (2026Q1)** — closing the gap to ServiceNow's ~\$1.5M. The low ARPU on a huge base is the up-market runway |
 	  | NRR (net revenue retention) | >120% in FY2026Q3 — seat expansion + cross-sell working |
 	  | Service Collection ARR | \$1B ARR crossing, >30% YoY, 65,000 customers (50% F500) — JSM + CSM + Assets + Rovo |
 	  | Rovo AI monetization | Enterprise search + agent attach rate; AI Protect and Rovo Service bookings |
@@ -107,12 +108,12 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
   
   | Factor | Signal | Assessment |
   |---|---|---|
-  | Share dilution (annual %) | Guided ~1-2%/yr historically | Acceptable but watch SBC/FCF ratio (~96% TTM — dilution is expensive) |
+  | Share dilution (annual %) | **Net −2.6% in 2026Q1** — buybacks now exceed SBC issuance (flipped from +0.8% the prior quarter); guided ~1-2%/yr historically | Turned net share-reductive: the ~\$1B 2026Q1 buyback is offsetting the 24% LTM SBC/Rev. Bullish if sustained |
   | Executive comp structure | NEO cash bonuses 100% tied to Cloud revenue | Well-aligned; Cloud drives the stock |
   | Founder ownership | Mike + Scott ~50M Class B shares each, 86% voting control | Aligned founders; dual-class protects long-term thinking |
   | Buyback history | \$197M in FY2026Q2 at \$140; accelerating H2; founders paused selling | First real shareholder return signal; encouraging |
   | Dividend | None | Expected for growth stage |
-  | SBC discipline | 23-26% of revenue, declining trend | Still high; needs to come down toward 15% to justify FCF narrative |
+  | SBC discipline | 23-26% of revenue (24% LTM in 2026Q1), declining trend | Still high; needs to come down toward 15% to justify FCF narrative — but now offset by buybacks (net dilution −2.6%) |
 	- ---
 - ## Anecdotes & Opinions
   
