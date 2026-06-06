@@ -56,7 +56,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
 	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events — the second revenue leg |
 	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
-	  | Mobile-commission relief | Regulators forcing Apple/Google to open distribution → margin tailwind (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023) |
+	  | Mobile-commission / distribution-cost mitigation | Two levers vs. the ~30% app-store tax: (1) regulators forcing Apple/Google to open distribution (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023); (2) Roblox's own push — Differential Robux Pricing to avoid payment fees (2025Q1) and a deliberate shift to **first-party distribution channels** (tangible progress in 2025Q4). A multi-quarter, self-help margin tailwind, not just a regulatory wait |
 	  | Infra cost per hour | \$10.5/1000 hours in 2026Q1 (down from ≈\$14 in 2022–23, ≈25% improvement) — confirming the "less than a penny" structural cost advantage |
 	  | Payer conversion (MUP/MAU) | **9% in 2026Q1**, up from 4% in 2024; MUP +52% YoY to 30.7M; DUP 1.8M — gap to Fortnite (≈15%) narrowing fast |
 	- ---
@@ -72,6 +72,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 - ## Innovative Culture
 	- Roblox encourages **systems-level thinking** over one-off feature development; mantras "Take the Long View" and "Take Responsibility."
 	- Heavy R&D culture: in-house world models, 400+ AI models, training NPCs on 13B hours of 3D world data; "Roblox Reality" (hyperscale multiplayer + photorealism + human-like NPCs).
+	- **AI capability ramp (8-quarter trend)**: a steady escalation from moderation → discovery → generative worlds — AI-driven moderation (2024Q1) → open-sourced voice-safety model, 20k+ downloads (2024Q4) → 300+ ML models + in-experience LLM text API (2025Q1) → game foundation models + GPUs deployed in own data centers (2025Q3) → 400+ models, in-house world model, NPCs on 13B hrs of 3D data (2025Q4) → Roblox Reality / Video World Models (2026Q1). Each quarter compounds the platform's AI surface area — a consistent, accelerating R&D commitment.
 	- Positive-culture signals: weekly town halls, monthly CEO AMAs (David Baszucki), open lunches with leadership, Roblox Week, no-meeting days / core hours.
 	- ---
 - ## Vibe Checks
@@ -141,6 +142,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	  5. **VR substitution** — Meta Horizon Worlds and VR-native UGC could capture the next generation of under-13s.
 	  6. **Founder-CEO age / succession** — David Baszucki born 1963 (founder-led is a strength, but key-person risk).
 	  7. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the \$13.5B ARPU-parity upside never materializes. **Cautionary comp — Fortnite**: revenue peaked at ≈\$6B in 2021 (likely a COVID-boosted high) and has not reclaimed it since; Epic Games conducted [layoffs](https://www.epicgames.com/site/news/todays-layoffs) — evidence that even the closest competitor's UGC/live-service model can plateau and de-rate after a demand pull-forward. A reminder that gaming-platform engagement and spend can mean-revert.
+	  8. **Recurring regulatory / geographic headwinds (8-quarter trend)** — friction shows up almost every year: Turkey ban (Aug 2024), Russia ban (Dec 2025), and the global age-verification rollout that gated chat, slowed new-user signups, and **cut FY2026 bookings guidance to 8–12%** (2025Q3, 2026Q1). A large, kid-heavy, global platform is a standing target for child-safety regulation and country bans — a persistent, partly-unpredictable drag on growth and a compliance-cost burden.
 	- ---
 - ## Friendly to Shareholders?
 	- > Share dilution and executive incentive plans.
@@ -154,6 +156,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	  | Vesting | Q1 2026: 67%; Q2 2026–Q1 2027: remaining 33% in 4 equal quarterly installments |
 	  | Accounting | Accelerated attribution over the service period |
 	- Modeling assumption (moderate case) uses ≈3% annual dilution — watch whether actual SBC runs hotter given the 200% PSU payout.
+	- **Rising creator payouts (DexEx) — an 8-quarter margin trade-off**: Roblox is deliberately paying creators a larger share to attract better, older-skewing content — price-optimization tool lifting dev earnings +4% (2025Q1), DexEx rate +8.5% (2025Q3), margin explicitly down on higher DexEx (2025Q4), and a 37.8% DevEx rate for age-checked O18 spend (2026Q1). This is a supply-side investment that pressures near-term take-rate/margin in exchange for a stronger content flywheel — a recurring tension between developer generosity and shareholder margin to monitor.
 	- **Note**: 2023 proxy cancelled an earlier CEO RSU incentive plan.
 	- ---
 - ## Anecdotes & Opinions
