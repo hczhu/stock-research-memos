@@ -1,7 +1,7 @@
-tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[memory]], [[super-cycle]], [[AI infrastructure]], [[semiconductor]]
+tags:: [[DRAM]], [[HBM]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[memory]], [[super-cycle]], [[AI infrastructure]], [[semiconductor]]
 
-- **Instrument**: $DRAM — memory-industry index fund (not a single company)
-- **Top 3 holdings**: Samsung Electronics, SK Hynix, Micron — the "Big 3" controlling ≈90% of DRAM output and the majority of total memory
+- **Instrument**: $DRAM — memory & storage-industry index fund (not a single company); spans DRAM, HBM, and NAND/enterprise SSD
+- **Top 3 holdings**: Samsung Electronics, SK Hynix, Micron — the "Big 3" controlling ≈90% of DRAM output and the majority of total memory; all three are also leading NAND/enterprise-SSD makers, so the index captures the AI-driven storage (SSD) tailwind alongside DRAM/HBM
 - **Date**: 2026-06-04
 - **Market cap of holdings (combined)**: ≈$3.5T (Big 3)
 - **Position**: watching
