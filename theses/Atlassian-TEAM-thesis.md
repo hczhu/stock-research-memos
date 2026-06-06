@@ -121,6 +121,7 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
   |------|--------|--------------------|-----------------|
   | 2026-06 | Hacker News (Jira "Turing-complete" thread) | "Fractal shit snowflakes" of configuration; Jira not designed for engineers anymore — it's for management | bearish (UX) |
   | 2026-06 | Hacker News expert comment | "Jira is great when set up right. Its customizability is a feature, not a bug." | bullish (stickiness) |
+  | 2026-06 | Fishman AF Newsletter (Adam Fishman) | Survey: ~1/3 dislike Jira but **64% are indifferent or satisfied**; works well "when properly configured"; every competitor (Notion, Trello, Linear, Monday…) "bothers me in some way" — Jira leads by relative parity. "Jira deserves less hatred, not more love" | bullish (hate overblown; low churn risk) |
   | 2026-04 | Reddit (JSM thread) | JSM strong for ITSM core; Rovo "glorified search" that couldn't answer half the questions from its own Confluence | bearish (Rovo AI quality) |
   | 2026-05 | Atlassian Team conference | Redditor: "I need Rovo to perform tasks I do manually now but can't get it to work" | bearish (Rovo maturity) |
   | 2026-03 | Oscar Health (healthcare, 600 users) | Migrated 600 users from Jira to Linear in one month; VP Eng says "everybody here seems happier" | bearish (Linear threat) |
