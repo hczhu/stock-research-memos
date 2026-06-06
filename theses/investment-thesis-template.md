@@ -19,9 +19,6 @@ tags:: [[TICKER]], [[sector]]
 	  | Bull     |             |              |        |                 |         |               |
 	  
 	  ---
-- ## Durable and Unfair Competitive Advantages
-	- > What does the company do that is genuinely hard to replicate — not tied to a single product but woven into its identity? Moats are time-bound, not permanent. At best they are a bridge. The question is whether the company is using that bridge to reach the next defensible position, or standing still while competitors close the gap.
-	- ---
 - ## Key Value Drivers
 	- > The critical metrics to monitor for the narrative to play out — e.g., revenue growth, gross margin expansion, share repurchases, cost structure improvements, new product attach rates. If these move in the right direction, the thesis is on track; if they stall, revisit.
 	- ---
@@ -46,6 +43,9 @@ tags:: [[TICKER]], [[sector]]
 	  |            |             |               |            |
 	  
 	  ---
+- ## Durable and Unfair Competitive Advantages
+	- > What does the company do that is genuinely hard to replicate — not tied to a single product but woven into its identity? Moats are time-bound, not permanent. At best they are a bridge. The question is whether the company is using that bridge to reach the next defensible position, or standing still while competitors close the gap.
+	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- > Assume the thesis fails. Work backward: what caused it? List the top risks in order of likelihood × impact. Distinguish between risks that invalidate the thesis entirely versus ones that merely delay it.
 	- 1.
