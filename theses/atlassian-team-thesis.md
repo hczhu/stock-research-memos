@@ -4,12 +4,12 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 - **Date**: 2026-06-05
 - **Market cap at writing**: ~$26B
 - **Position**: long (1,620 shares)
-
+  
   ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years? Is the market big enough for 10x? Can it 4x revenue in 10 years?
 	- **The one-line story**: *Atlassian is the operating system for how teams work — it will follow ServiceNow's trajectory from a developer tool to a $10–12B revenue enterprise platform, compounding through product releases, enterprise up-market motion, and AI-native features.*
-	- **ServiceNow analog**: ServiceNow grew 57× to $13B over 14 years post-IPO (36% CAGR) as essentially a one-trick pony facing Microsoft competition. Atlassian has more products (Jira, Confluence, JSM, Loom, Rovo) and a larger but lower-ARPU customer base. Management target: $10B+ revenue by FY2029 at 20%+ growth — roughly **1.7× the current $5,893M (~$5.9B) LTM revenue**.
+	- **ServiceNow analog**: ServiceNow grew 57× to $13B over 14 years post-IPO (36% CAGR) as essentially a one-trick pony facing Microsoft competition. Atlassian has more products (Jira, Confluence, JSM, Loom, Rovo) and a larger but lower-ARPU customer base. Management target: $10B+ revenue by FY2029 at 20%+ growth — roughly **1.7× the current $5.9B LTM of 2026Q1 revenue**.
 	- **The platform flywheel**: 350,000 customers × 8,000+ marketplace apps × 1.2M installs × 1,800+ partners = an ecosystem you can vibe-code around but cannot replicate. Atlassian is the workflow substrate of modern knowledge work.
 	- **The AI layer (Rovo)**: Rovo is Atlassian's AI layer — enterprise search + agents running on the **Teamwork Graph**, which models people, work relationships, and knowledge across Jira, Confluence, and 100+ third-party connectors. Unlike generic LLMs, Rovo understands org-specific context. The Service Collection (JSM + CSM + Assets + Rovo) already crossed $1B ARR and is growing >30% YoY.
 	- **Two historical re-accelerations** as a template: 2018 (Trello acquisition + JSM hitting critical mass + price increases) and 2022 (forced Server → Cloud migration that repriced legacy users to recurring subscriptions). The next catalyst is the Data Center end-of-life (2029) + Rovo AI monetization + enterprise up-market motion (Brian Duffy, ex-SAP, as new CRO).
@@ -19,57 +19,53 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 	- > Back-of-the-envelope valuation anchored to a 5- and 10-year horizon.
 	- **Current financials (FY25, year ended June 2025)**: Revenue $5.22B (+20% YoY). Cloud $3.45B (+28%), Data Center $1.47B (+21%). FCF $1.416B (~27% margin). Gross margin ~82-85%. R&D ~28-32% of revenue (ex-SBC). SBC ~23-26% of revenue (key concern).
 	- **Valuation at writing**: ~$26B market cap, ~5x P/S, ~18x TTM FCF. Has traded 27–140x TTM FCF over 9 years; currently at 29x (near historical low).
-	
-	| Scenario | Revenue (5Y / FY30) | FCF margin | FCF/share | Exit multiple | Implied IRR |
-	|---|---|---|---|---|---|
-	| Bear | $9B | 25% | $8.5 | 20x | ~8% |
-	| Base | $10.5B | 30% | $12.5 | 25x | ~15% |
-	| Bull | $12B | 33% | $14.7 | 30x | ~22% |
-
+	  
+	  | Scenario | Revenue (5Y / FY30) | FCF margin | FCF/share | Exit multiple | Implied IRR |
+	  |---|---|---|---|---|---|
+	  | Bear | $9B | 25% | $8.5 | 20x | ~8% |
+	  | Base | $10.5B | 30% | $12.5 | 25x | ~15% |
+	  | Bull | $12B | 33% | $14.7 | 30x | ~22% |
 	- At $156 (VIC writeup price), base case yields 18-26% IRR. At current ~$99, entry is materially more attractive.
 	- **FCF per share** assumes ~1% annual dilution (vs. historical 1-2%); founders paused selling plans in FY2026Q2.
 	- ---
 - ## Durable and Unfair Competitive Advantages
-
-	| Competitive advantage | Detail |
-	|---|---|
-	| Workflow entrenchment | Jira/Confluence/JSM sit in daily workflow with deep integrations; moving issue history, automations, and knowledge bases is costly in time, change-management, and risk |
-	| Ecosystem / Marketplace | 8,000+ app listings, 1.2M+ installs, 1,800+ partners; competitors cannot replicate this on any reasonable timeline |
-	| Product-led distribution | Self-serve + transparent pricing undercuts legacy procurement cycles; low CAC vs. Salesforce/ServiceNow model |
-	| Teamwork Graph (AI moat) | 100+ connectors map people, work, and knowledge across the enterprise; Rovo agents are grounded in org-specific context that generic LLMs cannot access |
-	| Developer brand | Jira/Confluence have entrenched mindshare in software teams since 2002; ranked #1 collaboration tool 2022–2024 in Stack Overflow surveys (46.8% in 2025) |
-	| Founder-led culture | Mike Cannon-Brookes (co-founder, sole CEO since Aug 2024) controls 86% of voting power with co-founder Scott Farquhar; aligned, long-view capital allocation |
-	| AI coding tailwind | Customers using AI coding tools (GitHub Copilot, Claude Code, Cursor) expand Jira paid seats ~5% faster than those who don't — AI makes Atlassian stickier |
-
+  
+  | Competitive advantage | Detail |
+  |---|---|
+  | Workflow entrenchment | Jira/Confluence/JSM sit in daily workflow with deep integrations; moving issue history, automations, and knowledge bases is costly in time, change-management, and risk |
+  | Ecosystem / Marketplace | 8,000+ app listings, 1.2M+ installs, 1,800+ partners; competitors cannot replicate this on any reasonable timeline |
+  | Product-led distribution | Self-serve + transparent pricing undercuts legacy procurement cycles; low CAC vs. Salesforce/ServiceNow model |
+  | Teamwork Graph (AI moat) | 100+ connectors map people, work, and knowledge across the enterprise; Rovo agents are grounded in org-specific context that generic LLMs cannot access |
+  | Developer brand | Jira/Confluence have entrenched mindshare in software teams since 2002; ranked #1 collaboration tool 2022–2024 in Stack Overflow surveys (46.8% in 2025) |
+  | Founder-led culture | Mike Cannon-Brookes (co-founder, sole CEO since Aug 2024) controls 86% of voting power with co-founder Scott Farquhar; aligned, long-view capital allocation |
+  | AI coding tailwind | Customers using AI coding tools (GitHub Copilot, Claude Code, Cursor) expand Jira paid seats ~5% faster than those who don't — AI makes Atlassian stickier |
 	- ---
 - ## Key Value Drivers
 	- > Metrics to monitor for the thesis to play out.
-
-	| Driver | What to watch |
-	|---|---|
-	| Revenue growth rate | Management target: 20%+ through FY27; currently 21-26% quarterly YoY |
-	| Cloud revenue mix | Cloud $3.45B (+28% FY25); growing faster than Data Center; higher long-term margin |
-	| Enterprise up-market | 600+ customers >$1M ACV (+40% YoY in FY2026Q2); average spend ~$16K/yr currently; closing gap to ServiceNow's $1.5M |
-	| NRR (net revenue retention) | >120% in FY2026Q3 — seat expansion + cross-sell working |
-	| Service Collection ARR | $1B ARR crossing, >30% YoY, 65,000 customers (50% F500) — JSM + CSM + Assets + Rovo |
-	| Rovo AI monetization | Enterprise search + agent attach rate; AI Protect and Rovo Service bookings |
-	| GAAP operating margin | First time >0% expected FY2026Q3 (~4.5%); trajectory toward sustained profitability |
-	| SBC as % of revenue | 23-26% currently; declining; critical to watch against FCF quality |
-	| Data Center → Cloud migrations | DC = 25% of revenue; Atlassian Ascend migration program; DC EOS in 2029 |
-	| Share repurchases | Founders paused selling; H2 FY26 repurchases accelerating; $197M at $140 in Q2 |
-
+	  
+	  | Driver | What to watch |
+	  |---|---|
+	  | Revenue growth rate | Management target: 20%+ through FY27; currently 21-26% quarterly YoY |
+	  | Cloud revenue mix | Cloud $3.45B (+28% FY25); growing faster than Data Center; higher long-term margin |
+	  | Enterprise up-market | 600+ customers >\$1M ACV. average spend ~$16K/yr currently; closing gap to ServiceNow's $1.5M |
+	  | NRR (net revenue retention) | >120% in FY2026Q3 — seat expansion + cross-sell working |
+	  | Service Collection ARR | $1B ARR crossing, >30% YoY, 65,000 customers (50% F500) — JSM + CSM + Assets + Rovo |
+	  | Rovo AI monetization | Enterprise search + agent attach rate; AI Protect and Rovo Service bookings |
+	  | GAAP operating margin | First time >0% expected FY2026Q3 (~4.5%); trajectory toward sustained profitability |
+	  | SBC as % of revenue | 23-26% currently; declining; critical to watch against FCF quality |
+	  | Data Center → Cloud migrations | DC = 25% of revenue; Atlassian Ascend migration program; DC EOS in 2029 |
+	  | Share repurchases | Founders paused selling; H2 FY26 repurchases accelerating; $197M at $140 in Q2 → **~$1.0B buying back 11.82M shares in 2026Q1** (avg ~$85, weighted to sub-$75 in March) |
 	- ---
 - ## Secular Trends as Tailwinds
-
-	| Trend | Detail |
-	|---|---|
-	| AI-native software development | AI coding agents generate more work items, bugs, and pull requests → more Jira tickets, more Confluence pages; AI makes Atlassian more essential, not less |
-	| Enterprise AI orchestration | Enterprises need a "system of record" for human + AI agent collaboration; Jira is positioning as the agent orchestration layer |
-	| Remote/hybrid work permanence | Async collaboration tools (Confluence, Loom) benefit structurally from distributed teams |
-	| Cloud migration wave | 25% of Atlassian revenue still on Data Center; forced migration to Cloud by 2029 = recurring revenue repricing upside |
-	| IT complexity growth | More tools = more ITSM tickets; JSM/CSM benefit from enterprise IT sprawl |
-	| Regulation-driven security demand | Government Cloud GA, FedRAMP High and IL5 compliance — opens public sector TAM |
-
+  
+  | Trend | Detail |
+  |---|---|
+  | AI-native software development | AI coding agents generate more work items, bugs, and pull requests → more Jira tickets, more Confluence pages; AI makes Atlassian more essential, not less |
+  | Enterprise AI orchestration | Enterprises need a "system of record" for human + AI agent collaboration; Jira is positioning as the agent orchestration layer |
+  | Remote/hybrid work permanence | Async collaboration tools (Confluence, Loom) benefit structurally from distributed teams |
+  | Cloud migration wave | 25% of Atlassian revenue still on Data Center; forced migration to Cloud by 2029 = recurring revenue repricing upside |
+  | IT complexity growth | More tools = more ITSM tickets; JSM/CSM benefit from enterprise IT sprawl |
+  | Regulation-driven security demand | Government Cloud GA, FedRAMP High and IL5 compliance — opens public sector TAM |
 	- ---
 - ## Innovative Culture
 	- Founded 2002 in Sydney; bootstrapped for years before IPO. Mentality: "Take the Long View" and "Take Responsibility."
@@ -88,16 +84,15 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 		- Jira is #1 collaboration tool per Stack Overflow 2022-2024 surveys; 85% of Fortune 500 are customers. Hate is fashionable but rarely terminal — most users find it "fine" when properly configured. JSM wins competitive displacements from ServiceNow. But Rovo AI reviews are poor: "glorified search," virtual service agent "just kicks users to a form."
 	- ---
 - ## Competition Landscape
-
-	| Competitor | Threat level | Key advantage | Assessment |
-	|---|---|---|---|
-	| Microsoft (Azure DevOps + Teams + SharePoint + Copilot) | High | Bundled at near-zero marginal cost in M365; GitHub dominates DevOps | The existential bundler threat; MSFT is in every enterprise already |
-	| ServiceNow (ITSM) | Medium | Larger enterprise customers, deeper ITSM features, stronger sales motion | Atlassian and NOW are converging in enterprise; Atlassian is cheaper and more developer-friendly |
-	| Linear | Low-Medium | Superior UX, keyboard-first, AI-friendly schema, developer-loved | Real threat at dev teams (Coinbase, Oscar Health migrations) but limited to SMB/mid-market; no Confluence/JSM equivalent |
-	| Glean | Medium | Enterprise AI search first-mover; Tamar Yehoshua came from Glean | Direct Rovo competitor in search; Atlassian's Teamwork Graph has more data on existing customers |
-	| GitLab (DevOps) | Low-Medium | End-to-end DevOps platform, Bitbucket competition | Bitbucket is weak; GitHub/GitLab dominate code hosting |
-	| Notion / Coda | Low | Modern UX, all-in-one | Replaces Confluence at SMB; can't match Atlassian's workflow integrations at enterprise scale |
-
+  
+  | Competitor | Threat level | Key advantage | Assessment |
+  |---|---|---|---|
+  | Microsoft (Azure DevOps + Teams + SharePoint + Copilot) | High | Bundled at near-zero marginal cost in M365; GitHub dominates DevOps | The existential bundler threat; MSFT is in every enterprise already |
+  | ServiceNow (ITSM) | Medium | Larger enterprise customers, deeper ITSM features, stronger sales motion | Atlassian and NOW are converging in enterprise; Atlassian is cheaper and more developer-friendly |
+  | Linear | Low-Medium | Superior UX, keyboard-first, AI-friendly schema, developer-loved | Real threat at dev teams (Coinbase, Oscar Health migrations) but limited to SMB/mid-market; no Confluence/JSM equivalent |
+  | Glean | Medium | Enterprise AI search first-mover; Tamar Yehoshua came from Glean | Direct Rovo competitor in search; Atlassian's Teamwork Graph has more data on existing customers |
+  | GitLab (DevOps) | Low-Medium | End-to-end DevOps platform, Bitbucket competition | Bitbucket is weak; GitHub/GitLab dominate code hosting |
+  | Notion / Coda | Low | Modern UX, all-in-one | Replaces Confluence at SMB; can't match Atlassian's workflow integrations at enterprise scale |
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Microsoft bundles "good enough" substitutes** into M365 at near-zero marginal cost, slowing Cloud seat expansion and compressing Marketplace take-rates. Azure DevOps + GitHub Issues + SharePoint + Copilot = the Jira + Confluence + JSM bundle, free.
@@ -107,31 +102,29 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 	  5. **Data Center EOS execution risk** — DC is 25% of revenue and ends in 2029. If migrations stall or migrate to competitors (ServiceNow, Microsoft) rather than Atlassian Cloud, a cliff in revenue materializes.
 	  6. **Integration risk from large M&A** — Browser Company ($610M) and DX ($1B) acquisitions are unproven; Loom was $975M and is reportedly working, but two consecutive large bets increase execution risk.
 	  7. **Commercial market deterioration** — SMB/mid-market sales data shows quota attainment 61%→52%, avg deal size $120k→$92k, PMF score declining. Enterprise improving, but commercial base must not collapse.
-
 	- ---
 - ## Friendly to Shareholders?
-
-	| Factor | Signal | Assessment |
-	|---|---|---|
-	| Share dilution (annual %) | Guided ~1-2%/yr historically | Acceptable but watch SBC/FCF ratio (~96% TTM — dilution is expensive) |
-	| Executive comp structure | NEO cash bonuses 100% tied to Cloud revenue | Well-aligned; Cloud drives the stock |
-	| Founder ownership | Mike + Scott ~50M Class B shares each, 86% voting control | Aligned founders; dual-class protects long-term thinking |
-	| Buyback history | $197M in FY2026Q2 at $140; accelerating H2; founders paused selling | First real shareholder return signal; encouraging |
-	| Dividend | None | Expected for growth stage |
-	| SBC discipline | 23-26% of revenue, declining trend | Still high; needs to come down toward 15% to justify FCF narrative |
-
+  
+  | Factor | Signal | Assessment |
+  |---|---|---|
+  | Share dilution (annual %) | Guided ~1-2%/yr historically | Acceptable but watch SBC/FCF ratio (~96% TTM — dilution is expensive) |
+  | Executive comp structure | NEO cash bonuses 100% tied to Cloud revenue | Well-aligned; Cloud drives the stock |
+  | Founder ownership | Mike + Scott ~50M Class B shares each, 86% voting control | Aligned founders; dual-class protects long-term thinking |
+  | Buyback history | $197M in FY2026Q2 at $140; accelerating H2; founders paused selling | First real shareholder return signal; encouraging |
+  | Dividend | None | Expected for growth stage |
+  | SBC discipline | 23-26% of revenue, declining trend | Still high; needs to come down toward 15% to justify FCF narrative |
 	- ---
 - ## Anecdotes & Opinions
-
-	| Date | Source | Anecdote / Opinion | Signal direction |
-	|------|--------|--------------------|-----------------|
-	| 2026-06 | Hacker News (Jira "Turing-complete" thread) | "Fractal shit snowflakes" of configuration; Jira not designed for engineers anymore — it's for management | bearish (UX) |
-	| 2026-06 | Hacker News expert comment | "Jira is great when set up right. Its customizability is a feature, not a bug." | bullish (stickiness) |
-	| 2026-04 | Reddit (JSM thread) | JSM strong for ITSM core; Rovo "glorified search" that couldn't answer half the questions from its own Confluence | bearish (Rovo AI quality) |
-	| 2026-05 | Atlassian Team conference | Redditor: "I need Rovo to perform tasks I do manually now but can't get it to work" | bearish (Rovo maturity) |
-	| 2026-03 | Oscar Health (healthcare, 600 users) | Migrated 600 users from Jira to Linear in one month; VP Eng says "everybody here seems happier" | bearish (Linear threat) |
-	| 2026-03 | Coinbase | Linear is now default planning tool for PED; 90% of users preferred it in pilot; regulated workflows stay in Jira | mixed (Linear for dev UX; Jira for compliance) |
-	| 2026-01 | Atlassian CEO (as of 2025-01) | "85% of Fortune 500 are Atlassian customers but represent merely 10% of our total business" | bullish (ARPU upside) |
-	| 2025 | RepVue data on sales org | Enterprise side: quota attainment 49%→63%↑, avg deal $305k→$413k↑. Commercial side: quota 61%→52%↓, avg deal $120k→$92k↓ | mixed (enterprise working, SMB declining) |
-	| 2022-2025 | Stack Overflow surveys | Jira #1 collaboration tool 2022-2024 (52-55%); dropped to 46.8% in 2025; Confluence 42%→33%; Trello 35%→14% | bearish trend (market share erosion) |
-	| 2024 | VIC writeup (~$156 price) | At $156: 5-year IRR 18-26% at 25-30x FCF exit; FCF/sh $12.5-14.7 by 2030 | bullish (at lower current price, more upside) |
+  
+  | Date | Source | Anecdote / Opinion | Signal direction |
+  |------|--------|--------------------|-----------------|
+  | 2026-06 | Hacker News (Jira "Turing-complete" thread) | "Fractal shit snowflakes" of configuration; Jira not designed for engineers anymore — it's for management | bearish (UX) |
+  | 2026-06 | Hacker News expert comment | "Jira is great when set up right. Its customizability is a feature, not a bug." | bullish (stickiness) |
+  | 2026-04 | Reddit (JSM thread) | JSM strong for ITSM core; Rovo "glorified search" that couldn't answer half the questions from its own Confluence | bearish (Rovo AI quality) |
+  | 2026-05 | Atlassian Team conference | Redditor: "I need Rovo to perform tasks I do manually now but can't get it to work" | bearish (Rovo maturity) |
+  | 2026-03 | Oscar Health (healthcare, 600 users) | Migrated 600 users from Jira to Linear in one month; VP Eng says "everybody here seems happier" | bearish (Linear threat) |
+  | 2026-03 | Coinbase | Linear is now default planning tool for PED; 90% of users preferred it in pilot; regulated workflows stay in Jira | mixed (Linear for dev UX; Jira for compliance) |
+  | 2026-01 | Atlassian CEO (as of 2025-01) | "85% of Fortune 500 are Atlassian customers but represent merely 10% of our total business" | bullish (ARPU upside) |
+  | 2025 | RepVue data on sales org | Enterprise side: quota attainment 49%→63%↑, avg deal $305k→$413k↑. Commercial side: quota 61%→52%↓, avg deal $120k→$92k↓ | mixed (enterprise working, SMB declining) |
+  | 2022-2025 | Stack Overflow surveys | Jira #1 collaboration tool 2022-2024 (52-55%); dropped to 46.8% in 2025; Confluence 42%→33%; Trello 35%→14% | bearish trend (market share erosion) |
+  | 2024 | VIC writeup (~$156 price) | At $156: 5-year IRR 18-26% at 25-30x FCF exit; FCF/sh $12.5-14.7 by 2030 | bullish (at lower current price, more upside) |
