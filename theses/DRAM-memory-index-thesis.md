@@ -88,6 +88,7 @@ tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[m
 	| Agentic AI | Longer context windows, KV-cache, agent swarms → structural rise in memory intensity per workload ([[2026-06-03-ai-memory-wall-agentic-ai-dram-demand]]) |
 	| AI server = memory system | NVL72-class racks carry 20.7TB HBM + 54TB DRAM; server share of DRAM bit demand 37% (2023) → 59% (2028E) |
 	| Inference shift to NAND | Enterprise SSD share of NAND demand 18% (2023) → 65% (2028E) |
+	| SSD eating the HDD market | Flash is displacing HDD in the datacenter: SSD ≈32% of storage *bits* (2026E) yet ≈ *dollar* parity with HDD (≈$47–49B vs ≈$53B) — earning far more per bit. IDC: ≈89% of cloud-provider data still on HDD = a large conversion pool; enterprise-SSD ≈ 10–14TB-HDD cost crossover ≈2026. NAND/SSD volume tailwind for the Big 3 (see Appendix; [[2026-05-05-micron-6600-ion-245tb-ssd]]) |
 	| Edge/physical AI | AI agents in phones, autos, robots add a second demand wave beyond data centers |
 	| Chipflation | Memory inflation now a macro input — PPI electronics +27.6% YoY ([[2026-06-03-chipflation-macro-cpi-ppi-impact]]) |
 	- ---
@@ -144,3 +145,17 @@ tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[m
 	  | 2026 | Michael Burry / bear case | Micron gross margin ≈74% characterized as an all-time high — peak-margin warning | bearish |
 	  | 2026 | Bear thread | "This time is different" has marked the peak of every prior memory cycle; strong consensus is a contrary indicator | bearish |
 	  | 2026-06 | Ex-SK Hynix strategy director (34 yrs), via @SteadyCompound | **Supply is slower and more controllable than headline capex implies**: even after ordering equipment (≈1-yr cycle) and installing it, makers can delay wafer input to watch the market. Samsung's P5 fab (600k wpm, ≈ its entire current 650k wpm capacity) completes 2028 → shipments not until ≈2029. Meanwhile LTAs are now **binding purchase obligations** (not forecasts) — hyperscalers legally commit to buy, shifting inventory risk off suppliers — and prepay **10–30%** of a $15–20B fab's cost, de-risking vendor capex | bullish |
+	- ---
+- ## Appendix — SSD vs HDD Market Share (Bits vs Dollars)
+	- **Source**: industry estimates compiled via web search (IDC, Gartner, market-research firms); figures vary by source/definition (total vs enterprise vs data-center), treat as approximate. See [[2026-05-05-micron-6600-ion-245tb-ssd]].
+
+	| Metric (≈2026E) | HDD | SSD |
+	|---|---:|---:|
+	| Capacity shipped — exabytes ("bits") | ≈3,200 EB (**≈68%**) | ≈1,400 EB (**≈32%**) |
+	| Enterprise / data-center revenue ($) | ≈$53B | ≈$47–49B (**≈ parity**) |
+	| Forward revenue CAGR | **≈−1%** | **≈+8%** |
+
+	- **The key contrast**: HDD still ships ≈2/3 of the *bits*, but SSD is roughly **at dollar parity** — flash earns far more revenue per bit, and the value is migrating to SSD even as HDD wins on raw capacity
+	- **Installed base skews further to HDD**: IDC estimates ≈**89% of data stored by lead cloud providers still resides on HDD** — a large pool still available to convert to flash
+	- **Cost crossover**: enterprise SSD ≈ 10–14TB-HDD cost parity around 2026 — the tipping point that widens flash's addressable market (and the backdrop for Micron's 245TB drive)
+	- **Why it matters for $DRAM**: SSD displacement is incremental NAND-bit demand for the Big 3 (Samsung, SK Hynix, Micron) on top of the DRAM/HBM cycle — a structural, multi-year volume tailwind largely independent of the DRAM price cycle
