@@ -78,3 +78,4 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 - Never push directly to `main`. Always branch → PR → merge.
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
 - When searching for context before answering investment questions, `grep` across `memos/` by ticker, company name, or topic keyword.
+- When data-point density is relatively high in a paragraph, use a Markdown table instead of dense prose.
