@@ -8,9 +8,9 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
   ---
 - ## References
 
-	| Date | Source | URL | Notes |
-	|------|--------|-----|-------|
-	|      |        |     |       |
+	| | |
+	|---|---|
+	| | |
 
   ---
 - ## Main Narrative

@@ -8,9 +8,9 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
   ---
 - ## References
 
-	| Date | Source | URL | Notes |
-	|------|--------|-----|-------|
-	|      |        |     |       |
+	| | |
+	|---|---|
+	| | |
 
   ---
 - ## Main Narrative
