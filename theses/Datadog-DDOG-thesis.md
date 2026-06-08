@@ -27,11 +27,11 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
 	- **Current financials (2026Q1)**: Revenue $1B+ quarter. ARR >$4B. 2.5% of revenue from AI model providers. AI-native cohort ~22 customers spending >$1M annually.
 	- **TAM bridge**: $37B IT Ops Management × 10% share = $3.7B base case. Security + AI observability expands well beyond that.
 
-	| Scenario | Revenue (5Y) | Revenue (10Y) | FCF Margin | FCF (10Y) | Fair P/FCF | Implied Price |
-	|----------|-------------|--------------|--------|-----------------|---------|---------------|
-	| Bear     | $6B         | $9B          | 25%    | $2.25B          | 25x     | ~$56B mkt cap |
-	| Base     | $8B         | $14B         | 30%    | $4.2B           | 30x     | ~$126B mkt cap|
-	| Bull     | $10B        | $18B         | 33%    | $5.9B           | 35x     | ~$207B mkt cap|
+	| Scenario | Revenue (5Y) | Revenue (10Y) | Rev CAGR (5Y/10Y) | FCF Margin | FCF (10Y) | Fair P/FCF | Implied Mkt Cap |
+	|----------|-------------|--------------|-------------------|------------|-----------|------------|-----------------|
+	| Bear     | $6B         | $9B          | ~8% / ~8%         | 20%        | $1.8B     | 15x        | ~$27B           |
+	| Base     | $8B         | $14B         | ~15% / ~13%       | 25%        | $3.5B     | 20x        | ~$70B           |
+	| Bull     | $10B        | $18B         | ~20% / ~16%       | 30%        | $5.4B     | 25x        | ~$135B          |
 
 	- **Key uncertainty**: Whether AI agents structurally expand observability TAM faster than cost-conscious customers churn to open-source (Grafana/Prometheus/Elastic).
 	- **Napkin 2031E revenue figure in doc**: $31.4B — appears to be an ambitious bull case.
