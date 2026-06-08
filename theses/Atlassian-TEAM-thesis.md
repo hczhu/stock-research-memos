@@ -6,6 +6,13 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 - **Position**: long
   
   ---
+- ## References
+
+	| Date | Source | URL | Notes |
+	|------|--------|-----|-------|
+	|      |        |     |       |
+
+  ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years? Is the market big enough for 10x? Can it 4x revenue in 10 years?
 	- **The one-line story**: *Atlassian is the operating system for how teams work — it will follow ServiceNow's trajectory from a developer tool to a \$10–12B revenue enterprise platform, compounding through product releases, enterprise up-market motion, and AI-native features.*

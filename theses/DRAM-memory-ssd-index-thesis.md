@@ -8,6 +8,13 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 - **Why an index, not a single name**: The memory super-cycle is an *industry* thesis — tight oligopoly supply meeting AI-driven demand. An index diversifies single-name execution risk (e.g., Samsung HBM4 yield, Micron valuation/volatility) while capturing the structural pricing power shared across all three. See [[2026-06-04-memory-market-and-big3-financials]] for combined financials.
   
   ---
+- ## References
+
+	| Date | Source | URL | Notes |
+	|------|--------|-----|-------|
+	|      |        |     |       |
+
+  ---
 - ## Main Narrative
 	- > What will the industry look like in 5–10 years? Is the market big enough to support 10x growth? Can it at least 4x revenue in 10 years?
 	- **The one-line story**: AI has turned memory from a commodity into a structurally scarce strategic input. Demand (HBM + server DRAM + enterprise NAND, and potentially a new on-package flash tier via HBF) is growing exponentially against a supply curve that physically cannot ramp for years, handing the Big 3 oligopoly durable pricing power and a step-change in through-cycle earnings.

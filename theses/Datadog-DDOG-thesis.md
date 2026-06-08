@@ -6,6 +6,13 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
 - **Position**: watching
 
   ---
+- ## References
+
+	| Date | Source | URL | Notes |
+	|------|--------|-----|-------|
+	|      |        |     |       |
+
+  ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years, qualitatively and quantitatively? Is the market large enough to support 10x its current revenue? Can the business at least 4x revenue in 10 years?
 	- **The one-line story**: *Datadog is the system of record for all software-generated operational data — as AI agents write and run exponentially more code, they will need exponentially more observability, making Datadog more essential, not less.*
