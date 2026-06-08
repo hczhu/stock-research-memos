@@ -42,6 +42,20 @@
 
 	- Non-agent workloads grow only modestly (~2→16); the entire story is agentic token expansion
 
+- ## Token Multipliers by Interaction Mode (Anthropic internal data)
+	- **Source**: Anthropic (cited in multi-agent systems research, June 2026)
+	- Measured against a single-turn chat interaction as the baseline (1×):
+
+	| Interaction mode | Token multiplier vs. chat |
+	|---|---:|
+	| Chat (single-turn) | 1× (baseline) |
+	| Single agent | ~**4×** |
+	| Multi-agent system | ~**15×** |
+
+	- **Why agents use more tokens**: Agentic workflows require tool-call sequences, intermediate reasoning steps, multi-turn context accumulation, and result verification loops — all of which inflate total token count per task relative to a one-shot chat query.
+	- **Why multi-agent compounds further**: Each subagent carries its own system prompt and context window; coordination messages, status updates, and result hand-offs between agents add tokens on top of each individual agent's workload. Coordination complexity grows rapidly with the number of agents.
+	- **Connection to the 24× forecast**: If chat is 1× and multi-agent is 15×, a shift in the workload mix from mostly-chat (today) to mostly-agent (2030) mechanically drives token volume up even with *flat* query counts. Goldman's 24× figure is the aggregate of this mix-shift plus outright query volume growth — the Anthropic multipliers are the per-query engine behind the macro curve.
+
 - ## Why It Matters — Investment Implications
 	- **Demand-side fuel for the memory super-cycle**: Token volume is the proximate driver of inference compute and HBM/DRAM demand. A 24× token increase by 2030 is the demand leg under the memory and AI-infra theses (see [[2026-06-01-memory-super-cycle-five-arguments]], [[2026-05-26-compute-crunch-token-demand-vs-supply]], [[2026-06-03-ai-memory-wall-agentic-ai-dram-demand]]).
 	- **Agents are the multiplier, not chatbots**: Agentic workflows (multi-step, tool-calling, long context, KV-cache-heavy) consume far more tokens per task than single-turn chat — exactly the workload mix that lifts DRAM/HBM intensity per query. The chart quantifies the "agents eat tokens" thesis.
