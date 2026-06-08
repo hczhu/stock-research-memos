@@ -8,23 +8,15 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
   ---
 - ## References
 
-	| Date | Source | URL | Notes |
-	|------|--------|-----|-------|
-	| — | Matthew Ball — The road to being profitable | https://www.matthewball.co/all/roblox2024 | Long-form analysis of Roblox's path to profitability |
-	| — | Hacker News discussion on above | https://news.ycombinator.com/item?id=41287099 | Community commentary on the Matthew Ball piece |
-	| — | RoMonitor | https://romonitorstats.com/ | Third-party Roblox game and player stats tracker |
-	| — | Roblox patents | https://patents.google.com/?assignee=Roblox&oq=assignee:Roblox | Patent filings by Roblox |
-	| — | S-1 filing | https://www.sec.gov/Archives/edgar/data/1315098/000119312521049767/d87104ds1a.htm | Original IPO S-1 filing |
-	| — | Investor Day | https://youtu.be/7XisxSUUbe8 | Roblox Investor Day presentation (YouTube) |
-	| — | Roblox game tracker | https://v3.rtrack.live/landing | Third-party game rank and stats tracker |
-	| — | CEO Reddit AMA | https://www.reddit.com/r/IAmA/comments/qhrp7u/i_am_david_baszucki_cofounder_and_ceo_of_roblox_i/ | David Baszucki AMA |
-	| — | Roblox Dev Forum | https://devforum.roblox.com/ | Official developer forum |
-	| — | Roblox leaderboards | https://rbxrank.com/ | Community leaderboard and rank tracker |
-	| — | Massive consumer digital services (comp spreadsheet) | https://docs.google.com/spreadsheets/d/1K4m1h_0RqYlouCKhVP4WXpN_UtSJHnfVoLucvYYGhYk/edit?usp=sharing | Comp table: user base and revenue across platforms |
-	| — | SensorTower rank | https://app.sensortower.com/overview/431946152?country=GB&tab=category_rankings | App store category ranking data |
-	| — | Roblox numbers spreadsheet | https://docs.google.com/spreadsheets/d/1CH2CrNDwPNoc-5qUK43wnDgaC6uRujRMFTBzKfpYfOA/edit#gid=0 | Personal tracking spreadsheet of Roblox financials |
-	| 2026-06-07 | Roblox Substack thesis | https://hczhu.substack.com/p/a-roblox-investment-thesis-not-just | "Not Just a Kids' Game" — aging-up narrative, Roblox Reality, anecdotes |
-	| 2026-06-08 | Q1 2026 Shareholder Letter | — | O18 DevEx 42% increase, Age-Based Accounts, Roblox Plus, novel game expansion, 26% O18 DAU share |
+	| | |
+	|---|---|
+	| [Long-form analysis of Roblox's path to profitability — Matthew Ball](https://www.matthewball.co/all/roblox2024) | [Hacker News discussion on the Matthew Ball piece](https://news.ycombinator.com/item?id=41287099) |
+	| [RoMonitor — third-party Roblox game and player stats](https://romonitorstats.com/) | [Roblox patent filings](https://patents.google.com/?assignee=Roblox&oq=assignee:Roblox) |
+	| [Roblox S-1 IPO filing (SEC)](https://www.sec.gov/Archives/edgar/data/1315098/000119312521049767/d87104ds1a.htm) | [Roblox Investor Day (YouTube)](https://youtu.be/7XisxSUUbe8) |
+	| [rtrack — third-party game rank and stats tracker](https://v3.rtrack.live/landing) | [David Baszucki CEO Reddit AMA](https://www.reddit.com/r/IAmA/comments/qhrp7u/i_am_david_baszucki_cofounder_and_ceo_of_roblox_i/) |
+	| [Roblox Developer Forum](https://devforum.roblox.com/) | [rbxrank — community leaderboard tracker](https://rbxrank.com/) |
+	| [Comp spreadsheet — consumer digital services user base and revenue](https://docs.google.com/spreadsheets/d/1K4m1h_0RqYlouCKhVP4WXpN_UtSJHnfVoLucvYYGhYk/edit?usp=sharing) | [SensorTower — App Store category rankings](https://app.sensortower.com/overview/431946152?country=GB&tab=category_rankings) |
+	| [Roblox financials tracking spreadsheet](https://docs.google.com/spreadsheets/d/1CH2CrNDwPNoc-5qUK43wnDgaC6uRujRMFTBzKfpYfOA/edit#gid=0) | [Substack thesis — Not Just a Kids' Game (aging-up narrative, Roblox Reality)](https://hczhu.substack.com/p/a-roblox-investment-thesis-not-just) |
 
   ---
 - ## Main Narrative
