@@ -6,6 +6,14 @@ tags:: [[TICKER]], [[sector]]
 - **Position**: long / watching / avoided
   
   ---
+- ## References
+	- > Key source material — earnings calls, filings, research reports, articles, podcasts. Add a row each time you rely on a source so the thesis is auditable.
+	-
+	- | Date | Source | URL | Notes |
+	  |------|--------|-----|-------|
+	  |      |        |     |       |
+	  
+	  ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years, qualitatively and quantitatively? Is the market large enough to support 10x its current revenue? Can the business at least 4x revenue in 10 years? Articulate the story a shareholder tells herself — why this company, why now, and what has to be true for it to play out.
 	- ---
