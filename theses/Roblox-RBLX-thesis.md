@@ -6,6 +6,27 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 - **Position**: holding
   
   ---
+- ## References
+
+	| Date | Source | URL | Notes |
+	|------|--------|-----|-------|
+	| — | Matthew Ball — The road to being profitable | https://www.matthewball.co/all/roblox2024 | Long-form analysis of Roblox's path to profitability |
+	| — | Hacker News discussion on above | https://news.ycombinator.com/item?id=41287099 | Community commentary on the Matthew Ball piece |
+	| — | RoMonitor | https://romonitorstats.com/ | Third-party Roblox game and player stats tracker |
+	| — | Roblox patents | https://patents.google.com/?assignee=Roblox&oq=assignee:Roblox | Patent filings by Roblox |
+	| — | S-1 filing | https://www.sec.gov/Archives/edgar/data/1315098/000119312521049767/d87104ds1a.htm | Original IPO S-1 filing |
+	| — | Investor Day | https://youtu.be/7XisxSUUbe8 | Roblox Investor Day presentation (YouTube) |
+	| — | Roblox game tracker | https://v3.rtrack.live/landing | Third-party game rank and stats tracker |
+	| — | CEO Reddit AMA | https://www.reddit.com/r/IAmA/comments/qhrp7u/i_am_david_baszucki_cofounder_and_ceo_of_roblox_i/ | David Baszucki AMA |
+	| — | Roblox Dev Forum | https://devforum.roblox.com/ | Official developer forum |
+	| — | Roblox leaderboards | https://rbxrank.com/ | Community leaderboard and rank tracker |
+	| — | Massive consumer digital services (comp spreadsheet) | https://docs.google.com/spreadsheets/d/1K4m1h_0RqYlouCKhVP4WXpN_UtSJHnfVoLucvYYGhYk/edit?usp=sharing | Comp table: user base and revenue across platforms |
+	| — | SensorTower rank | https://app.sensortower.com/overview/431946152?country=GB&tab=category_rankings | App store category ranking data |
+	| — | Roblox numbers spreadsheet | https://docs.google.com/spreadsheets/d/1CH2CrNDwPNoc-5qUK43wnDgaC6uRujRMFTBzKfpYfOA/edit#gid=0 | Personal tracking spreadsheet of Roblox financials |
+	| 2026-06-07 | Roblox Substack thesis | https://hczhu.substack.com/p/a-roblox-investment-thesis-not-just | "Not Just a Kids' Game" — aging-up narrative, Roblox Reality, anecdotes |
+	| 2026-06-08 | Q1 2026 Shareholder Letter | — | O18 DevEx 42% increase, Age-Based Accounts, Roblox Plus, novel game expansion, 26% O18 DAU share |
+
+  ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years? Is the market big enough for 10x? Can it 4x revenue in 10 years?
 	- **The one-line story**: *"Roblox is bigger than a gaming platform — it's a 3D communications platform."* The business is a two-sided UGC network (players + developers) compounding toward a 1-billion-user, all-ages, all-device, global platform, with monetization expanding from virtual goods into advertising and commerce.

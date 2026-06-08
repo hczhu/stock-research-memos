@@ -6,6 +6,13 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 - **Position**: watching
   
   ---
+- ## References
+
+	| Date | Source | URL | Notes |
+	|------|--------|-----|-------|
+	|      |        |     |       |
+
+  ---
 - ## Main Narrative
 	- > What will the business look like in 5–10 years, qualitatively and quantitatively? Is the market large enough to support 10x its current revenue? Can the business at least 4x revenue in 10 years?
 	- ### Data Center & ASIC Breakthroughs
