@@ -1,6 +1,6 @@
 - tags:: [[semiconductor]], [[inference]], [[AI infrastructure]], [[data-center]], [[HBM]], [[HBF]], [[DRAM]], [[NAND]], [[packaging]], [[$NVDA]], [[$TSM]], [[$MU]], [[$MRVL]]
 
-- **Source**: user-provided PDF, "Challenges and Research Directions for Large Language Model Inference Hardware," Xiaoyu Ma and David Patterson (Google), PDF dated 2026-02-06
+- **Source**: "Challenges and Research Directions for Large Language Model Inference Hardware," Xiaoyu Ma and David Patterson (Google), arXiv PDF: https://arxiv.org/pdf/2601.05047
 
 - ## Bottom line
 	- The paper's core investment message is that **LLM inference bottlenecks are shifting away from raw FLOPS and toward memory capacity, memory bandwidth, and interconnect latency**.
@@ -28,6 +28,38 @@
 			- **PNM / 3D memory-logic stacking** for higher effective memory bandwidth
 			- **Low-latency interconnect** for multi-chip inference systems
 
+- ## Decode bottleneck matrix
+	- The table's most useful contribution is that it separates **what future inference trends stress** from **which hardware directions might relieve that stress**.
+	- The headline is simple: for transformer decode, the bottlenecks are overwhelmingly **memory capacity, memory bandwidth, and interconnect latency**, while **compute is only the primary bottleneck for diffusion-style workloads**.
+
+	| Decode feature / research direction | Memory capacity | Memory bandwidth | Interconnect latency | Compute |
+	|---|---|---|---|---|
+	| Conventional transformer decode |  | primary | primary |  |
+	| MoE | primary | primary | primary |  |
+	| Reasoning models | primary | primary | derived / likely |  |
+	| Multimodal | primary | primary | derived / likely |  |
+	| Long-context | primary | primary | derived / likely |  |
+	| RAG | primary | primary | derived / likely |  |
+	| Diffusion |  |  |  | primary |
+	| High Bandwidth Flash | helps |  | helps indirectly by shrinking system size |  |
+	| Near Memory Compute |  | helps | helps indirectly by shrinking system size |  |
+	| 3D Compute-Logic Stacking |  | helps | helps indirectly by shrinking system size |  |
+	| Low-Latency Interconnect |  |  | helps directly |  |
+
+	- **Conventional transformer decode** is already constrained by bandwidth and hop latency, which means simply adding more FLOPS does not solve the dominant inference pain point.
+	- **MoE** is the harshest generalization of the problem because it stresses all three: capacity, bandwidth, and communication. That is a strong read-through for HBM, packaging, and networking at the same time.
+	- **Reasoning, multimodal, long-context, and RAG** all primarily worsen memory capacity and bandwidth needs, and then create a *derived* interconnect problem if the larger working set forces the model across more chips or nodes.
+	- **Diffusion is the exception** in this table. The authors explicitly treat it as the case where more compute is the main answer, unlike transformer decode.
+	- The bottom half of the table is essentially a ranking of where money can go if the industry wants to improve decode economics **without relying on more compute alone**:
+		- **High Bandwidth Flash (HBF)** attacks capacity first
+		- **Near Memory Compute** and **3D compute-logic stacking** attack bandwidth first
+		- **Low-latency interconnect** attacks hop cost directly
+
+- ## Why the interconnect column matters
+	- The table makes a subtle but important point: interconnect latency is often a **second-order bottleneck caused by memory limits**.
+	- If a model or KV cache no longer fits within fewer accelerators, the system expands across more chips and racks. That raises hop count, which turns a memory-capacity problem into an interconnect-latency problem.
+	- The reverse is also true: if HBF, near-memory compute, or 3D stacking lets the same inference workload run on fewer accelerators, the system shrinks and hop count falls. That means some "memory" solutions are also hidden interconnect solutions.
+
 - ## Key data points worth carrying into semi work
 	- **Performance and cost trends**
 	
@@ -40,22 +72,49 @@
 	  | DDR economics | DDR4 normalized capacity cost fell to **0.54x** and bandwidth cost fell to **0.45x** from 2022 to 2025 | Commodity DRAM keeps getting cheaper, widening the economic gap vs HBM |
 	  | DRAM density scaling | A **4x** gain from 8Gb DRAM dies introduced in 2014 will take **more than 10 years** vs historical **3-6 years** for prior 4x gains | Reinforces that memory scaling is slowing structurally |
 	- **HBF vs incumbent memory tiers**
-	
-	  | Memory type | Capacity | Bandwidth | Power | Read latency | Notes |
-	  |---|---:|---:|---:|---|---|
-	  | **1 HBF stack** | **512 GB** | **1,638 GB/s** read | **<80W** | **1,000s of ns** | Low write endurance; much higher capacity than HBM |
-	  | **1 HBM4 stack** | **48 GB** | **1,638 GB/s** | **40W** | **10-100 ns** | Much lower capacity, but far better latency/endurance |
-	  | **1 DDR5-6400 64GB module** | **64 GB** | **51 GB/s** | **12W** | **10-100 ns** | Cheap and standard, but far lower bandwidth |
-	  | **1 flash card** | **4,096 GB** | **4 GB/s** read | **50W** | **10,000s of ns** | Huge capacity, but nowhere near accelerator-grade bandwidth |
-	- **Read-through**: HBF is presented as roughly **10x the capacity of HBM at similar bandwidth**, but with materially worse latency and endurance, so it is a **bridge tier**, not a replacement.
+
+	  | Memory type | Capacity (GB) | Bandwidth (GB/s) | Power (W) | GB/s per W | GB per W | Read latency (ns) | Bytes per read | Write endurance |
+	  |---|---:|---:|---:|---:|---:|---|---:|---|
+	  | **1 HBF stack** | **512** | **1,638 (read)** | **<80** | **>20.5** | **>6.4** | **1,000s** | **4,096** | **low** |
+	  | **1 HBM4-6400 stack** | **48** | **1,638** | **40** | **41** | **1** | **10-100** | **32** | **high** |
+	  | **1 DDR5-6400 64GB module** | **64** | **51** | **12** | **4** | **5** | **10-100** | **64** | **high** |
+	  | **1 LPDDR5-6400 16GB module** | **16** | **51** | **3** | **17** | **5** | **10-100** | **64** | **high** |
+	  | **1 flash card** | **4,096** | **4 (read)** | **50** | **0.1** | **82** | **10,000s** | **4,096** | **low** |
+	- **Read-through**:
+		- HBF is presented as roughly **10x the capacity of HBM at similar bandwidth**, which is why the paper treats it as a serious answer to decode-phase capacity pressure.
+		- HBM still wins clearly on **latency, bandwidth per watt, and endurance**.
+		- DDR and LPDDR remain much cheaper and lower-latency than HBF, but their bandwidth is nowhere close to accelerator-class memory needs.
+		- Flash cards win overwhelmingly on raw capacity, but miss by orders of magnitude on latency and by hundreds of times on bandwidth.
+	- **Why the authors think HBF is attractive**:
+		- It combines near-HBM bandwidth with flash-like capacity by stacking flash dies in an HBM-style form factor.
+		- The paper's economic claim is that this can deliver **10x memory capacity per node**, which reduces total system size, power, TCO, CO2e, and network overhead.
+		- It also gives HBF a better long-term scaling story than DRAM because flash capacity is still described as doubling roughly every **three years**, while DRAM density growth is decelerating.
+	- **Why HBF cannot replace all HBM**:
+		- **Limited write endurance** means HBF is best for infrequently updated data such as model weights or slow-changing context, not constantly rewritten working memory.
+		- **Page-based reads with high latency** mean flash reads happen at larger granularity and materially worse latency than DRAM. Small reads reduce effective bandwidth in practice.
+		- The system implication is that HBF is a **bridge tier**: it expands capacity dramatically, but normal DRAM / HBM is still required for latency-sensitive and write-heavy data.
+	- **The paper's HBF use-case framing**:
+		- **10x weight memory**: HBF can hold much larger frozen model weights during inference, which is especially relevant for very large MoE-style models.
+		- **10x context memory**: HBF is not appropriate for per-token KV-cache writes, but it can hold slow-changing context stores such as web corpora, code corpora, or paper databases used for search, coding, and tutoring.
+		- **Smaller inference systems**: higher capacity per node can shrink the number of accelerators required to host a model, which helps communication overhead, reliability, and resource allocation.
+		- **Greater resource capacity**: HBF reduces dependence on pure HBM-only architectures and could alleviate some pressure on the global supply of mainstream memory devices.
 	- **PNM vs PIM matters commercially**
-	
-	  | Dimension | PIM | PNM | Investment read-through |
+
+	  | Dimension | PIM | PNM | Winner |
 	  |---|---|---|---|
-	  | Bandwidth-per-watt | **5x-10x** of standard | **2x-5x** of standard | PIM wins on raw efficiency |
-	  | Memory pricing | Loses commodity-memory economics | Preserves commodity-memory economics | PNM is more commercially scalable |
-	  | Process optimization | Logic constrained by memory process | Separate logic and memory process nodes | PNM is easier to optimize and iterate |
-	  | Software sharding | Often **32-64 MB** bank-sized shards | **16-32 GB** shards | PNM is far easier to program for datacenter LLMs |
+	  | Examples | Samsung HBM-PIM; SK Hynix GDDR-PIM; UPMEM logic die on DIMM | Compute on HBM base die; AMD DRAM-logic 3D stacking; Marvell Structera CXL-PNM | — |
+	  | Data movement power | Very low (on-chip) | Low (off-chip but nearby) | PIM |
+	  | Bandwidth (per watt) | Very high (**5x-10x** of standard) | High (**2x-5x** of standard) | PIM |
+	  | Memory-logic coupling | Memory and logic on one die | Memory and logic on separate dies | PNM |
+	  | Logic PPA (performance, power, area) | Slower and higher-power logic if built in a DRAM process | Logic in a logic process helps performance, power, and area | PNM |
+	  | Memory density | Worse since shared with logic | Not affected | PNM |
+	  | Commodity memory pricing (per GB) | No. Lower volume, fewer suppliers, lower density vs memory without logic | Yes. Not affected | PNM |
+	  | Power / thermal budget | Logic has tight power and thermal budget on a memory die | Logic is less constrained by power and thermal limits | PNM |
+	  | Software sharding | Bank parallelism needs sharding workloads to banks (e.g. **32-64 MB**) | Less restrictive on sharding (e.g. **16-32 GB**); no need to shard to memory banks | PNM |
+	- **Read-through**:
+		- PIM wins on **raw efficiency** because data movement stays on-chip and bandwidth per watt is higher.
+		- PNM wins on **commercial scalability** because it preserves commodity memory economics, avoids forcing logic into a DRAM process, keeps memory density intact, and is much easier to program around.
+		- The practical conclusion for datacenter inference is that PNM looks more deployable at scale even if PIM looks better on narrow efficiency benchmarks.
 	- **3D memory-logic stacking**
 	
 	  | Claim | Data point | Why it matters |
