@@ -35,54 +35,6 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	  | Optimistic | 325M (range 250–400M) | ≈\$30B (2% of DAUs pay, +20% spend) | ≈\$7.5B (25% FCF margin) | DAU scale comparable to Snapchat/Spotify/Netflix |
 	- **FCF benchmark**: Management targets **>25% of bookings → FCF** long-term. 2020 FCF was \$411M = 21.8% of bookings.
 	- ---
-- ## Durable and Unfair Competitive Advantages
-	- > Moats are time-bound — a bridge to the next defensible position.
-	  
-	  | Competitive advantage | Detail |
-	  |---|---|
-	  | Brand among kids & teens | 64% of UK 8–12-year-olds play Roblox; the default social-gaming platform for a generation |
-	  | Two-sided UGC network | Dual distribution channels — players + developers; the player channel resembles Netflix's, able to turn an unknown game into a viral hit |
-	  | Owned infrastructure | 150,000+ servers across 25 data centers; "less than a penny an hour" to run; a "mini Azure/AWS for Roblox gaming" — a structural cost advantage |
-	  | Demographic refresh | ≈140M new gamers born per year "age into" Roblox; a self-renewing top-of-funnel |
-	  | Developer economy | A creator ecosystem (100+ devs earning >\$1M/yr) that competitors can't replicate quickly |
-	- ---
-- ## Key Value Drivers
-	- > Metrics to monitor for the thesis to play out.
-	  
-	  | Driver | What to watch |
-	  |---|---|
-	  | DAU toward 200M+ | "Connect 1 billion people"; age-up + international + all-device expansion |
-	  | 18+ cohort growth & monetization | +50% YoY, monetizes 50% higher — the age-up thesis in one metric |
-	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
-	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events — the second revenue leg |
-	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
-	  | Mobile-commission / distribution-cost mitigation | Two levers vs. the ~30% app-store tax: (1) regulators forcing Apple/Google to open distribution (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023); (2) Roblox's own push — Differential Robux Pricing to avoid payment fees (2025Q1) and a deliberate shift to **first-party distribution channels** (tangible progress in 2025Q4). A multi-quarter, self-help margin tailwind, not just a regulatory wait |
-	  | Infra cost per hour | \$10.5/1000 hours in 2026Q1 (down from ≈\$14 in 2022–23, ≈25% improvement) — confirming the "less than a penny" structural cost advantage |
-	  | Payer conversion (MUP/MAU) | **9% in 2026Q1**, up from 4% in 2024; MUP +52% YoY to 30.7M; DUP 1.8M — gap to Fortnite (≈15%) narrowing fast |
-	- ---
-- ## Secular Trends as Tailwinds
-  
-  | Trend | Detail |
-  |---|---|
-  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games." Gaming platforms are the #2 most-used category among Gen Alpha (54%), behind only YouTube and ahead of all social media — see Appendix: Gen Alpha platform usage |
-  | Digital-native generations | Newer generations spend more of life in the digital world |
-  | Demographic inflow | ≈140M new gamers born per year; ≈140M age into Roblox per year |
-  | Aging user base | Average user age rising (Piper Sandler: avg teen age 15.8; Roblox active usage 46%, up from 34%) — kids keep using it as they age |
-	- ---
-- ## Innovative Culture
-	- Roblox encourages **systems-level thinking** over one-off feature development; mantras "Take the Long View" and "Take Responsibility."
-	- Heavy R&D culture: in-house world models, 400+ AI models, training NPCs on 13B hours of 3D world data; "Roblox Reality" (hyperscale multiplayer + photorealism + human-like NPCs).
-	- **AI capability ramp (8-quarter trend)**: a steady escalation from moderation → discovery → generative worlds — AI-driven moderation (2024Q1) → open-sourced voice-safety model, 20k+ downloads (2024Q4) → 300+ ML models + in-experience LLM text API (2025Q1) → game foundation models + GPUs deployed in own data centers (2025Q3) → 400+ models, in-house world model, NPCs on 13B hrs of 3D data (2025Q4) → Roblox Reality / Video World Models (2026Q1). Each quarter compounds the platform's AI surface area — a consistent, accelerating R&D commitment.
-	- Positive-culture signals: weekly town halls, monthly CEO AMAs (David Baszucki), open lunches with leadership, Roblox Week, no-meeting days / core hours.
-	- ---
-- ## Vibe Checks
-	- **What do you like most?**
-		- A genuinely under-monetized network with massive engagement and a self-renewing young user base — plus owned infra giving a real cost edge. The age-up + ads optionality is large and not in the base.
-	- **What do you hate most?**
-		- Content-quality complaints: "everything popular is low-effort stuff designed to keep kids clicking"; "terrible UX… jumps from game to game." Discovery is "entirely primitive," and developers want audience control Roblox doesn't yet give them.
-	- **How popular is the product or service?**
-		- Extremely sticky for kids (64% of UK 8–12s); advertisers keep returning (Chipotle's free-burrito event crashed the platform; SunSilk hit 32M visits).
-	- ---
 - ## Competition Landscape
   
   | Competitor | Advantage vs. Roblox | Assessment |
@@ -133,6 +85,54 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 		- Steam = **App Store for PC games**
 		- PlayStation / Switch = **console app stores**
 		- Minecraft = a **modding ecosystem**, not a unified game platform
+	- ---
+- ## Durable and Unfair Competitive Advantages
+	- > Moats are time-bound — a bridge to the next defensible position.
+	  
+	  | Competitive advantage | Detail |
+	  |---|---|
+	  | Brand among kids & teens | 64% of UK 8–12-year-olds play Roblox; the default social-gaming platform for a generation |
+	  | Two-sided UGC network | Dual distribution channels — players + developers; the player channel resembles Netflix's, able to turn an unknown game into a viral hit |
+	  | Owned infrastructure | 150,000+ servers across 25 data centers; "less than a penny an hour" to run; a "mini Azure/AWS for Roblox gaming" — a structural cost advantage |
+	  | Demographic refresh | ≈140M new gamers born per year "age into" Roblox; a self-renewing top-of-funnel |
+	  | Developer economy | A creator ecosystem (100+ devs earning >\$1M/yr) that competitors can't replicate quickly |
+	- ---
+- ## Key Value Drivers
+	- > Metrics to monitor for the thesis to play out.
+	  
+	  | Driver | What to watch |
+	  |---|---|
+	  | DAU toward 200M+ | "Connect 1 billion people"; age-up + international + all-device expansion |
+	  | 18+ cohort growth & monetization | +50% YoY, monetizes 50% higher — the age-up thesis in one metric |
+	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
+	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events — the second revenue leg |
+	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
+	  | Mobile-commission / distribution-cost mitigation | Two levers vs. the ~30% app-store tax: (1) regulators forcing Apple/Google to open distribution (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023); (2) Roblox's own push — Differential Robux Pricing to avoid payment fees (2025Q1) and a deliberate shift to **first-party distribution channels** (tangible progress in 2025Q4). A multi-quarter, self-help margin tailwind, not just a regulatory wait |
+	  | Infra cost per hour | \$10.5/1000 hours in 2026Q1 (down from ≈\$14 in 2022–23, ≈25% improvement) — confirming the "less than a penny" structural cost advantage |
+	  | Payer conversion (MUP/MAU) | **9% in 2026Q1**, up from 4% in 2024; MUP +52% YoY to 30.7M; DUP 1.8M — gap to Fortnite (≈15%) narrowing fast |
+	- ---
+- ## Secular Trends as Tailwinds
+  
+  | Trend | Detail |
+  |---|---|
+  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games." Gaming platforms are the #2 most-used category among Gen Alpha (54%), behind only YouTube and ahead of all social media — see Appendix: Gen Alpha platform usage |
+  | Digital-native generations | Newer generations spend more of life in the digital world |
+  | Demographic inflow | ≈140M new gamers born per year; ≈140M age into Roblox per year |
+  | Aging user base | Average user age rising (Piper Sandler: avg teen age 15.8; Roblox active usage 46%, up from 34%) — kids keep using it as they age |
+	- ---
+- ## Innovative Culture
+	- Roblox encourages **systems-level thinking** over one-off feature development; mantras "Take the Long View" and "Take Responsibility."
+	- Heavy R&D culture: in-house world models, 400+ AI models, training NPCs on 13B hours of 3D world data; "Roblox Reality" (hyperscale multiplayer + photorealism + human-like NPCs).
+	- **AI capability ramp (8-quarter trend)**: a steady escalation from moderation → discovery → generative worlds — AI-driven moderation (2024Q1) → open-sourced voice-safety model, 20k+ downloads (2024Q4) → 300+ ML models + in-experience LLM text API (2025Q1) → game foundation models + GPUs deployed in own data centers (2025Q3) → 400+ models, in-house world model, NPCs on 13B hrs of 3D data (2025Q4) → Roblox Reality / Video World Models (2026Q1). Each quarter compounds the platform's AI surface area — a consistent, accelerating R&D commitment.
+	- Positive-culture signals: weekly town halls, monthly CEO AMAs (David Baszucki), open lunches with leadership, Roblox Week, no-meeting days / core hours.
+	- ---
+- ## Vibe Checks
+	- **What do you like most?**
+		- A genuinely under-monetized network with massive engagement and a self-renewing young user base — plus owned infra giving a real cost edge. The age-up + ads optionality is large and not in the base.
+	- **What do you hate most?**
+		- Content-quality complaints: "everything popular is low-effort stuff designed to keep kids clicking"; "terrible UX… jumps from game to game." Discovery is "entirely primitive," and developers want audience control Roblox doesn't yet give them.
+	- **How popular is the product or service?**
+		- Extremely sticky for kids (64% of UK 8–12s); advertisers keep returning (Chipotle's free-burrito event crashed the platform; SunSilk hit 32M visits).
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Profitability / marginal costs** — structural take: ≈24% app-store fees + ≈27% to developers + ≈33% infra & safety = **≈84% of revenue**. The model only works if app-store fees fall and infra leverage improves.
