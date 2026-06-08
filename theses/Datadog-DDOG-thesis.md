@@ -19,6 +19,7 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
 	- **AI writes the code. Observability keeps it alive.** AI coding agents will generate exponentially more code, but writing code is merely the first step. Operational work — monitoring, incident detection, remediation, optimization — becomes the new bottleneck. Observability data (metrics, logs, traces) remains indispensable. AI agents performing DevOps tasks will consume exponentially more data than humans, who inspect only a fraction due to attention limits.
 	- **Datadog sits at the center of the AI agent feedback loop.** On offense: Datadog can build AI agents (Bits AI) on top of its telemetry corpus to autonomously diagnose and remediate issues. On defense: even if customers deploy their own agents, those agents still depend on Datadog's data layer and APIs. In both scenarios, Datadog remains critical infrastructure.
 	- **One-stop shop for the entire software stack.** From infra monitoring (2012) → APM (2017) → logs (2018) → UX (2019) → security (2020–21) → data observability → AI observability (2024–25). Each new product is a land-and-expand lever on an existing agent footprint.
+	- **AI leaders are validating the wedge.** In 2025Q4, a leading AI model company believed to be Anthropic signed an 8-figure deal and consolidated 5+ open-source, commercial, hyperscaler, and in-house observability tools onto Datadog. In 2026Q1, Datadog landed 7-figure and 8-figure annualized deals with the AI research divisions of 2 major hyperscalers, including use in superintelligence labs for workload, training-run, and GPU monitoring. These are higher-quality proof points than generic startup logos because the customers have the technical ability to build or operate alternatives.
 	- **The TAM**: Gartner sized the IT Operations Management market at $37B in 2023. Datadog is expanding beyond that into security (DevSecOps) and business intelligence. Combined addressable market is $50B+.
 	- **First $1B revenue quarter achieved in 2026Q1.** ARR crossed $4B. The company has compounded at ~25-30% revenue growth for several years with room to sustain 20%+ for the foreseeable future given cloud migration, AI tailwinds, and underpenetrated enterprise.
 	- ---
@@ -41,6 +42,7 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
   |--------|-------|-----------------|
   | DevOps vendor consolidation | 35% of CIOs expect consolidation in next 3 years (2024Q4 survey) | Win rate in consolidation deals; $100K+ customer count |
   | AI integration expansion | AI-native cohort is 8.5% of Q1 2025 ARR vs. 3.5% a year earlier; contributed 6 ppts of YoY growth | AI-native ARR %; cohort >$1M count (22 as of 2026Q1) |
+  | AI lab standardization | 2025Q4 Anthropic-like AI model company consolidated 5+ observability tools into Datadog; 2026Q1 hyperscaler AI research divisions signed 7-/8-figure annualized deals despite strong homegrown stacks | AI lab ARR; hyperscaler AI lab deal count; consolidation references |
   | Security product attach | 7,500+ security customers (1 in 4 of total base); 8,500 by 2025Q4 with 1-in-4 Fortune 500 | Security ARR growth (55% YoY in 2025Q3); % of total ARR |
   | Enterprise up-market | 48% of Fortune 500 as of 2025Q4 (up from 37% in 2022); median ARR still <$500K — enormous headroom | Fortune 500 %; $1M+ customers |
   | New product monetization | Flex Logs >$50M ARR; Database Monitoring approaching $50M ARR and growing 60% YoY | New product ARR |
@@ -108,6 +110,7 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
 	- **Network data moat**: Datadog's Toto forecasting model trained on its proprietary time-series corpus. The telemetry corpus — billions of metrics, logs, and traces across thousands of customers — is a training data moat for AI-native features.
 	- **Usage-based model that grows with customers**: 75-80% of business in take-or-pay subscriptions; only ~5% pure month-to-month consumption. Revenue is sticky with a floor, and expands as cloud usage grows.
 	- **Product R&D flywheel**: R&D/S&M ratio is ~1.5x in Datadog's favor vs. peers. Each product launch on the existing agent base requires zero incremental distribution cost.
+	- **Wins even against in-house tooling cultures**: The Anthropic-like deal replaced 5+ fragmented tools, and the hyperscaler AI lab wins came from customers with deep homegrown observability capacity. This reduces the risk that Datadog is only a convenience layer for less technical customers.
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Hyperscaler commoditization**: AWS/Azure/GCP continuously improve native monitoring tools. If they reach 80% of Datadog's feature set at near-zero marginal cost, mid-market customers defect.
@@ -129,6 +132,9 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
   | Capital allocation | Heavy R&D investment (1.5x R&D vs. S&M); acquisitions tightly integrated | Disciplined; not acquisitive for growth |
 	- ---
 - ## Anecdotes & Opinions
+	- ### Recent AI Customer Proof Points
+		- In 2026Q1, Datadog landed 7-figure and 8-figure annualized deals with AI research divisions of 2 major hyperscalers for superintelligence lab workload, training-run, and GPU monitoring. This is bullish because hyperscalers have deep homegrown tooling cultures, so adoption in these labs validates Datadog with some of the hardest-to-win customers.
+		- In 2025Q4, a leading AI model company believed to be Anthropic signed an 8-figure deal and consolidated 5+ open-source, commercial, hyperscaler, and in-house observability tools onto Datadog. This is bullish because AI model labs may standardize on Datadog when fragmented monitoring hurts productivity.
   
   | Date | Source | Anecdote / Opinion | Signal |
   |------|--------|--------------------|--------|
