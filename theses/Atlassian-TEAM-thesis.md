@@ -8,9 +8,9 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
   ---
 - ## References
 
-	| Date | Source | URL | Notes |
-	|------|--------|-----|-------|
-	|      |        |     |       |
+	| | |
+	|---|---|
+	| | |
 
   ---
 - ## Main Narrative

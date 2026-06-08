@@ -10,9 +10,9 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
   ---
 - ## References
 
-	| Date | Source | URL | Notes |
-	|------|--------|-----|-------|
-	|      |        |     |       |
+	| | |
+	|---|---|
+	| | |
 
   ---
 - ## Main Narrative

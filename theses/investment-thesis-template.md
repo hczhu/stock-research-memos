@@ -7,11 +7,11 @@ tags:: [[TICKER]], [[sector]]
   
   ---
 - ## References
-	- > Key source material — earnings calls, filings, research reports, articles, podcasts. Add a row each time you rely on a source so the thesis is auditable.
+	- > Key source material — earnings calls, filings, research reports, articles, podcasts. Each cell is a descriptive hyperlink `[label](url)`. Two links per row.
 	-
-	- | Date | Source | URL | Notes |
-	  |------|--------|-----|-------|
-	  |      |        |     |       |
+	- | | |
+	  |---|---|
+	  | | |
 	  
 	  ---
 - ## Main Narrative
