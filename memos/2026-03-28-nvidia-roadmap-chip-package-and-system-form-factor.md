@@ -38,3 +38,32 @@ Columns represent accelerator/platform variants shown for Hopper, Blackwell, and
 Notes from screenshot footnote (paraphrased):
 - Hopper does not support FP4; values are downcast from other formats for comparison.
 - With Transformer Engine, Rubin can reach higher effective sparse-inference performance per GPU.
+
+## Rack Capex Breakdown by Architecture
+
+Source: Expert Conversations, Company Disclosures, Literature Search, Channel Checks, Bernstein estimates and analysis
+Note: H100 Hopper reference architecture is at the server level (not rack level), so per-component networking/infrastructure breakdowns are not available (shown as —). All values in $K per rack.
+
+| Component | H100 DGX x8 | GB200 NVL 72 | VR NVL 72 |
+|---|---:|---:|---:|
+| CPU ex. DRAM | 34 | 92 | 180 |
+| DRAM | 238 | 252 | 802 |
+| **CPU** | **271** | **345** | **982** |
+| GPU ex. HBM | 1,454 | 2,112 | 3,960 |
+| HBM | 65 | 185 | 1,093 |
+| **GPU** | **1,519** | **2,297** | **5,053** |
+| **Computing sub-total** | **1,790** | **2,642** | **6,035** |
+| NVLink Switch | — | 184 | 253 |
+| Cabling | — | 123 | 238 |
+| Backplanes & Other | — | 102 | 380 |
+| **Scale-up** | **112** | **287** | **871** |
+| SpectrumX Switch | — | 188 | 198 |
+| Ethernet Fabric | — | 154 | 198 |
+| **Scale-out** | **22** | **341** | **396** |
+| **Networking sub-total** | **134** | **628** | **1,267** |
+| Direct-attached Storage | 102 | 832 | 1,282 |
+| Cooling | — | 51 | 158 |
+| Chassis | — | 100 | 100 |
+| Power Delivery | — | 44 | 150 |
+| Others | — | — | 100 |
+| **Rack Total** | **2,026** | **4,296** | **9,093** |

@@ -79,3 +79,4 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
 - When searching for context before answering investment questions, `grep` across `memos/` by ticker, company name, or topic keyword.
 - When data-point density is relatively high in a paragraph, use a Markdown table instead of dense prose.
+- Exception: do not use tables in `Anecdotes & Opinions` sections. Use one short paragraph per anecdote/opinion, and use quoted text blocks for literal words from sources.
