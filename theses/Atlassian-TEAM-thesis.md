@@ -3,7 +3,7 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 - **Company**: Atlassian Corporation (TEAM)
 - **Date**: 2026-06-05
 - **Market cap at writing**: ~\$26B
-- **Position**: long (1,620 shares)
+- **Position**: long
   
   ---
 - ## Main Narrative
@@ -27,6 +27,17 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 	  | Bull | \$12B | 33% | \$14.7 | 30x | ~22% |
 	- At \$156 (VIC writeup price), base case yields 18-26% IRR. At current ~\$99, entry is materially more attractive.
 	- **FCF per share** assumes ~1% annual dilution (vs. historical 1-2%); founders paused selling plans in FY2026Q2.
+	- ---
+- ## Competition Landscape
+  
+  | Competitor | Threat level | Key advantage | Assessment |
+  |---|---|---|---|
+  | Microsoft (Azure DevOps + Teams + SharePoint + Copilot) | High | Bundled at near-zero marginal cost in M365; GitHub dominates DevOps | The existential bundler threat; MSFT is in every enterprise already |
+  | ServiceNow (ITSM) | Medium | Larger enterprise customers, deeper ITSM features, stronger sales motion | Atlassian and NOW are converging in enterprise; Atlassian is cheaper and more developer-friendly |
+  | Linear | Low-Medium | Superior UX, keyboard-first, AI-friendly schema, developer-loved | Real threat at dev teams (Coinbase, Oscar Health migrations) but limited to SMB/mid-market; no Confluence/JSM equivalent |
+  | Glean | Medium | Enterprise AI search first-mover; Tamar Yehoshua came from Glean | Direct Rovo competitor in search; Atlassian's Teamwork Graph has more data on existing customers |
+  | GitLab (DevOps) | Low-Medium | End-to-end DevOps platform, Bitbucket competition | Bitbucket is weak; GitHub/GitLab dominate code hosting |
+  | Notion / Coda | Low | Modern UX, all-in-one | Replaces Confluence at SMB; can't match Atlassian's workflow integrations at enterprise scale |
 	- ---
 - ## Durable and Unfair Competitive Advantages
   
@@ -83,17 +94,6 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 		- SBC is 23-26% of revenue — at 96% of FCF over the last 12 months, the free cash flow narrative is partially illusory. Jira's UX complexity is a real product liability: "fractal shit snowflakes" of configuration, Coinbase and Oscar Health partially migrating to Linear, Stack Overflow tracking decline from 55% → 47% usage in 2025. The \$1B+ Browser Company and DX acquisitions are head-scratchers.
 	- **How popular is the product or service?**
 		- Jira is #1 collaboration tool per Stack Overflow 2022-2024 surveys; 85% of Fortune 500 are customers. Hate is fashionable but rarely terminal — most users find it "fine" when properly configured. JSM wins competitive displacements from ServiceNow. But Rovo AI reviews are poor: "glorified search," virtual service agent "just kicks users to a form."
-	- ---
-- ## Competition Landscape
-  
-  | Competitor | Threat level | Key advantage | Assessment |
-  |---|---|---|---|
-  | Microsoft (Azure DevOps + Teams + SharePoint + Copilot) | High | Bundled at near-zero marginal cost in M365; GitHub dominates DevOps | The existential bundler threat; MSFT is in every enterprise already |
-  | ServiceNow (ITSM) | Medium | Larger enterprise customers, deeper ITSM features, stronger sales motion | Atlassian and NOW are converging in enterprise; Atlassian is cheaper and more developer-friendly |
-  | Linear | Low-Medium | Superior UX, keyboard-first, AI-friendly schema, developer-loved | Real threat at dev teams (Coinbase, Oscar Health migrations) but limited to SMB/mid-market; no Confluence/JSM equivalent |
-  | Glean | Medium | Enterprise AI search first-mover; Tamar Yehoshua came from Glean | Direct Rovo competitor in search; Atlassian's Teamwork Graph has more data on existing customers |
-  | GitLab (DevOps) | Low-Medium | End-to-end DevOps platform, Bitbucket competition | Bitbucket is weak; GitHub/GitLab dominate code hosting |
-  | Notion / Coda | Low | Modern UX, all-in-one | Replaces Confluence at SMB; can't match Atlassian's workflow integrations at enterprise scale |
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- 1. **Microsoft bundles "good enough" substitutes** into M365 at near-zero marginal cost, slowing Cloud seat expansion and compressing Marketplace take-rates. Azure DevOps + GitHub Issues + SharePoint + Copilot = the Jira + Confluence + JSM bundle, free.
