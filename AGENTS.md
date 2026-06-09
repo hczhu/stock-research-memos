@@ -80,3 +80,5 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 - When searching for context before answering investment questions, `grep` across `memos/` by ticker, company name, or topic keyword.
 - When data-point density is relatively high in a paragraph, use a Markdown table instead of dense prose.
 - Exception: do not use tables in `Anecdotes & Opinions` sections. Use one short paragraph per anecdote/opinion, and use quoted text blocks for literal words from sources.
+- In `earnings/` files, do **not** repeat superficial financial recaps. Avoid headline financial numbers, guidance numbers, and other easily recoverable quarterly boilerplate unless a specific number is itself the insight.
+- Earnings notes should emphasize what changed strategically: customer wins, product direction, go-to-market changes, margin-structure explanations, management tone, competitive read-throughs, and unusual operating signals.
