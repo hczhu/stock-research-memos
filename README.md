@@ -9,7 +9,7 @@ Personal investment research repository. Raw notes, data extractions, earnings s
 ```
 stock-research/
 ├── memos/          # Dated research notes (130+ files)
-├── earnings/       # Earnings call notes by company-quarter
+├── earnings/       # Earnings call notes grouped by ticker
 ├── theses/         # Long-form investment theses and templates
 ├── data/           # Structured quantitative data (CSV)
 ├── investing-wisdom.md
@@ -37,11 +37,11 @@ Every memo opens with a `tags::` line using `[[WikiLink]]` syntax, which Logseq 
 
 ### `earnings/`
 
-Earnings call notes, one file per company-quarter.
+Earnings call notes, grouped by ticker with one file per company-quarter.
 
-**Naming convention:** `CompanyName-YYYY-QN.md`
+**Naming convention:** `earnings/<Ticker>/<Ticker>-YYYY-QN.md`
 
-Example: `MediaTek-2026-Q1.md`
+Example: `earnings/MediaTek/MediaTek-2026-Q1.md`
 
 ### `theses/`
 
