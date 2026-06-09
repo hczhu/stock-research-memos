@@ -12,7 +12,7 @@ Plain-text research memo repository for personal stock investing. No build syste
 |-----------|---------|
 | `memos/` | Research notes — earnings summaries, podcast/report extractions, investment analysis |
 | `data/` | CSV files with structured quantitative data (e.g. cost shares, pricing tables by quarter) |
-| `earnings/` | Earnings call notes, one file per company-quarter (e.g. `MediaTek-2026-Q1.md`) |
+| `earnings/` | Earnings call notes grouped by ticker, one file per company-quarter (e.g. `earnings/MediaTek/MediaTek-2026-Q1.md`) |
 | `theses/` | Long-form investment theses and thesis templates |
 
 ## Before Creating a New Memo
@@ -35,6 +35,14 @@ memos/YYYY-MM-DD-kebab-case-description.md
 ```
 
 Use the date the memo is created or the date of the source material, whichever is more meaningful.
+
+Earnings notes live under ticker-specific subdirectories:
+
+```markdown
+earnings/<Ticker>/<Ticker>-YYYY-QN.md
+```
+
+Example: `earnings/SNOW/SNOW-2026-Q1.md`.
 
 ## Memo Format
 
