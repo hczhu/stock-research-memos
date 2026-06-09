@@ -7,9 +7,15 @@ tags:: [[Cloudflare]], [[NET]], [[SaaS]], [[networking]], [[security]], [[CDN]],
   ---
 - ## References
   
-  | Source | Notes |
+  |  |  |
   |---|---|
-  | `Cloudflare $NET - Investment thesis.pdf` | User-provided thesis PDF synthesizing Cloudflare filings, earnings calls, customer anecdotes, and industry research |
+  | [Cloudflare numbers](https://ir.cloudflare.com/) | [Founder CEO’s Hackernews comments](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Matthew%20Prince%20Cloudflare&sort=byDate&type=comment) |
+  | [Patents](https://patents.google.com/?assignee=Cloudflare) | [The Verge interview in 2024/04](https://www.theverge.com/search?q=Cloudflare%20Matthew%20Prince%20April%202024) |
+  | [PDFs from .gov sites](https://www.sec.gov/edgar/browse/?CIK=1477333&owner=exclude) | [Fedramp Cloudflare](https://marketplace.fedramp.gov/products?sort=productName&order=asc&search=Cloudflare) |
+  | [Muji piece](https://www.google.com/search?q=MUJI+Cloudflare) | [SaaS data benchmarks](https://www.saas-capital.com/saas-metrics-benchmarks/) |
+  | [Protocol Cloudflare](https://www.protocol.com/search?q=Cloudflare) | [Cloudflare community](https://community.cloudflare.com/) |
+  | [Cloudflare Sub-reddit](https://www.reddit.com/r/CloudFlare/) | [Websites on RP](https://w3techs.com/technologies/overview/reverse_proxy) |
+  | [Websites with domain names on Cloudflare DNS](https://w3techs.com/technologies/details/ns-cloudflare) | [Reverse Proxy market shares](https://w3techs.com/technologies/history_overview/reverse_proxy) |
   
   ---
 - ## Main Narrative
