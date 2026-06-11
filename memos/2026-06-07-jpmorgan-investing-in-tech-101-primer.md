@@ -5,11 +5,11 @@
 	- **Big picture**: IT is the **largest sector in the S&P 500 at 39%** of the index; **45+% of MSCI Asia-ex-Japan** (heavy TW/KR weighting). Made of 3 subsectors. **GenAI is the current disruption driver — shifting value toward semiconductors from software vendors** at this stage of the cycle.
 
 - ## The Three IT Subsectors (% = S&P 500 weight)
-	| Subsector | Weight | Character | Key names |
+	| Subsector | S&P 500 weight | Character | Key names |
 	|---|---|---|---|
-	| **Semiconductors** | **19%** | Foundational layer (every device runs on chips); demand indexed to hottest product (AI servers now); cyclical, capital-heavy; geopolitically sensitive (US-China) | NVIDIA, TSMC, ASML, Intel, Broadcom, AMD, SK Hynix |
-	| **Hardware & Equipment** | **10%** | Physical devices, PCs, phones, servers, networking; less capital-intensive (brand/channel/mfg efficiency); **products commoditize, margins compress**; growth tied to device upgrade cycles | Apple, Cisco, Dell, Hon Hai, Xiaomi |
-	| **Software & Services** | **8%** | OS, enterprise apps, cloud, IT services; **asset-light, high gross margin, recurring SaaS**; historically valued highly for earnings predictability; **now under GenAI disruption concerns** | Microsoft, Oracle, SAP, Palantir, ServiceNow, TCS |
+	| **Semiconductors** | **19% of index** | Foundational layer (every device runs on chips); demand indexed to hottest product (AI servers now); cyclical, capital-heavy; geopolitically sensitive (US-China) | NVIDIA, TSMC, ASML, Intel, Broadcom, AMD, SK Hynix |
+	| **Hardware & Equipment** | **10% of index** | Physical devices, PCs, phones, servers, networking; less capital-intensive (brand/channel/mfg efficiency); **products commoditize, margins compress**; growth tied to device upgrade cycles | Apple, Cisco, Dell, Hon Hai, Xiaomi |
+	| **Software & Services** | **8% of index** | OS, enterprise apps, cloud, IT services; **asset-light, high gross margin, recurring SaaS**; historically valued highly for earnings predictability; **now under GenAI disruption concerns** | Microsoft, Oracle, SAP, Palantir, ServiceNow, TCS |
 	- Supply chain: **Upstream semis** (raw materials → SPE vendors / foundries → OSAT / chip designers / memory) → **Downstream hardware** (components → EMS/ODM → system makers/OEM → channel → end demand), with **software** (application + infra/system) feeding end demand.
 
 - ## Semiconductor Market — Size & Top Players
