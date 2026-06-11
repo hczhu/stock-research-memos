@@ -71,6 +71,18 @@
 	| First-party model-lab apps become category leaders | Labs prove they can capture application-layer value. |
 	| Inference remains structurally supply-constrained | Scarcity can support pricing for longer. |
 
+- ## Model Access Tiers (counterpoint — tiering as a moat)
+	- **Source**: user-provided commentary excerpt on AI access tiers (named in source: **Fable** = the frontier model now limited to usage credits; **Mythos** = Anthropic's full internal model; **Siri AI** = Apple's on-device intelligence announced at WWDC).
+	- **Argument**: the debate over capping Fable to usage credits framed the market as **two tiers** (subsidized vs paid), but there are really **five** — and the top one is the labs' own internal model, which is the structural counter to the commodity/bear case. **The extent to which internal access pays off is the extent to which the lab pulls ahead — and can then act "imperiously" (e.g. on data retention).**
+	| Tier | What it provides | Provider / example | Read-through |
+	| --- | --- | --- | --- |
+	| 1 — On-device baseline (free) | Chatbot with personal context; competitive with the AI labs' free offerings | Apple Siri AI (WWDC) on-device intelligence | Anchors a "good-enough" free floor; commoditizes basic chat |
+	| 2 — Cheaper paid plans | Better models, more image generation, higher limits | AI-lab low-cost consumer plans | Modest upsell; thin differentiation vs the free floor |
+	| 3 — Serious subscriptions | Top consumer / prosumer subscription tiers | Pro / Max-style plans | Where consumer monetization concentrates (see [[2026-06-11-ai-subscription-margin-by-utilization]]) |
+	| 4 — API usage (metered) | Pay-for-usage access to the frontier model | Fable, limited to usage credits | Heavy / enterprise demand; metering protects margin and pushes smart routing |
+	| 5 — Lab-internal frontier | Full internal model, not sold externally; openly credited with accelerating the lab's own R&D | Anthropic internal devs → full Mythos model | The decisive moat: internal access compounds the capability lead → pricing power and leverage to dictate terms |
+	- **Why it matters for the pricing-power debate**: this is a concrete version of the "[[#What Would Weaken The Bear Case]]" signal — *one model family becomes clearly superior*. If a lab's internal frontier model (Mythos) measurably speeds its own development, the lead **self-reinforces**, undercutting the assumption of `3-6` roughly-equivalent providers converging to marginal-cost pricing. The same dynamic also explains the move to **usage credits / metered API** (tier 4) and the rise of **smart-routing** to use the expensive frontier model only when necessary.
+
 - ## Memo Takeaway
 	- The argument is not that foundation models are unimportant.
 	- The argument is that importance and pricing power are different things.
