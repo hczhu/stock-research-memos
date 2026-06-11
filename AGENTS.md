@@ -87,6 +87,7 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
 - When searching for context before answering investment questions, `grep` across `memos/` by ticker, company name, or topic keyword.
 - When data-point density is relatively high in a paragraph, use a Markdown table instead of dense prose.
+- Avoid narrow table columns — every column should render at least as wide as a typical word so headers and values do not wrap mid-word (e.g. `Weight` breaking into `Wei`/`ght`, or `19%` into `19`/`%`). When a column's values are very short (a bare number, percentage, or ticker), widen them into a short phrase (e.g. `19% of index` instead of `19%`) or fold the data into an adjacent column rather than leaving a sub-word-width column.
 - Exception: do not use tables in `Anecdotes & Opinions` sections. Use one short paragraph per anecdote/opinion, and use quoted text blocks for literal words from sources.
 - In `earnings/` files, do **not** repeat superficial financial recaps. Avoid headline financial numbers, guidance numbers, and other easily recoverable quarterly boilerplate unless a specific number is itself the insight.
 - Earnings notes should emphasize what changed strategically: customer wins, product direction, go-to-market changes, margin-structure explanations, management tone, competitive read-throughs, and unusual operating signals.
