@@ -61,6 +61,19 @@ xychart-beta
 	- [[$AMZN]] plus [[$MSFT]] alone imply roughly `US$390B` of `2026` capex, which exceeds the full `US$200B` `2026` semiconductor-industry total shown in the semiconductor memo.
 	- Within semiconductors, [[$TSM]], [[$005930.KS]], [[$000660.KS]], and [[$MU]] are the dominant named capex spenders in the source dataset.
 
+- ## 2027 Hyperscaler Capex Outlook — Consensus vs Bull Case
+	- **Source**: user-provided estimate; argues consensus 2027 hyperscaler capex is **too conservative**.
+	- All figures aggregate **total hyperscaler** capex (broader than the Big-4-only ~`US$695-725B` 2026 base in [[2026-04-29-us-big-4-tech-capex-projections-2026]]).
+
+	| Scenario | 2027 hyperscaler capex | YoY growth | Basis |
+	|---|---:|---:|---|
+	| Consensus (analyst estimates) | **~$920B** | **+22%** | Implies a sharp deceleration from **+84% in 2026** |
+	| Bull case (this estimate) | **~$1.1T** | **+45%** | Incremental investment reaching **2-3% of GDP**, similar to the railroad and auto build-outs |
+
+	- **Implied 2026 base ≈ $754-759B** (consistent across both scenarios: $920B ÷ 1.22 ≈ $754B; $1.1T ÷ 1.45 ≈ $759B), itself up ~84% on 2025 (~$410B).
+	- **The debate is the growth rate, not the level**: consensus has 2027 growth collapsing to +22% right after a +84% 2026; the bull case says a GDP-anchored build-out keeps growth near +45%, a **~$180B gap** ($1.1T vs $920B) in a single year.
+	- **Read-through**: a +45% vs +22% 2027 outcome is the swing factor under the AI-infra/memory demand theses — the difference between a decelerating and a still-accelerating capex cycle ([[2026-05-24-ai-data-center-buildout-capacity-and-spend-scenario]], [[2026-06-10-morgan-stanley-hyperscaler-capex-accounting-risk]]).
+
 - ## Caveats
 	- The two source memos do not represent the same economic layer: one tracks semiconductor manufacturers, the other tracks cloud / platform operators.
 	- Hyperscaler figures include broader data center and infrastructure spending, not just chip-related capex.
