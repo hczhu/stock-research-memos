@@ -33,6 +33,23 @@
 	- Trajectory: 10 bps → 1% → 2/3/5% → **~15% in 4 years**. "Light switch went off in 2026" in the enterprise.
 	- **Compute is the binding constraint**: Anthropic has **~half the compute it needs** *before* the take-up. Marc Andreessen: "not going to be enough compute" for 4 years.
 
+- ## Ramp AI Index — Spend Per Employee
+	- **Source**: user-provided screenshot from Ramp AI Index, "Spend per employee"; monthly AI spend per employee, July 2023 to early 2026.
+	- **Extracted endpoint data points**
+		| Segment | Monthly AI spend per employee |
+		|---|---:|
+		| Median | **$11.38** |
+		| Top 10% | **$610.61** |
+		| Top 1% | **$7,448.85** |
+	- **Visual trend read**
+		| Segment | Trend |
+		|---|---|
+		| Median | Stayed near zero across the full period, ending at only **$11.38** per employee per month |
+		| Top 10% | Rose gradually, ending at **$610.61** per employee per month |
+		| Top 1% | Inflected sharply through 2025 and early 2026, ending at **$7,448.85** per employee per month |
+	- **Read-through**: this is an S-curve shape inside the buyer base, not broad-based adoption yet. Median companies are still barely spending, but top adopters are already treating AI as a material per-employee operating budget. That supports the Whale Rock framing that real enterprise AI usage is still tiny in penetration but can look vertical once adoption clears the organizational and workflow barriers.
+	- **Investment implication**: the gap between median and top-1% spend is the important signal. If AI usage diffuses from the top 1% to the top 10% and then the median, the demand tailwind for model providers, inference infrastructure, AI observability, gateways, and workflow products can compound without needing a large increase in total employee count.
+
 - ## S-Curve Mechanics (the core IP)
 	- **Inflection = barriers to adoption removed** → "tornado of demand." Each new platform builds on the prior (Internet 1.0 → mobile → cloud → e-commerce → **AI, the biggest**).
 	- **Long flatline before takeoff** (technology exists years before it ignites):
